@@ -1,0 +1,28 @@
+Coordinated Vulnerability Disclosure (CVD)
+Did you find a vulnerability in one of the systems of the Tax Administration, FIOD, or Benefits Office, and do you want to report this? If so, we greatly appreciate it! Please report the findings before sharing it with others. This prevents the information from falling into the wrong hands. Continue reading to see what to watch out for when you make a report and how we process your report.
+What should you keep in mind?
+- Report the vulnerability to us as soon as possible.
+You can send an email to: cvd@belastingdienst.nl (Tax Administration and FIOD), or cvd@toeslagen.nl (Benefits Office). We ask you to only use these email addresses to make a CVD report. If possible, encrypt the findings with our PGP-key (KeyID: 7A6FCC56, Fingerprint: 04C3 BA58 23BF 89E8 5BDD D2A1 0729 1344 7A6F CC56) to prevent information from falling into the wrong hands. - Provide sufficient information about the vulnerability (Proof-of-Concept).
+This will allow us to assess the vulnerability for impact as quickly as possible. - Leave your phone number and email address.
+This allows our Security Operations Centre to contact you. - We do not process scan reports (further) without an (impactful) proof-of-concept.
+Please note!
+We understand that you like to find vulnerabilities and want to share your findings with others. However, we would like to remind you that information from our systems is subject to our fiscal confidentiality. We will determine when and how you can publish about this in collaboration with you.
+What should you not do?
+- install malware
+- copy, change or delete data or configurations from a system
+Tip: make a directory listing (tree) or screenshot. - 'bruteforcing' to gain access to systems
+- place backdoors or create alternative access options
+- use denial-of-service attacks
+- social engineering
+- using leaked login details to gain access to our systems
+- any form of rate limiting, service unavailability, timing abuse, DoS or DDoS attack.
+Unless the attack demonstrates abuse of functionality, data exfiltration, or another form of misuse that goes beyond mere service unavailability.
+What can you expect from us?
+- The Tax Administration's Security Operations Centre deals with your report strictly confidentially. We do not share personal data with third parties without your permission (including within the Tax Administration, FIOD or Benefits Office). However, we always share your data if this is required by law or a court ruling.
+- You will receive confirmation of receipt within 1 working day.
+- You will receive a response to your report within 5 working days. In the response, we will share our (impact) assessment of the report and let you know when we expect to find a solution to the problem.
+- We will keep you informed of the progress. We will solve the problem within a reasonable time.
+- If you wish, we will list you as discoverer of the vulnerability in our Hall of Fame. You may also receive a reward, like a nice letter or even the coveted Tax Administration Trophy.
+This text was compiled as a supplement to National Cyber Security Centre (NCSC) Guideline.
+More information
+Read more about the licence at Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-SA 3.0).

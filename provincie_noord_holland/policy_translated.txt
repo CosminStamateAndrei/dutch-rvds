@@ -1,0 +1,29 @@
+Responsible Disclosure
+The Province of North Holland considers the security of its systems to be of great importance. Despite our efforts to ensure security, a vulnerability may still occur. The province is happy to collaborate with you to protect its systems even better. To take measures as quickly as possible, the province would appreciate it if you would inform us if you discover such a vulnerability in one of our systems.
+
+Conditions for reporting a security issue:
+
+- Email your finding(s) to: informatiebeveiliging@noord-holland.nl.
+
+- Provide sufficient information about the issue so that the province can resolve it as soon as possible. Usually, the IP address or URL (web address) of the system in question and a description of the security issue are sufficient.
+
+- Leave your contact details (at least an email address or phone number) so that the province can contact you to work together towards a secure solution.
+
+- Report the security issue as soon as possible after discovery. Do not share information about the issue with others until it has been resolved.
+
+- Handle knowledge regarding the security issue responsibly. Do not perform any actions that go beyond what is necessary to demonstrate the security issue. What can you expect from the province?
+
+- The province will not attach any legal consequences to your report if you adhere to the above conditions.
+- The province will treat your report confidentially and will not share personal data with third parties without your permission, unless required by law or by virtue of a court ruling.
+- By mutual agreement, the province may, if you wish, mention your name as the discoverer of the reported vulnerability.
+- You will receive an acknowledgment of receipt within 1 working day.
+- Within 3 working days, the province will respond to a report with an assessment of the report and an expected date for a solution.
+- The province will keep you informed of the progress in resolving the problem.
+- The province will resolve the identified security issue as soon as possible, but no later than within 90 days.
+- By mutual agreement, it can be determined whether and, if so, in what manner the resolved problem will be made public.
+
+What does the province do if it identifies vulnerabilities at others? - The province only investigates vulnerabilities in systems managed by third parties (collaboration partners or suppliers) after mutual consultation has taken place. However, the province reserves the right to conduct investigations into vulnerabilities without prior notice.
+
+- The province does not publicize security vulnerabilities in third-party software or systems.
+- The province reports weaknesses identified as soon as possible to the party responsible for the hosting and/or management of the systems and software.
+- Security vulnerabilities or problems identified by the province are reported to the National Cyber ​​Security Center of the Dutch government if the severity of the findings justifies it.

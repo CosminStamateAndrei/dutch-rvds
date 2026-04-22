@@ -1,0 +1,29 @@
+Responsible disclosure van kwetsbaarheden
+Bij TU Delft vinden we de veiligheid van onze systemen erg belangrijk. Ondanks onze zorg voor de beveiliging kan het voorkomen dat er toch een kwetsbaarheid is.
+Als u een kwetsbaarheid in één van onze systemen heeft gevonden, horen wij dit graag zodat we snel maatregelen kunnen treffen en samenwerken om onze systemen beter te beschermen.
+Ons beleid voor responsible disclosure is geen uitnodiging om ons universiteitsnetwerk actief te scannen op zwakke plekken. Wij monitoren ons bedrijfsnetwerk, waardoor de kans groot is dat een scan wordt opgepikt en er onnodige kosten gemaakt worden door onderzoek van onze CERT.
+Wij vragen u:
+- Uw bevindingen zo snel mogelijk te mailen naar abuse@tudelft.nl.
+- De kwetsbaarheid niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of door het veranderen of verwijderen van gegevens.
+- De kwetsbaarheid niet met anderen te delen totdat wij hebben aangegeven dat de kwetsbaarheid is opgelost en gedeeld mag worden.
+- Geen gebruik te maken van aanvallen op fysieke beveiliging of applicaties van derden, van social engineering, distributed denial-of-service, of spam.
+- Voldoende informatie te geven om de kwetsbaarheid te reproduceren zodat wij het zo snel mogelijk kunnen oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid en de uitgevoerde handelingen voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Als u zich aan de onderstaande voorwaarden houdt, zullen wij geen juridische stappen tegen u ondernemen betreffende de melding. Het Openbaar Ministerie behoudt zich echter het recht voor om zelf te beslissen over eventuele strafrechtelijke vervolging.
+Wat wij beloven:
+- Wij reageren binnen 3 werkdagen op uw melding met onze beoordeling en een verwachte datum voor een oplossing.
+- Wij behandelen uw melding vertrouwelijk en zullen uw persoonlijke gegevens niet zonder uw toestemming met derden delen, tenzij noodzakelijk om een wettelijke verplichting na te komen.
+- Wij houden u op de hoogte van de voortgang van het oplossen van de kwetsbaarheid.
+- Anoniem of onder een pseudoniem melden is mogelijk, maar dit betekent dat wij geen contact kunnen opnemen over de vervolgstappen of beloning.
+- Wij bieden de mogelijkheid om jouw naam te plaatsen in onze Hall of Fame als erkenning, na het melden van een valide en serieuze kwetsbaarheid.
+Out of scope:
+Sommige kwetsbaarheden worden automatisch meegenomen in onze patchrondes, wat resulteert in een snelle afhandeling. Deze hoeven niet gemeld te worden via ons Responsible Disclosure-programma.
+Voorbeelden van kwetsbaarheden die niet gemeld hoeven te worden:
+- HTTP 404-pagina’s of andere HTTP-codes die geen 200 status opleveren, evenals content spoofing of tekstinvoeging op deze pagina’s.
+- Vingerafdrukken en andere methoden om versies te detecteren die openbaar worden gedeeld.
+- Clickjacking of kwetsbaarheden die alleen via clickjacking misbruikt kunnen worden.
+- Ingeschakelde HTTP OPTIONS-methode.
+- SSL-configuratieproblemen zoals geen SSL-forward secrecy ingeschakeld of zwakke cipher suites.
+- SPF, DKIM, DMARC-problemen.
+- Het melden van verouderde versies van software zonder proof of concept of werkende exploit.
+Meldingen die als beg bounty worden beschouwd, worden niet verwerkt of beantwoord.
+Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en alle betrokken partijen op de hoogte te houden. Wij worden graag betrokken bij een eventuele publicatie over de zwakheid nadat deze is opgelost.

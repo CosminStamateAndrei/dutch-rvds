@@ -1,0 +1,87 @@
+Reporting vulnerabilities
+Responsible disclosure
+Are you a security expert and have you found a vulnerability in our systems? Let us know. By reporting it, you are helping us improve the safety and reliability of our services together.
+
+ING and security
+At ING, keeping online banking safe and our digital services running smoothly is a top priority. Day and night, our specialists work hard to improve our systems and processes. Even with all the effort we put into security, vulnerabilities can still exist. That is why we take every report seriously.
+
+Do you have the right skills to discover vulnerabilities in our systems? You can help by reporting them to us. This way, you are helping by make our systems safer and more reliable. If you’re the first to report a vulnerability and haven’t gone public with the problem, you’re eligible for a reward.
+
+Our team of security experts will look into your report. You will get an initial response by email within two working days. Sometimes it might take a bit longer, like during busy periods, holidays or if we are short-staffed.
+
+What this program is not intended for?
+Complaints about INGs services or products
+Questions or complaints with ING websites, the mobile app or online banking
+Problems with ATMs or cash machines
+Fraud or suspected fraud
+Phishing emails or fake messages
+Viruses or malware
+International laws and regulations
+Laws around reporting vulnerabilities can vary from country to country. Please make sure you are aware of the local rules that apply to your situation. In some places, investigating our IT systems might be considered a criminal offence. You could risk prosecution under local or international law. If you have found a vulnerability on one of our ING pages, keep in mind that local laws always take priority over INGs guidelines. That said, if you act in good faith and follow INGs rules, we will not report your actions to the authorities unless we are legally required to.
+
+Your privacy
+We only use your personal data to follow up on your report. We won’t share it with anyone else unless we are legally required to do so, or if we ask another company to help investigate your report. In that case, we will make sure they treat your data with the same level of care and confidentiality as we do.
+
+How can you make a report?
+You can report the vulnerability by email: responsible-disclosure@ing.nl  . To send an email to this address, you willl need to encrypt your message using our public PGP key (zip)  Write your report clearly and concisely. Make sure to include:
+
+The steps you took
+The full URL
+Any objects involved (like input fields or filters)
+Proof of how to reproduce it (video or screenshot if possible)
+The risk or chance of someone exploiting the vulnerability
+You are welcome to suggest a fix: it’s not required, but it’s definitely appreciated.
+Our specialists will read your report and work on the vulnerability immediately.
+
+What can you report?
+Examples of vulnerabilities that can be reported:
+
+Remote Code execution
+Cross Site Scripting (XSS)-vulnerabilities
+Cross Site Request Forgery (CSRF) vulnerabilities
+SQL injection vulnerabilities
+Vulnerabilities related to encryption
+
+Unauthorized access to data
+What cannot be reported
+All claims without a clear analysis with evidence of possible exploitation.
+Vulnerabilities found on sites of organizations that are no longer part of ING (former business units)
+Our policy regarding the presence or absence of SPF/ DKIM/DMARC records
+Cross Site Request Forgery (CSRF) vulnerabilities on static pages (only on pages after login)
+Redirection from HTTP to HTTPS
+HTML does not specify charset
+HTML uses unrecognized charset
+Cookie zonder HttpOnly vlag
+No use of HTTP Strict  Transport Security (HSTS)
+Clickjacking or the absence of X-Frame-Options on non-login pages
+Saved Page HTTPS response pages on websites where no online payments transactions are present
+User enumeration on websites where no online payments transaction are available
+Possibly outdated server or application versions (from third parties) with no evidence that these versions are vulnerable and no evidence of exploitation.
+Reports of insecure SSL/TLS protocols and other misconfigurations
+Generic vulnerabilities related to software or protocols not under INGs control
+Distributed Denial of Service (DDoS) attacks
+Spam or Social Engineering techniques
+Reports from regular scans such as port scanners
+The rules of the game
+While investigating, you might do things that could technically be illegal. But if you act in good faith, carefully, and follow the rules in our responsible disclosure policy, the bank has no grounds to report you. Therefore, follow the rules as set out in this responsible disclosure policy and do not act disproportionately:
+
+Make sure you do not cause any damage while investigating the vulnerability you find.
+Do not use social engineering to gain access to a system.
+Under no circumstances may your research lead to an interruption of our services.
+Under no circumstances may your investigation lead to the disclosure of bank- or customer data.
+Do not install a backdoor in a system. Not even to expose the vulnerability. Installing a backdoor makes the system even more insecure.
+Do not modify or delete data in the system. If your research requires you to copy data from the system, never copy more data than necessary. If one record is sufficient for your research, leave it at that.
+Do not make any system changes
+Do not try to hack into a system more often than necessary. If you do manage to hack into a system, do not share access with others.
+Do not use brute force techniques (repeatedly trying passwords) to gain access to systems.
+Do not use techniques that could affect the availability of our services.
+Reward
+We encourage everyone to report any vulnerabilities to us. If the vulnerabilities you reported have been fixed or have caused a change in our services, you’re eligible for a reward. The amount of the reward depends on the severity of the problems, the type of website (static informational websites versus online banking sites), and the quality of the report received. If the report is of significant value to the bank’s continuity and reliability, the reward will be significantly higher.
+
+Good to know:
+
+Rewards will not be awarded if there is evidence of misuse.
+Vulnerabilities discovered by ING employee or former ING employees will be excluded from the reward.
+A reward will only be awarded to the first reporter of the vulnerability.
+Multiple reports of the same vulnerability with minimal differences will be treated as one report (only one report will be rewarded).
+In the event you qualify for a reward, we will need your personal data to process the payment.

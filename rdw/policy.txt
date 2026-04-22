@@ -1,0 +1,31 @@
+Coordinated Vulnerability Disclosure (CVD)
+RDW strives for a high level of security. However, it is possible that an unexpected weakness may be found in the RDW system. If you discover a vulnerability, you can report it to RDW in accordance with the following agreements. You may hold RDW to this policy regarding Coordinated Vulnerability Disclosure.
+Vulnerabilities in RDW ICT systems
+Are you reporting a vulnerability in one of the systems of RDW, please do so before you share it with others. This will allow us to take measures first. This is referred to as 'Coordinated Vulnerability Disclosure' (CVD).
+RDW would like to work with you to improve the security of ICT systems and therefore asks you to:
+- inform us of the vulnerability immediately after discovering it, and send us your findings by e-mail: [email protected]
+If possible, encrypt your findings with our to prevent information from falling into the wrong hands. - provide sufficient information to be able to reproduce the problem, so that we can rectify this as quickly as possible.
+In most cases, the IP address or the URL of the system affected and a description of the vulnerability are sufficient, but more information may be required for more complex vulnerabilities. - leave your contact details so that our Security Operations Centre can contact you in order to jointly find a safe solution.
+Leave at least an e-mail address or telephone number. - do not share the information regarding the security problem with other people until we have solved it.
+- handle the information regarding the security problem responsibly by not performing any actions that go further than necessary to demonstrate the security problem.
+- realize that disclosure of any information from RDW systems is punishable in certain cases and may lead to prosecution and/or a claim for damages.
+
+In all events avoid the following:
+- The use of automated scanning tools and do not send unverified output from such tools. Scanning tools often generate 'false positives.' Only security flaws verified by the reporter will be addressed by RDW.
+- Installing malware or any other software on RDW systems.
+- Copying, changing or deleting information or configurations of a system (or alternatively making a directory listing or a screenshot).
+- Using so-called 'brute force' to gain access to systems.
+- Using denial-of-service attacks or social engineering.
+- Exploiting the vulnerability further than necessary to identify it.
+- Making changes to RDW system other than what is necessary to identify the vulnerability.
+
+You can expect the following from us:
+- If your report meets the above conditions, RDW will not impose any legal consequences for this report. RDW will treat your report with strict confidentiality and will not share personal information with third parties without your consent, unless required by law or by court order.
+- RDW send you a confirmation of receipt within 2 working days.
+- RDW will respond to your report within 5 working days with an assessment of the report.
+- RDW will keep you informed of the progress made.
+- RDW will resolve the security issue you identified in a RDW system within a reasonable timeframe.If a vulnerability is not resolvable or is difficult to fix, or if it involves high costs, it may be agreed upon through mutual consultation not to disclose the vulnerability publicly.
+- RDW reserves the right to share information about a vulnerability with the ICT community if it is suspected that the vulnerability may also be present in other locations and organizations.
+- By mutual agreement, RDW can, if you wish, mention your name as the discoverer of the reported vulnerability.
+- As a thank you for your help, RDW offers a fun reward for reporting a serious and previously unknown RDW security issue. The reward will never be in monetary form.
+

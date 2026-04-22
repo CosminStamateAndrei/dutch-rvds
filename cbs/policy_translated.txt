@@ -1,0 +1,41 @@
+CBS continuously works on the security of its ICT systems. Nevertheless, it is possible that a weakness may occur in one of our systems or websites. If you discover such a weakness, we would greatly appreciate it if you report it via email to cert@cbs.nl.
+
+By reporting the vulnerability before disclosing it to the outside world, you enable CBS to take measures first. This is called Responsible Disclosure. CBS follows the policy of the Central Government in this regard.
+
+What we ask of you regarding Responsible Disclosure
+When reporting a vulnerability in an ICT system, please consider the following:
+
+- Provide sufficient information to reproduce the problem. This allows CBS to resolve the issue as quickly as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient. More may be required for more complex vulnerabilities.
+
+- Leave contact details (email address or phone number) so that CBS can contact you.
+
+- Report the vulnerability as soon as possible after discovery. - Do not share information about the security issue with others until it has been resolved.
+
+- Handle knowledge about the security issue responsibly. Do not perform actions that go beyond what is necessary to demonstrate the security issue.
+
+Do not exploit a weakness in an ICT system
+If you discover a vulnerability, do not exploit it. For example, by:
+
+- installing malware;
+
+- copying, modifying, or deleting data in a system (an alternative to this is creating a directory listing of a system);
+
+- making changes to the system;
+
+- repeatedly gaining access to the system or sharing access with others;
+
+- using so-called ‘brute-forcing’ to gain access to systems;
+
+- using denial-of-service or social engineering.
+
+What CBS does with your report
+
+CBS handles this report as follows:
+
+- You will receive an acknowledgment of receipt of the report within 1 working day.
+
+- CBS will respond to your report within 3 working days. This response will include an assessment of the report and an expected date for a solution. - CBS will keep you, as the reporter, informed of the progress in resolving the problem.
+
+- CBS will resolve the security issue as soon as possible, but no later than within 60 days. CBS will determine together with you whether and how the reported problem will be publicized. Publication will only take place after the problem has been resolved.
+
+CBS will treat your report confidentially. CBS does not share personal data with third parties without your permission, except when required by law or by a court order. If you wish, CBS can mention your name as the discoverer of the reported vulnerability.

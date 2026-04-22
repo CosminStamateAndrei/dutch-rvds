@@ -1,0 +1,44 @@
+Responsible Disclosure Statement
+We attach great importance to the security of our products and services. This also applies to the security of our IT systems. Despite all care and attention given to system security, it is possible that a weak spot or vulnerability may be (temporarily) overlooked.
+
+Found a weak spot?
+
+Do you think you have found a weak spot in one of our systems? If so, we would like to hear about it. We can then take measures as soon as possible. You can follow the guidelines below to do so. This way, we can work together to prevent others from exploiting the potential vulnerability.
+
+1. How to report a potential vulnerability in our systems
+- Email your findings to responsible-disclosure@prorail.nl (Subject: “Responsible disclosure”);
+- Provide sufficient information to reproduce the discovered vulnerability so that ProRail can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient. For more complex vulnerabilities, more information may be required; - Do not exploit the vulnerability by, for example, downloading more data than necessary or viewing, deleting, or modifying third-party data;
+
+- Do not share the vulnerability with others and delete all obtained confidential data;
+
+- Provide your contact details so that ProRail can contact you to work together towards a secure outcome. In any case, provide your email address or phone number.
+
+2. In any case, do not do this if you have found a potential vulnerability
+- Installing malware;
+- Copying, modifying, or deleting data in a system (an alternative to this is creating a directory listing of a system);
+- Making changes to the system;
+- Repeatedly gaining access to the system or sharing access with others;
+- Using so-called “brute-forcing” to gain access to systems;
+- Using denial-of-service or social engineering.
+
+The responsible disclosure policy is not an invitation to actively scan our ICT systems to discover vulnerabilities. ProRail scans and monitors its own ICT systems. 3. How we handle your report
+
+- Within three working days, you will receive a response containing our assessment of your report and an expected resolution date;
+
+- Have you adhered to the above-mentioned conditions? Then, naturally, we will not take any legal action regarding the method of finding, the breach, and the reporting of the vulnerability;
+- We treat your report confidentially. We do not share your personal data with third parties without your permission, unless this is necessary to comply with a legal obligation.
+
+You can also report vulnerabilities anonymously;
+- We will keep you informed of the progress in resolving the problem;
+- If desired, ProRail will mention your name or alias in the public patch or security fix release information.
+
+4. What can you not report under responsible disclosure?
+
+The scheme is not intended for:
+
+- Comments about the services provided by ProRail;
+- Comments or questions about the availability of our services;
+- Reporting fraud or possible fraud;
+- Reporting potentially fake or so-called phishing emails; - Reporting viruses and/or malware;
+
+- Reporting complaints.

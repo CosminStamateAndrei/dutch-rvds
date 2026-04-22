@@ -1,0 +1,61 @@
+Vulnerability Reporting (CVD)
+
+What is a CVD report?
+
+CVD stands for Coordinated Vulnerability Disclosure: the coordinated reporting of vulnerabilities. You report a technical security flaw that you have found so that it can be resolved before malicious actors exploit it. The NCSC takes on the coordination and brings the report to the attention of the appropriate party.
+
+When can I submit a report?
+
+This reporting point is for anyone who finds a vulnerability in:
+
+- Systems or products of the Central Government
+- Vulnerabilities that affect multiple systems or suppliers
+Did you find a vulnerability in a system outside the Central Government? Then report this to the owner of that system first. If you do not receive an adequate response, you can engage the NCSC as an intermediary.
+
+What can and cannot be reported?
+
+You can report vulnerabilities that pose a risk to security. Consider:
+
+- Opportunities to bypass login forms
+- Unintended access to databases containing personal data
+- Security vulnerabilities that compromise the availability, integrity, or confidentiality of data
+
+We do not address some findings as CVD reports because they do not pose a serious security risk. For example:
+
+- Standard WordPress functionality such as wp-cron.php (unless this leads to more than a pingback denial-of-service)
+- Cross-site scripting on static websites without sensitive data
+- Technical information such as version numbers or IP addresses (unless directly exploitable)
+- Missing HTTP security headers (unless this demonstrably leads to a security issue)
+- Security issues without a realistic exploit scenario
+Are you unsure if your report is an exception? Feel free to report it. We will assess whether it constitutes a security issue and take appropriate follow-up steps.
+
+Your contribution makes the difference
+By reporting vulnerabilities responsibly, you help strengthen the digital security of the Netherlands. You prevent security vulnerabilities from being exploited and contribute to safer systems for millions of users. Please note the following when reporting:
+
+- Report the vulnerability as soon as possible after discovery
+- Do not share the information with others until the problem has been resolved
+- Handle the knowledge responsibly: do no more than is necessary to demonstrate the problem
+- Avoid actions such as deploying malware, copying, modifying, or deleting data, brute force, denial-of-service, or social engineering
+
+What you get:
+
+- We treat your report confidentially and do not share your data without permission
+- You will receive an acknowledgment of receipt within one business day
+- You will receive our assessment within three business days
+- We will keep you informed of the progress
+- We will only mention your name in the Wall of Fame with your permission
+- For a serious, as yet unknown vulnerability, you will receive a reward: from a T-shirt to a gift card
+- For vulnerabilities affecting multiple systems, the NCSC may assign a CVE number
+
+We aim to resolve security issues within 60 days. After resolution, we will determine together whether and how to publish about this. How to report a vulnerability
+
+- Fill out the CVD form with your findings
+- Describe as clearly as possible how the problem can be reproduced (usually the IP address or URL and a description of the vulnerability are sufficient)
+- Leave at least an email address so we can contact you
+- Optional: encrypt your report with our PGP key
+- We prefer communication via email. We will contact you if we have any questions
+
+FAQ
+No, we do not accept YouTube videos or other videos as part of the report.
+
+We will let you know within three working days whether we are taking up the report and why or why not.

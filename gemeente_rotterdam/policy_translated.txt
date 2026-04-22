@@ -1,0 +1,59 @@
+Responsible Disclosure
+The Municipality of Rotterdam considers the security of information and communication technology to be very important.
+
+However, although the municipality pays full attention to the security of its ICT systems, a weak spot may still be present.
+
+Some people actively search for these weak spots. With 'responsible disclosure', the discoverer gives the organization – in this case, the Municipality of Rotterdam – time to close the leak. Should you find a weak spot in one of our systems, we would like to hear about it. We will then take prompt measures to close the leak.
+
+We ask you to:
+
+Reading time: 3 min
+report the discovered vulnerability to us.
+
+not act disproportionately and not misuse the discovered vulnerability. For example, by:
+
+using social engineering or attacks on physical security to gain access to the system in that way.
+
+placing your own backdoor in an information system to subsequently demonstrate the vulnerability. This can cause additional damage and create unnecessary security risks. to exploit a vulnerability further than is necessary to identify the vulnerability.
+
+to copy, modify, or delete data from the system. An alternative to this is creating
+a directory listing of a system.
+
+to make changes to the system.
+
+to gain repeated access to the system.
+
+to use so-called distributed denial of service, spam, or 'brute-forcing' access to
+systems; after all, this does not involve a vulnerability, but merely the repeated
+attempting of passwords.
+
+not to download more data than is necessary to demonstrate the leak. Be careful with
+third-party data by not viewing, deleting, or modifying this data.
+Read aloud
+
+We promise that we:
+
+More information
+The Municipality of Rotterdam strives to resolve all vulnerabilities as quickly as possible. After the
+vulnerability has been resolved and you wish to publish about it, we would like to be involved in these publications in advance.
+See also
+not to share information about the vulnerability with others. Share information about the vulnerability only
+after we have patched the leak and notified you about it. Do not share any confidential data that you
+have obtained. Delete the data immediately after patching the leak.
+
+provide us with sufficient information to reproduce the vulnerability and give us time to investigate and remedy the
+vulnerability. Usually, the IP address or URL of the affected system
+and a description of the vulnerability is sufficient, but more
+may be needed for more complex vulnerabilities.
+
+Report the vulnerability in English.
+respond to your report within five working days with our assessment and the expected resolution date.
+not take criminal action against you if you comply with the above conditions.
+treat your report confidentially and do not share your personal data with third parties
+without your permission, unless required by law or by a court ruling. Reporting under a pseudonym
+is possible.
+keep you informed of the progress of the resolution of the vulnerability. In communications regarding the
+vulnerability, we will mention your name as the discoverer – if you wish. Rotterdam Digital
+
+Cybercrime
+Bibob

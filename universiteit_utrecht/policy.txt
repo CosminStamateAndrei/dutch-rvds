@@ -1,0 +1,53 @@
+Responsible disclosure
+At Utrecht University, we consider the security of our systems a top priority. Despite our security efforts, a vulnerability could occur in one of our systems. When you detect such a vulnerability, please let us know. When we receive such a notification we can take action as soon as possible, working together with you in an ongoing effort to keep our systems secure.
+The Utrecht University network offers Internet access to students, associations and start-ups. Although these sites are on the university’s network, they are not the responsibility of the university. Responsible disclosures about these sites are accepted. The reports are forwarded to the responsible persons, but then closed by the university. These reports do not result in an entry in the Hall of Fame and no updates on progress are provided.
+We appreciate reports of security vulnerabilities that help us improve the security of our systems.
+Our Responsible Disclosure program does not provide financial rewards or bug bounties. Researchers who responsibly report a valid vulnerability and follow the guidelines of this program may, if they wish, be listed in our Hall of Fame. In the case of a significant or high impact vulnerability, we may also, at our discretion, provide a letter of recognition from our CISO to acknowledge the contribution to our security.
+How to disclose responsibly
+To disclose responsibly, please do the following:
+- Email your findings to responsible.disclosure@uu.nl. If you have GPG, you can encrypt your findings using our PGP year key to prevent the responsible disclosure from falling into the wrong hands. PGP encryption is not mandatory. Reporting under a pseudonym is allowed. Students can report findings without fear of repercussions for their education.
+- Do not take advantage of the vulnerability or problem you have discovered, for example by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying any data.
+- Do not reveal the problem to others until it has been resolved.
+- Do not use attacks on physical security, social engineering, (distributed) denial of service or spam. Do not attack third-party applications.
+- Do not use automated tools to run large-scale tests on our websites and applications.
+- Provide sufficient information for us to reproduce the problem, so we will be able to resolve it as quickly as possible. Complex vulnerabilities may require explanation. If we have further questions, we will contact you for more information.
+Our promise to you
+If you submit a valid responsible disclosure, our promise is the following:
+- We will not consider any legal steps against those who notified us and who gained unauthorised access to sensitive information if they have complied with the above points.
+- We feel it is important that vulnerabilities are reported to us as soon as possible, so that we can take immediate action to secure our environment. All reports will therefore always be gratefully received.
+- We will respond to your report within five working days with our assessment of the report and the date the issue is expected to be resolved.
+- We will treat your report in confidence and will not share your personal details with third parties without your consent, unless this is necessary in order to comply with a statutory obligation.
+- We will keep you informed of the progress we make in resolving the issue.
+- If you so wish, we will include you as a reporter in the Hall of Fame, under a pseudonym if you want.
+- In the publication of the resolved issue, we will credit you, if you wish, as the person who discovered and reported it.
+We aim to resolve all reported issues as quickly as possible.
+Out of scope
+Utrecht University does not reward trivial vulnerabilities or bugs that cannot be abused. The following are examples of known and accepted vulnerabilities and risks that are outside the scope of the responsible disclosure policy:
+- Authentication for public FTP mirrors for open-source projects;
+- Disclosure of publicly available software and/or source code;
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and content spoofing/text injection on these pages.
+- Fingerprint version banner disclosure on common/public services.
+- Missing limits on login attempts.
+- Disclosure of known public files or directories or non-sensitive information (e.g. robots.txt).
+- Clickjacking and issues only exploitable through clickjacking.
+- Lack of secure/HTTP-only flags on non-sensitive cookies.Examples of sensitive cookies are session cookies and cookies with personally identifiable information. Examples of non-sensitive cookies are loadbalancer preferences and language settings.
+- OPTIONS HTTP method enabled.
+- Issues with the HTTP 'referer' header.
+- Issues with mixed-content warnings.
+- Anything related to HTTP/XML security headers, e.g.:
+- Strict-Transport-Security
+- X-Frame-Options
+- X-XSS-Protection
+- X-Content-Type-Options
+- Content-Security-Policy
+- Cross-Domain-Policy
+- SSL Configuration Issues:
+- SSL forward secrecy not enabled
+- Weak/insecure cipher suites
+- Host header injection
+- SPF, DKIM, DMARC issues.
+- Reporting older versions of any software without proof of concept or working exploit.
+- Information leaks in metadata.
+This out of scope list has last been updated on 02-01-2023.
+Hall of Fame
+We want to thank everybody who reported a vulnerability responsibly. The first person who submits a valid report to responsible.disclosure@uu.nl is listed in the Hall of Fame.

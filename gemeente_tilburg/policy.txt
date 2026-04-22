@@ -1,0 +1,24 @@
+Beveiliging Computersystemen / Responsible Disclosure
+De gemeente Tilburg neemt uitgebreide maatregelen om haar computersystemen te beveiligen. Toch kan een zwakke plek in de systemen voorkomen. Als iemand zo’n zwakke plek ontdekt, hoort de gemeente dit graag. Er worden dan snel gepaste maatregelen genomen.
+Melden zwakke plek computersysteem
+Door het melden van een zwakke plek verklaart de melder zich akkoord met onderstaande afspraken over responsible disclosure. De gemeente Tilburg handelt de melding volgens onderstaande afspraken af.
+- Gebruik het contactformulier. Beschrijf het probleem zo duidelijk en compleet mogelijk zodat het snel opgelost kan worden. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende.
+- De gemeente staat open voor tips, die helpen om het probleem op te lossen. Benoem alleen feitelijkheden die betrekking hebben op de kwetsbaarheid.
+- Laat contactgegevens achter zodat we contact op kunnen nemen, om samen te werken aan een veilig resultaat. Laat minimaal een e-mailadres, websiteadres of telefoonnummer achter.
+- Dien de melding zo snel mogelijk in, na ontdekking van de kwetsbaarheid.
+De volgende handelingen zijn niet toegestaan
+- Het plaatsen van malware op de systemen van gemeente Tilburg of die van anderen.
+- Het zogeheten “bruteforcen” van toegang tot systemen.
+- Het gebruik maken van social engineering.
+- Het openbaar maken of aan derden verstrekken van informatie over het beveiligingsprobleem voordat het is opgelost.
+- Het verrichten van handelingen die verder gaan dan wat strikt noodzakelijk is, om het beveiligingsprobleem aan te tonen en te melden. In het bijzonder waar het gaat om het verwerken (waaronder het inzien of kopiëren) van vertrouwelijke gegevens.
+- Het wijzigen of verwijderen van gegevens in het systeem is nooit toegestaan.
+- Het openbaar maken of aan derden verstrekken van gegevens met een vertrouwelijk karakter, zoals privacygevoelige gegevens.
+- Het gebruik maken van technieken waarmee de beschikbaarheid en/of bruikbaarheid van het systeem of services wordt verminderd (DoS-aanvallen).
+- Het op wat voor (andere) wijze dan ook misbruik maken van de kwetsbaarheid.
+Wat mag je als melder verwachten
+- De gemeente behandelt een melding vertrouwelijk en deelt persoonlijke gegevens van een melder niet zonder diens toestemming met derden, tenzij de gemeente daar volgens de wet of een rechterlijke uitspraak toe verplicht is.
+- De gemeente reageert binnen 5 werkdagen op een melding met een (eerste) beoordeling van de melding en eventueel een verwachte datum voor een oplossing.
+- De gemeente lost het gemelde beveiligingsprobleem zo snel mogelijk op.
+- Een ontdekte kwetsbaarheid mag pas worden gepubliceerd als de aanmelder en gemeente Tilburg hierover overeenstemming hebben.
+- Als blijk van waardering voor het melden van een kwetsbaarheid, ontvangt de melder een typisch Tilburgs presentje.

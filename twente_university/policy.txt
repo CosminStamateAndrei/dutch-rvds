@@ -1,0 +1,35 @@
+Despite our security efforts, a weakness could occur in one of our systems. If you have detected a vulnerability, please let us know. Then we can take the necessary measures as soon as possible, working together with you in an ongoing effort to keep our systems secure.
+The Responsible disclosure procedure describes how to report a detected vulnerability.
+A responsible disclosure can be reported using the email address responsible-disclosure@utwente.nl.
+Reports must be clear and contain the steps necessary to reproduce the vulnerability. The steps need to be in the body of the message. Even though images, movies, and other files may be added for clarification, they are routinely not opened because of security concerns regarding unsolicited attachments and links. Reports with the details in a PDF, DOC(x), or other attachments are unacceptable and will be discarded!
+It may take up to five business days for us to analyze and find a report of sufficient quality. It makes no sense to inquire about progress earlier.
+We want to thank everybody who reported a vulnerability in a responsible way in our Hall of Fame.
+Out of scope
+The network of the University of Twente offers internet access for students, (student) associations, and start-up companies hosting their websites. Although these sites are on the university's network, they are not the university's responsibility. Responsible disclosure notifications about these sites will be forwarded, if possible. to the responsible persons. These reports do not result in an entry into the Hall of Fame, and no updates on progress are provided.
+Also out of scope are trivial vulnerabilities or bugs that cannot be abused. The following is a non-exhaustive list of examples of these vulnerabilities:
+- No authentication (anonymous access) for public FTP servers, especially mirrors for open-source projects.
+- Disclosure of publicly available software or source code.
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and Content Spoofing/Text Injection on these pages.
+- Fingerprint and other ways to detect versions that are disclosed on common/public services.
+- Missing limits on login attempts.
+- Clickjacking and issues that are only exploitable through clickjacking.
+- Lack of Secure/HTTP-Only flags on non-sensitive Cookies.
+- OPTIONS HTTP method enabled.
+- anything related to HTTP security headers, e.g.:
+- Strict-Transport-Security.
+- X-Frame-Options.
+- X-XSS-Protection.
+- X-Content-Type-Options.
+- Content-Security-Policy.
+- SSL Configuration Issues:
+- SSL forward secrecy not enabled.
+- weak/insecure cipher suites.
+- Lack of SPF, DKIM, DMARC or BIMI records or any other issues involving these protocols.
+- Host header injection.
+- Reporting older versions of any software without proof of concept or working exploit.
+- Information leakage in metadata.
+- Systems and protocols that can be used in DDoS attacks.
+Also, reports considered a beg bounty will not be processed nor responded to.
+It is impossible to list every domain or host that is out of scope as these changes on a near daily basis. If the host is in the student.utwente.nl domain, it can safely be considered belonging to a student and, therefore, is out of scope of this policy.
+Outbound CVD policy
+Did you discover a vulnerability during your (cybersecurity) research that does not involve a system at the University this policy does not apply. In that case, you should follow the Coordinated Vulnerability Policy for Research.

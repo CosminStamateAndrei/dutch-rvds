@@ -1,0 +1,70 @@
+Coordinated Vulnerability Disclosure (CVD)
+
+At the RUG, we consider the security of our systems to be of paramount importance. Despite our efforts to secure the systems, vulnerabilities may occur. You can report these vulnerabilities to us.
+
+Collaboration
+If you find a vulnerability in one of our systems, we would like to hear about it. We can then take measures as quickly as possible. We are happy to work with you to better protect our users and systems.
+
+No invitation to actively scan
+Our so-called responsible disclosure policy is not an invitation to extensively and actively scan our network or systems for vulnerabilities. We monitor our corporate network ourselves. As a result, there is a high probability that we will detect your scan, that our Computer Emergency Response Team (CERT) will conduct an investigation, which may lead to unnecessary costs.
+
+Criminal prosecution
+It is possible that during your investigation you perform actions that are punishable under criminal law. If you have adhered to the conditions below, we will not take legal action against you. However, the Public Prosecution Service always has the right to decide whether to criminally prosecute you. Report your findings
+Request to you
+-
+Do not misuse the discovered vulnerability by, for example: downloading more data than necessary to demonstrate the leak; changing or deleting the data.
+- Be extra careful with personal data.
+-
+Do not share the vulnerability with others until it has been resolved.
+-
+Do not use attacks on physical security or third-party applications, social engineering, (distributed) denial-of-service, malware, or spam.
+-
+Provide sufficient information to reproduce the vulnerability so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability and the actions performed are sufficient, but more may be required for more complex vulnerabilities.
+
+Our promise
+Our promise
+-
+We will respond within 5 working days with our assessment of the report and an expected date for a solution.
+-
+We will treat your report confidentially and will not share your personal data with third parties without your permission, unless this is necessary to comply with a legal obligation. -
+
+We will keep you informed of the progress in resolving the vulnerability.
+
+- You may report anonymously or under a pseudonym. However, in that case, we will not be able to contact you regarding, for example, the next steps, the progress of patching the vulnerability, publication, or a possible inclusion in our 'Hall of Fame'.
+
+In any reporting on the reported vulnerability, we will mention your name as the discoverer of the vulnerability, if you wish.
+
+- As a token of appreciation, we may award you a place in our 'Hall of Fame' for your research, but we are not obligated to do so. We determine this on a case-by-case basis. It depends on the thoroughness of your research, the quality of the report, and the severity of the vulnerability.
+
+- We strive to resolve all issues as quickly as possible and to keep all involved parties informed. We would like to be involved in any potential publication regarding the vulnerability once it has been resolved. Not in scope
+Not in scope
+RUG offers no place in the 'Hall of Fame' for trivial vulnerabilities or bugs that cannot be exploited. Below are examples of known vulnerabilities and accepted risks that fall outside the scope of the above regulation:
+
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and content spoofing/text injecting on these pages
+- fingerprinting/version disclosure on public services
+- public files or directories containing non-sensitive information (e.g. robots.txt)
+- clickjacking and issues that can only be exploited via clickjacking
+- no secure/HTTP-only flags on non-sensitive cookies
+- OPTIONS HTTP method enabled
+- everything related to HTTP security headers, for example: Strict-Transport-SecurityX-Frame-Options
+-
+X-XSS-Protection
+-
+X-Content-Type-Options
+-
+Content-Security-Policy
+-
+- issues with SSL configuration issues SSL Forward secrecy disabled weak/insecure cipher suites
+- issues with SPF, DKIM or DMARC
+-
+host header injection
+-
+reporting of outdated versions of any software without a proof of concept of a working exploit
+-
+information exposure in metadata
+-
+DNSSEC and DNS Certificate Authority Authorization
+-
+(Distributed ) Denial-of-Service attacks
+CVD Hall of Fame
+Hall of Fame

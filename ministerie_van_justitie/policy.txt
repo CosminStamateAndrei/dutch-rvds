@@ -1,0 +1,45 @@
+Kwetsbaarheid melden (CVD)
+Wat is een CVD-melding?
+CVD staat voor Coordinated Vulnerability Disclosure: het gecoördineerd melden van kwetsbaarheden. Je meldt een technisch beveiligingslek dat je hebt gevonden, zodat het kan worden opgelost voordat kwaadwillenden het misbruiken. Het NCSC neemt de coördinatie op zich en brengt de melding bij de juiste partij onder de aandacht.
+Wanneer kan ik een melding doen?
+Dit meldpunt is voor iedereen die een kwetsbaarheid vindt in:
+- Systemen of producten van de Rijksoverheid
+- Kwetsbaarheden die meerdere systemen of leveranciers treffen
+Vind je een kwetsbaarheid in een systeem buiten de Rijksoverheid? Meld dit dan eerst bij de eigenaar van dat systeem. Krijg je geen adequate reactie? Dan kun je het NCSC inschakelen als intermediair.
+Wat kun je wel en niet melden?
+Je kunt kwetsbaarheden melden die een risico vormen voor de beveiliging. Denk aan:
+- Mogelijkheden om inlogformulieren te omzeilen
+- Onbedoelde toegang tot databases met persoonsgegevens
+- Beveiligingslekken die beschikbaarheid, integriteit of vertrouwelijkheid van gegevens aantasten
+Sommige bevindingen pakken we niet op als CVD-melding omdat ze geen serieus beveiligingsrisico vormen. Bijvoorbeeld:
+- WordPress-standaardfunctionaliteit zoals wp-cron.php (tenzij dit leidt tot meer dan een pingback denial-of-service)
+- Cross-site scripting op statische websites zonder gevoelige gegevens
+- Technische informatie zoals versienummers of IP-adressen (tenzij direct misbruikbaar)
+- Ontbrekende HTTP-beveiligingsheaders (tenzij dit aantoonbaar tot een beveiligingsprobleem leidt)
+- Beveiligingsproblemen zonder realistisch exploitatiescenario
+Twijfel je of jouw melding een uitzondering is? Meld het gerust. Wij beoordelen of het een beveiligingsprobleem vormt en nemen passende vervolgstappen.
+Jouw bijdrage maakt het verschil
+Door kwetsbaarheden verantwoord te melden, help je de digitale veiligheid van Nederland te versterken. Je voorkomt dat beveiligingslekken worden misbruikt en draagt bij aan veiligere systemen voor miljoenen gebruikers.
+Let bij het melden op het volgende:
+- Meld de kwetsbaarheid zo snel mogelijk na ontdekking
+- Deel de informatie niet met anderen totdat het probleem is opgelost
+- Ga verantwoord om met de kennis: doe niet meer dan nodig is om het probleem aan te tonen
+- Vermijd handelingen zoals malware plaatsen, gegevens kopiëren, wijzigen of verwijderen, brute force, denial-of-service of social engineering
+Wat levert het op:
+- Wij behandelen jouw melding vertrouwelijk en delen je gegevens niet zonder toestemming
+- Je krijgt binnen één werkdag een ontvangstbevestiging
+- Binnen drie werkdagen ontvang je onze beoordeling
+- We houden je op de hoogte van de voortgang
+- Alleen met jouw toestemming vermelden we jouw naam in de Wall of Fame
+- Bij een serieuze, nog onbekende kwetsbaarheid ontvang je een beloning: van T-shirt tot cadeaubon
+- Voor kwetsbaarheden die meerdere systemen treffen, kan het NCSC een CVE-nummer toekennen
+Wij streven ernaar beveiligingsproblemen binnen 60 dagen op te lossen. Na oplossing bepalen we samen óf en hoe we hierover publiceren.
+Zo meld je een kwetsbaarheid
+- Vul het CVD-formulier in met je bevindingen
+- Beschrijf zo duidelijk mogelijk hoe het probleem te reproduceren is (meestal zijn het IP-adres of de URL en een omschrijving van de kwetsbaarheid voldoende)
+- Laat minimaal een e-mailadres achter zodat we contact met je kunnen opnemen
+- Optioneel: versleutel je melding met onze PGP-key
+- Communicatie via e-mail heeft onze voorkeur. Bij vragen nemen we contact met je op
+FAQ
+Nee, we accepteren geen YouTube-video's of andere video's als onderdeel van de melding.
+We laten je binnen drie werkdagen weten of we de melding oppakken en waarom wel of niet.

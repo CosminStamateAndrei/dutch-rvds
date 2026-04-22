@@ -1,0 +1,39 @@
+Op dit moment is er een veiligheidsincident bij leverancier ChipSoft. Uit voorzorg is mijnflevoziekenhuis.nl tijdelijk uitgezet. Hierdoor kunt u niet inloggen op mijnflevoziekenhuis.nl.
+Lees hier meer informatie.Coordinated Vulnerability Disclosure
+Het Flevoziekenhuis hecht veel belang aan de veiligheid van haar (medische) apparatuur, programmatuur en diensten. Ondanks de zorg voor de beveiliging hiervan kan het voorkomen dat er toch sprake is van een kwetsbaarheid. Als u zo’n kwetsbaarheid ontdekt, kunt u dit veilig aan ons melden. Deze aanpak is de zogenaamde Coordinated Vulnerability Disclosure. Op deze manier kan het Flevoziekenhuis beschermende maatregelen treffen.
+Melding maken van een kwetsbaarheid
+Als u een kwetsbaarheid heeft gevonden horen wij dit graag, zodat we zo snel als mogelĳk maatregelen kunnen treffen. Het Flevoziekenhuis wil graag met u samenwerken om onze klanten en systemen nog beter te kunnen beschermen.
+Als u via ons Coordinated Vulnerability Disclosure beleid kwetsbaarheden aan ons meldt, dan hebben wij geen reden om juridische consequenties te verbinden aan uw melding. Wij vragen u zich te houden aan de volgende regels:
+- U meldt uw bevindingen bij Stichting Z-CERT bij voorkeur via de website van Z-CERT. Of u maakt gebruik van het volgende mail-template en verstuurt dat versleuteld met Z-CERT’s publieke PGP-sleutel. Stichting Z-CERT is de organisatie die voor het Flevoziekenhuis Coordinated Vulnerability Disclosure meldingen afhandelt. Zij werken samen met u als melder en met het Flevoziekenhuis om te zorgen dat uw melding wordt opgepakt.
+- In uw melding geeft u voldoende informatie, zodat het probleem te reproduceren is. Op die manier kunnen wij het zo snel mogelijk oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden is soms meer informatie gewenst/noodzakelijk.
+- U misbruikt de geconstateerde kwetsbaarheid niet. Door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of door gegevens van derden in te zien, te verwijderen of aan te passen.
+Als u vermoedt dat u via een kwetsbaarheid medische gegevens kan inzien vragen wij u dit niet zelf te verifiëren maar dit door ons te laten doen. - U deelt uw bevindingen niet met anderen, voordat het is opgelost. Daarnaast vragen we u om alle vertrouwelijke gegevens die u heeft verkregen, na het dichten van het lek, direct te wissen.
+- U doet geen aanval(len) op onze fysieke beveiliging en maakt geen gebruik van social engineering, distributed denial of service, spam, brute-force aanvallen en/of applicaties van derden.
+Hoe wij omgaan met uw melding
+- Het Flevoziekenhuis en Z-CERT behandelen uw melding vertrouwelijk en delen uw persoonlijke gegevens niet met derden zonder uw toestemming, tenzij dit wettelijk verplicht is.
+- U krijgt een ontvangstbevestiging van Z-CERT en binnen 5 werkdagen ontvangt u een reactie op uw melding met een beoordeling van de melding en een verwachte datum voor een oplossing.
+- Als melder van het probleem houdt Z-CERT u op de hoogte van de voortgang van het oplossen van het probleem.
+- In berichtgeving over het gemelde probleem zal het Flevoziekenhuis, als u dit wenst, uw naam vermelden als de ontdekker.
+We streven ernaar om alle problemen zo snel mogelijk op te lossen. Samen overleggen we daarna over de meerwaarde van een eventuele publicatie van het opgeloste probleem.
+Coordinated Vulnerability Disclosure (English)
+At Flevohospital we work hard to maintain and improve the security of our (medical) devices, systems and services. No matter how much effort we put into system security, there might be vulnerabilities present. If you discover a vulnerability you can report it safely via our Coordinated Vulnerability Disclosure, so Flevohospital can take safety measurements.
+Reporting a vulnerability
+If you have found a vulnerability, we would like to hear about it so that we can take appropriate measures as quickly as possible. Flevohospital is keen to cooperate with you to protect our clients and systems better.
+Our Coordinated Vulnerability Disclosure policy is not an invitation to proactively scan our network/ systems for vulnerabilities. We monitor our network/ systems continuously ourselves; Thus, a vulnerability scan is likely to be noticed, investigated upon by our IT department and unnecessary expenses may occur.
+If you comply with our Coordinated Vulnerability Disclosure policy we have no reason to take legal action against you regarding the reported vulnerability.
+We ask you to:
+- Report your findings to the Z-CERT via the Z-CERT website. Or fill out every aspect of this mail template, encrypt it with our PGP-key and send it to us. Z-CERT is an organization who handles all cyber security issues on behalf of Flevohospital. Z-CERT will work with you and Flevohospital to make sure that your report is handled with care.
+- Provide adequate information to allow Z-CERT to reproduce the vulnerability which helps to resolve the problem as quickly as possible. An IP address or URL of the affected system with a description of the vulnerability will usually be sufficient, although more information might be necessary for more complex vulnerabilities.
+- Do not exploit vulnerabilities, e.g. by downloading more data than is needed to demonstrate the vulnerability, looking into third-party data, deleting or modifying data.
+- If you suspect to have access to medical data we ask you to let us verify this.
+- Do not share information on vulnerabilities until they have been resolved and erase any data obtained through vulnerabilities as soon as possible;
+- Do not attack physical security, use social engineering, distributed denial of service, spam, brute force attacks or third-party applications.
+How we will handle your report
+- Flevohospital and Z-CERT will treat your report confidentially and will not share your personal data unless required by law;
+- Z-CERT will send you an acknowledgement of receipt and will respond to your report with an evaluation and an expected resolution date within 5 working days;
+- Flevohospital and Z-CERT will keep you informed of the progress in resolving the problem;
+- In communication about the reported problem we will mention your name as the discoverer of the problem (unless you desire otherwise).
+We strive to resolve any vulnerability as soon as possible. Once the problem has been resolved we will decide in consultation whether and how details will be published.
+Met dank aan Floor Terra voor zijn voorbeeldtekst op http://responsibledisclosure.nl/
+Publicatiedatum: 9 oktober 2020
+Laatste aanpassing: 14 augustus 2024

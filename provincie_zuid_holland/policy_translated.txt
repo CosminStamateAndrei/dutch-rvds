@@ -1,0 +1,33 @@
+The Province of South Holland attaches great importance to the security of its systems. Despite all precautionary measures, it remains possible that a weak point may be found in the systems. If you discover a weak point in one of our systems, we would like to hear from you so that we can take appropriate measures quickly. By submitting a report, the Province of South Holland will handle your report in accordance with the agreements below.
+
+Please provide sufficient information to reproduce the problem so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient, but more may be required for more complex vulnerabilities.
+
+We welcome tips that help us solve the problem. Please limit yourself to verifiable facts relating to the vulnerability you have identified and avoid your advice essentially amounting to advertising for specific (security) products.
+
+Please leave contact details so that we can get in touch with you to work together towards a secure outcome. Please leave at least one email address or phone number. Please submit the report as soon as possible after discovering the vulnerability.
+
+The following actions are not permitted:
+
+Installing malware, neither on our systems nor on those of others;
+
+Brute-forcing access to systems, except to the extent strictly necessary to demonstrate that security in this area is seriously deficient, that is to say, if it is extraordinarily easy to crack a password using publicly available and affordable hardware and software that can seriously compromise the system;
+
+Using social engineering;
+
+Disclose or provide information about the security issue to third parties before it has been resolved;
+
+Performing actions that go beyond what is strictly necessary to demonstrate and report the security issue. In particular regarding the processing (including viewing or copying) of confidential data to which you have gained access through the vulnerability. Instead of copying an entire database, you can normally suffice with, for example, a directory listing. Modifying or deleting data in the system is never permitted; Using techniques that reduce the availability and/or usability of the system or services (DoS attacks);
+
+Misusing the vulnerability in any (other) way whatsoever.
+
+What you can expect
+If you meet all the above conditions, we will not file a criminal complaint against you nor initiate civil proceedings against you.
+If it turns out that you have violated any of the above conditions, we may still decide to take legal action against you.
+
+We treat a report confidentially and do not share a reporter's personal data with third parties without their consent, unless we are required to do so by law or a court ruling.
+
+The Province of South Holland may share the received report with government partners to improve the information security of government organizations;
+
+We will send you an (automatic) acknowledgment of receipt and keep you informed of the progress of the solution.
+
+We will respond to a report within 5 working days with an (initial) assessment of the report and an expected date for a solution.

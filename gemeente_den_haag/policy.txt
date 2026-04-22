@@ -1,0 +1,26 @@
+Kwetsbaarheid melden (CVD)
+Ontdekt u een zwakke plek (kwetsbaarheid) op de website of in een IT-systeem van de gemeente? Meld dit dan. De gemeente bekijkt het probleem en lost dit zo snel mogelijk op. Zo kan zij haar gegevens en systemen nog beter beschermen. Deze manier van samenwerken heet Coordinated Vulnerability Disclosure (CVD).
+De gemeente beveiligt de gegevens op haar website en in IT-systemen met zorg. Toch kan het voorkomen dat er zwakke plekken bestaan. Computercriminelen kunnen daar misbruik van maken. Dit doen ze door in te breken in het systeem. En gegevens te veranderen of te stelen voor criminele activiteiten. Als u deze zwakke plekken meldt, helpt u de gemeente om de gegevens veilig te houden.
+Melding doen
+- Meld de zwakke plek die u heeft ontdekt zo snel mogelijk via Zerocopter.
+Let op
+- Als u anoniem meldt, kan de gemeente geen contact met u opnemen.
+- Geef voldoende informatie zodat de gemeente het probleem zelf kan bekijken (reproduceren) en zo snel mogelijk kan oplossen. Meestal is het IP-adres of de URL van het kwetsbare systeem en een omschrijving van de zwakke plek voldoende. Bij kwetsbaarheden die ingewikkelder zijn, is vaak meer informatie nodig.
+- Misbruik de zwakke plek niet. Bekijk bijvoorbeeld geen gegevens van anderen. Verwijder of verander ook geen gegevens van anderen. Als u gegevens downloadt, download dan niet meer dan nodig is om de zwakke plek aan te tonen.
+- Deel het probleem niet met anderen totdat de gemeente het probleem heeft opgelost.
+- Verwijder alle vertrouwelijke gegevens die u heeft gedownload nadat de gemeente het probleem heeft opgelost. Deel deze gegevens ook niet met anderen.
+- Gebruik geen:
+- technieken die de dienstverlening van de gemeente in gevaar brengen
+- aanvallen op fysieke beveiliging, zoals toegangspoortjes en sloten
+- psychologische manipulatie (social engineering)
+- aanvallen met heel veel inlogpogingen (brute-force attacks)
+- spam
+Na uw melding
+De gemeente:
+- reageert binnen 10 werkdagen op uw melding met een beoordeling en een verwachte datum voor een oplossing.
+- houdt u op de hoogte over de voortgang van het oplossen van het probleem.
+- onderneemt geen juridische stappen tegen u over de melding, als u zich aan de voorwaarden heeft gehouden.
+- behandelt uw melding vertrouwelijk en deelt uw persoonlijke gegevens niet met derden zonder uw toestemming. Een uitzondering hierop is als de gemeente wettelijk verplicht is uw persoonlijke gegevens te delen. U mag de melding onder een schuilnaam doen.
+- kan u een beloning geven als dank voor uw hulp. De gemeente bepaalt dit per melding. De grootte van de beloning hangt vooral af van de ernst van de kwetsbaarheid en de kwaliteit van uw melding.
+De gemeente probeert alle problemen zo snel mogelijk op te lossen en alle betrokkenen daarover te informeren. Zij wil graag worden geïnformeerd als er over het opgeloste probleem gepubliceerd wordt.
+Deze tekst is gebaseerd op een tekst van Floor Terra. Die tekst staat op responsibledisclosure.nl gedeeld onder een Begin externe link: , eind externe link..

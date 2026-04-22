@@ -1,0 +1,32 @@
+Meld zwakke plekken in onze beveiliging
+DUO vindt de veiligheid van zijn systemen erg belangrijk. Wij doen onze uiterste best om onze systemen en applicaties afdoende te beveiligen. Vindt u toch een zwakke plek in 1 van onze systemen, dan horen wij dit graag. Wij kunnen dan zo snel mogelijk maatregelen treffen.
+Wat wij u vragen
+- E-mail uw bevindingen naar security@duo.nl. Als u de melding alleen versleuteld wilt versturen, meld dit dan in uw e-mail. Wij geven u dan instructies hoe u dit kunt doen.
+- Geef voldoende informatie om het probleem te reproduceren. Meestal is het IP-adres of de URL en een omschrijving voldoende, maar bij complexere problemen kan meer uitleg nodig zijn.
+- Misbruik het probleem niet door bijvoorbeeld meer data te downloaden dan nodig. Of door gegevens van derden in te kijken, te verwijderen of aan te passen.
+- Deel het probleem niet met anderen totdat het is opgelost. Hebt u vertrouwelijke gegevens verkregen via het lek? Wis deze direct nadat het lek is gedicht.
+- Gebruik geen aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden.
+Wat wij u beloven
+- Wij reageren binnen 3 werkdagen op uw melding. Wij geven u onze beoordeling van de melding en de verwachte datum dat het probleem is opgelost.
+- Wij behandelen uw melding vertrouwelijk. Wij delen uw persoonlijke gegevens niet zonder uw toestemming met derden, tenzij dat nodig is vanwege een wettelijke verplichting. U kunt een probleem ook anoniem melden.
+- Wij houden u op de hoogte over de voortgang van de oplossing van het probleem.
+- In eventuele berichtgeving over het probleem vermelden wij uw naam als de ontdekker, maar alleen als u dat wilt.
+- Als dank bieden wij u een cadeaubon aan voor elke melding van een beveiligingsprobleem waar wij nog niet van wisten. De hoogte van de beloning is afhankelijk van de ernst van het lek en de kwaliteit van de melding.
+- Wij streven ernaar om alle problemen zo snel mogelijk op te lossen. Wij worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
+- Hebt u zich aan bovenstaande voorwaarden gehouden? Dan zullen wij geen juridische stappen tegen u ondernemen betreffende de melding.
+Report vulnerabilities in our security
+At DUO, the security of our systems is a top priority. We will do whatever we can to adequately protect our systems and applications. If you nonetheless discover a vulnerability in one of our systems, we would like to know about it. We can then take steps to address the problem as quickly as possible.
+What we ask from you
+- Send an email of your findings to security@duo.nl. If you only want to send your email encrypted, please inform us at the above email address. We will send you instructions on how to send us encrypted information.
+- Provide sufficient information to reproduce the problem. Usually, the IP address or the URL and a description will do, but complex vulnerabilities may require further explanation.
+- Do not take advantage of the vulnerability or problem, for example by downloading more data than necessary. Or by consulting, deleting or modifying other people’s data.
+- Do not reveal the problem to others until it has been solved. Did you obtain confidential data through the leak? Delete these as soon as the problem has been solved.
+- Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties.
+What we promise
+- We will respond to your report within 3 business days. We will provide our evaluation of the report and an expected solution date.
+- We will handle your report with strict confidentiality. We will not share your personal details with third parties, unless we are under legal obligation to do so. You can also report a problem anonymously.
+- We will keep you updated on the progress of the solution to the problem.
+- In any public information concerning the problem, we will give your name as the discoverer of the problem. But only if you want us to.
+- As a token of appreciation we offer a gift voucher for any notification of a previously unknown security problem. The amount depends on the seriousness of the problem and the quality of the notification.
+- We strive to solve all problems as quickly as possible. We would like to play an active role in any publication on the problem after it has been solved.
+- If you have followed the instructions above, we will not take any legal action against you in regard to the report.

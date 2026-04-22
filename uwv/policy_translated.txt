@@ -1,0 +1,26 @@
+Send an email to cvd@uwv.nl as soon as possible. Include the following:
+
+- The IP address or URL in question.
+- A description of the problem.
+- How we can reproduce and investigate the problem.
+- Your name, phone number, and email address.
+
+Encrypt the email with our PGP key.
+
+After your report
+You will receive an acknowledgment of receipt within 1 day. We will respond to your report within 5 days. We will also keep you informed thereafter.
+
+Never share the information with others. Take responsibility and do not go further than necessary to demonstrate the problem. This means:
+
+- Do not install malware.
+- Do not copy, change, or delete data. An alternative is a directory listing of the system.
+
+- Do not make any system changes.
+
+- Do not break into the system multiple times.
+- Do not use brute force to gain access.
+- Do not use denial-of-service or social engineering. No legal consequences
+
+If you adhere to these rules, we will not file a complaint against you. We treat your report with strict confidentiality. We also do not share personal data with others without your permission, unless legally required or compelled by a court ruling.
+
+If you make a significant contribution to the security of our digital services, we may include your name in our Hall of Fame (English). We do not offer a monetary reward.

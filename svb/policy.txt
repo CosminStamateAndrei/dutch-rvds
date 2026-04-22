@@ -1,0 +1,50 @@
+Reporting security vulnerabilities
+It is very important to us that our systems are secure. If you discover a vulnerability in any of our systems, please help us by reporting it to us so that we can improve the safety and reliability of our systems together.
+Our specialists will start dealing with your report immediately and send you an initial reply as soon as possible. We will ask you to treat your findings confidentially while our investigation is ongoing.
+What type of vulnerabilities should you report?
+These are the types of vulnerabilities you can report:
+- Remote Code Execution (RCE): executing a code to gain access to a network system or server
+- Cross-Site Scripting (XSS): injecting malicious scripts into websites and programs
+- Cross-Site Request Forgery (CSRF): tricking a user into granting an online request
+- SQL injection: changing and accessing database information that cannot normally be viewed by website users
+- Vulnerabilities relating to encryption: accessing confidential information
+- Unauthorised access to data: accessing or sharing data without having been given permission to do so
+How to report a vulnerability
+If you have discovered a vulnerability, please do not use it. Also, do not tell anyone else about it.
+Please wait while information is being loaded
+- Make sure that you do not cause any damage to our systems
+- Make sure you do not interrupt our online services
+- Do not use social engineering (such as allowing other persons to share confidential data) to gain access to our systems
+- Never publicise any SVB data or client data you may have found
+- Do not put a backdoor in the system, not even for the purpose of showing the vulnerability
+- Never change or remove any data in the system
+- Do not copy any more data than is strictly necessary
+- Do not try to access the system more than once
+- Do not tell anyone else how to access the system
+- Do not keep trying different passwords in order to access the system (brute-force tactics)
+We will only use your personal data to work on the problem you have reported. We will never give your personal data to anyone else without your permission, except where we are obliged to do so by law. If we need to ask another company to help us with our investigation, we always ensure that they keep your data confidential, too.
+You do not need to report the following vulnerabilities:
+- A suspected vulnerability for which there is no clear evidence
+- Vulnerabilities found on the websites of organisations that are no longer part of the SVB
+- Our policy on the presence or absence of methods to check the authenticity of emails, such as SPF, DKIM or DMARC records
+- Cross-Site Request Forgery (CSRF) vulnerabilities (unless these are found after you have logged in)
+- Redirection from an insecure page (HTTP) to a secure page (HTTPS)
+- The fact that we do not use HTTP Strict Transport Security (HSTS)
+- Getting site visitors to click on something that is not what they wanted (clickjacking)
+- The lack of an option to load windows in pages other than login pages: X-Frame-Options
+- Possible old versions of a server or program (from an external supplier) without evidence to show that these versions are vulnerable
+- Reports on insecure SSL protocols or TLS protocols and other faulty settings
+- Distributed Denial of Service (DDoS) attacks: attempts to limit or block clients from accessing a computer, computer network or service
+- Spamming techniques, such as sending out emails in large quantities
+- Social engineering techniques, such as getting people to share confidential information
+- Reports of automated scanners, such as port scanners
+- Sending complaints about our products or services
+- Questions or complaints about the accessibility of our websites
+- Reporting problems concerning payments
+- Reporting fraud or suspected fraud
+- Reporting fake emails or phishing emails
+We would like you to report any vulnerabilities you discover to us. You may then qualify for a gift card from Bol.com or Amazon.com. The amount you can receive depends on:
+- the severity of the problem
+- the website concerned: is it a static information website or an online SVB website?
+- the quality of your report
+If your report is crucial to us maintaining the trust of our clients, the reward will be higher. We will not pay a reward if there is evidence of misuse.

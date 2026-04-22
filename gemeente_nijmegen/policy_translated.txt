@@ -1,0 +1,76 @@
+Report a security or data breach
+
+Do you think you have found a vulnerability in one of our (digital) services (security breach)? Or can you view or access confidential information such as personal data (data breach)? We would like to work with you to resolve this situation as quickly as possible. Therefore, we ask you to provide this information to us.
+
+What you need to know
+- You can use this PGP key to encrypt your message
+
+- Personal data includes, for example:
+
+- Name
+- Address
+- Date of birth
+- Citizen Service Number
+Examples of a data breach
+
+- Online access to other people's personal data
+- Letter containing personal data not intended for you
+- Lost or found USB stick with address files
+- Stolen laptop/ tablet / smartphone
+- Cyberattacks (incl. DDoS)
+- Email sent to incorrect addresses
+
+What do we do if a security or data breach is discovered? - Close the (security) leak
+- Determine which data has been leaked and who has been harmed
+- Is there a real risk of a high-risk breach of the data subject's privacy? If so, we will report the data leak to the Dutch Data Protection Authority
+- Inform the harmed party(ies) and provide assistance to minimize the damage caused by the data leak
+This is what we ask of you
+- Report your findings as soon as possible using the form. Encrypt your findings with our PGP key to prevent the information from falling into the wrong hands
+- Provide us with sufficient information to reproduce the problem. This allows us to resolve the issue as quickly as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient. However, more may be required for more complex vulnerabilities
+- Leave your details so that we can contact you. This allows us to work together towards a secure outcome. You can also report something anonymously. In that case, we will be unable to keep you informed or make arrangements with you regarding the resolution.
+- Do not share your findings with others until the problem has been resolved.
+- Handle knowledge about the security issue responsibly. For example, by:
+
+- Not retrieving more data than is necessary to demonstrate the vulnerability.
+- Not viewing, deleting, or modifying data.
+- Not sharing access with others.
+- Not placing your own ‘back-door’ in the system.
+- Delete all data you retrieved via the security issue as soon as possible.
+- Do not launch attacks against:
+- physical security
+- social engineering
+- malware deployment
+- distributed denial of service
+- spam
+- third-party applications, etc.
+
+We promise:
+- We will not take legal action if you comply with the above requests.
+- We will respond to your report within 3 days with our assessment of the report and an expected date for a solution.
+- We will treat your report confidentially.
+- We will not share your personal data with third parties without your permission. Unless this is necessary to comply with a legal obligation
+- We will resolve the problem as soon as possible
+- We will keep you informed of the progress of the solution
+- We will determine, in consultation with you, whether and how the problem will be communicated
+- We will mention your name as the discoverer in the reporting regarding the reported problem, if you wish
+
+National Cyber ​​Security Centre Guidelines
+Do you wish to report vulnerabilities in IT systems? The National Cyber ​​Security Centre of the Ministry of Security and Justice has created guidelines regarding this.
+
+The Municipality of Nijmegen would like to thank the following people who discovered security issues on our website(s). They reported this to us in the proper manner. - Ahmad Alassaf (2024)
+
+- John Jacobs (2023)
+
+- Koen van de Lest and Casper van Strien (2023)
+
+- Umesh Jore (2020)
+
+- Erik van Oosbree (2016)
+
+The Municipality of Nijmegen would like to thank the following people who have discovered and responsibly disclosed vulnerabilities in our websites:
+
+- Ahmad Alassaf (2024)
+- John Jacobs (2023)
+- Koen van de Lest and Casper van Strien (2023)
+- Umesh Jore (2020)
+- Erik van Oosbree (2016)

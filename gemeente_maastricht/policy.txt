@@ -1,0 +1,24 @@
+We ask you to do the following
+- E-mail your findings to cert [at] maastricht.nl (cert[at]maastricht[dot]nl). If possible, encrypt the findings using our PGP key to prevent information getting into the wrong hands.
+- Provide enough information to reproduce the problem, so that we can resolve it swiftly. Usually, the IP address or the URL of the system affected and a description of the vulnerability is sufficient, but in more complex vulnerabilities, more may be needed.
+- We welcome any tips that will help us to resolve the issue. Please only provide verifiable facts concerning the vulnerability you have detected, and avoid giving advice which, in reality, amounts to advertising for specific security or other products.
+- Provide contact details, so that we can get in touch with you to work together to restore security. As a minimum, provide an e-mail address or telephone number.
+- Please submit the disclosure as soon as possible after discovering the vulnerability.
+Public PGP-Key valid for 2021
+The following actions are not permitted
+- Placing malware on our systems or those of others.
+- Brute force attacks to access systems.
+- Using social engineering.
+- Disclosing information about the security problem, or sharing such information with third parties, before the problem has been resolved.
+- Doing anything more than is strictly necessary in order to flag and report the security issue. This applies in particular to processing (including viewing or copying) confidential data to which you gained access as a result of the vulnerability. Rather than copying an entire database, a directory listing, for instance, will normally suffice. Modifying or deleting data in the system is never permitted.
+- Using techniques which impede the availability and/or usability of the system or services (DDoS and DoS attacks).
+- Abusing the vulnerability in any way whatsoever.
+What you can expect
+- If you satisfy all the above conditions, we will not bring criminal proceedings against you, or initiate a civil case.
+- Should it become apparent that you have violated any of the above conditions, we may decide to take proceedings against you.
+- We handle disclosures in confidence and do not share a disclosing party's data with third parties without his or her consent, unless we are required by law or a court ruling to do so.
+- We always share disclosures received with the Information Security Service of Dutch Municipalities (Informatiebeveiligingsdienst, IBD). This is to ensure that municipalities share their experiences in this area with each other.
+- If you wish, we may agree to disclose your name as the person who discovered the reported vulnerability. In all other cases, you will remain anonymous.
+- We will send you an automated acknowledgement of receipt within 1 working day.
+- We respond to disclosures within 5 working days, with an assessment, or preliminary assessment, of the disclosure and, if appropriate, the date by which we expect to resolve the issue.
+- We may agree with you whether, and when, the problem will be notified to the public, once it has been resolved.

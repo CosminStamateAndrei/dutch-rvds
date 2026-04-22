@@ -1,0 +1,36 @@
+Kwetsbaarheid melden (Coordinated Vulnerability Disclosure)
+Ontdekt u een kwetsbaarheid in een systeem van de Autoriteit Persoonsgegevens (AP)? Dan hoort de AP dat graag. Meld de kwetsbaarheid bij de AP vóórdat u deze (openbaar) deelt met anderen. Zo kan de AP eerst passende maatregelen treffen. Dit heet Coordinated Vulnerability Disclosure.
+Vertrouwelijk
+De AP behandelt uw melding vertrouwelijk. De AP deelt persoonlijke gegevens niet zonder uw toestemming met derden, tenzij dat wettelijk of door een rechterlijke uitspraak verplicht is. De AP kan, als u dat wilt, uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid. In de privacyverklaring leest u hoe lang wij uw gegevens bewaren.
+Welke kwetsbaarheden kunt u melden?
+Een kwetsbaarheid in de beveiliging van een omgeving van de AP, zoals autoriteitpersoonsgegevens.nl.
+Verantwoord melden
+Als u een kwetsbaarheid in onze systemen ontdekt, vragen wij u om dit op een verantwoorde manier te melden. Als u rekening houdt met onderstaande aandachtspunten, dan heeft de AP geen reden om juridische stappen tegen u te ondernemen.
+- Houd informatie over de kwetsbaarheid vertrouwelijk.
+Deel de kwetsbaarheid niet met anderen totdat u van ons hoort dat het probleem is opgelost. Kan dat volgens u niet wachten? Neem dan eerst contact met ons op. - Meld de kwetsbaarheid zo snel mogelijk na ontdekking.
+Dit helpt ons om tijdig actie te ondernemen en de beveiliging te verbeteren. - Ga verantwoordelijk om met de kennis over de kwetsbaarheid.
+Heeft u tijdens het onderzoek toegang gekregen tot (vertrouwelijke) gegevens, dan vragen we u om:- Deze gegevens niet langer te bekijken of bewaren dan strikt noodzakelijk is voor de melding;
+- Deze gegevens niet met anderen te delen;
+- Direct te melden dat u toegang hebt gekregen tot dergelijke informatie;
+- Eventuele kopieën te verwijderen zodra deze niet langer nodig zijn voor de melding.
+- Handel verantwoord.
+Voer geen acties uit die zorgen voor verstoring van de systemen of de integriteit van data van de AP. Vermijd onder andere:- Social engineering;
+- Brute-force aanvallen;
+- (D)DOS-aanvallen;
+- Opzettelijk wijzigen of verwijderen van gegevens;
+- Plaatsen van malware;
+- Andere invasieve aanvalsmethoden.
+Melding
+De AP neemt alleen duidelijke, volledige meldingen in behandeling. Daarom vragen we u om deze informatie mee te sturen:
+- Om wat voor kwetsbaarheid het gaat;
+- Een heldere, stapsgewijze uitleg van de kwetsbaarheid, zodat we het probleem kunnen reproduceren (verplicht);
+- Uitleg van het risico en gevaar van de kwetsbaarheid (verplicht);
+- Domeinen en/of IP-adressen die door de kwetsbaarheid getroffen zijn (verplicht);
+- Uw contactgegevens (naam, e-mailadres en telefoonnummer), zodat we u aanvullende vragen kunnen stellen als dat nodig is en terugkoppeling kunnen geven over uw melding.
+Stuur uw melding naar het informatiebeveiligingsteam van de AP via incident@Verwijder-deze-text.autoriteitpersoonsgegevens.nl.
+Nadat u melding heeft gedaan
+Dit gebeurt er nadat u uw melding heeft ingediend:
+- U krijgt binnen 1 werkdag een ontvangstbevestiging van de AP;
+- Als het nodig is, vraagt een medewerker van de AP meer informatie bij u op;
+- De AP streeft ernaar om het beveiligingsprobleem binnen 60 dagen op te lossen. Voor het oplossen van het probleem is de AP vaak afhankelijk van (toe)leveranciers;
+- Als het probleem is opgelost, krijg u daarover bericht als u dat wilt.

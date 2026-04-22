@@ -1,0 +1,20 @@
+De provincie Zuid-Holland hecht veel belang aan de beveiliging van haar systemen. Ondanks alle voorzorgsmaatregelen blijft het mogelijk dat een zwakke plek in de systemen te vinden is. Wanneer je een zwakke plek in één van onze systemen ontdekt, vernemen wij dit graag van je, zodat wij snel gepaste maatregelen kunnen nemen. Door het maken van een melding zal de provincie Zuid-Holland je melding conform onderstaande afspraken afhandelen.
+Geef voldoende informatie om het probleem te reproduceren, zodat we het zo snel mogelijk kunnen oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Wij houden ons aanbevolen voor tips die ons helpen het probleem op te lossen. Beperk je je daarbij wel graag tot verifieerbare feitelijkheden die betrekking hebben op de door jou geconstateerde kwetsbaarheid en vermijd dat je advies in feite neerkomt op reclame voor specifieke (beveiligings-)producten.
+Contactgegevens achter te laten zodat we met je in contact kunnen treden om samen te werken aan een veilig resultaat. Laat minimaal één e-mailadres of telefoonnummer achter.
+Dien de melding alsjeblieft zo snel mogelijk in na ontdekking van de kwetsbaarheid.
+De volgende handelingen zijn niet toegestaan
+Het plaatsen van malware, noch op onze systemen noch op die van anderen;
+Het zogeheten “bruteforcen” van toegang tot systemen, behalve voor zover dat strikt noodzakelijk is om aan te tonen dat de beveiliging op dit vlak ernstig tekort schiet, dat wil zeggen als het buitengewoon eenvoudig is om met openbaar verkrijgbare en goed betaalbare hardware en software een wachtwoord te kraken waarmee het systeem ernstig kan worden gecompromitteerd;
+Het gebruik maken van social engineering;
+Het openbaar maken of aan derden verstrekken van informatie over het beveiligingsprobleem voordat het is opgelost;
+Het verrichten van handelingen die verder gaan dan wat strikt noodzakelijk is om het beveiligingsprobleem aan te tonen en te melden. In het bijzonder waar het gaat om het verwerken (waaronder het inzien of kopiëren) van vertrouwelijke gegevens waar je door de kwetsbaarheid toegang toe hebt gehad. In plaats van een complete database te kopiëren, kun je normaliter volstaan met bijvoorbeeld een directory listing. Het wijzigen of verwijderen van gegevens in het systeem is nooit toegestaan;
+Het gebruik maken van technieken waarmee de beschikbaarheid en/of bruikbaarheid van het systeem of services wordt verminderd (DoS-aanvallen);
+Het op wat voor (andere) wijze dan ook misbruik maken van de kwetsbaarheid.
+Wat je mag verwachten
+Indien je aan alle bovenstaande voorwaarden voldoet, zullen wij geen strafrechtelijke aangifte tegen je doen en ook geen civielrechtelijke zaak tegen je aanspannen.
+Als blijkt dat je een bovenstaande voorwaarde toch hebt geschonden, kunnen wij alsnog besluiten om gerechtelijke stappen tegen je te ondernemen.
+Wij behandelen een melding vertrouwelijk en delen persoonlijke gegevens van een melder niet zonder diens toestemming met derden, tenzij wij daar volgens de wet of een rechterlijke uitspraak toe verplicht zijn.
+Provincie Zuid-Holland kan de ontvangen melding delen met overheidspartners voor het verbeteren van de informatieveiligheid van de overheidsorganisaties;
+Wij sturen je een (automatische) ontvangstbevestiging en wij houden je op de hoogte van de voortgang van de oplossing.
+Wij reageren binnen 5 werkdagen op een melding met een (eerste) beoordeling van de melding en een verwachte datum voor een oplossing.

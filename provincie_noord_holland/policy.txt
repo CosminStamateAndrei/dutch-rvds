@@ -1,0 +1,22 @@
+Responsible Disclosure
+De provincie Noord-Holland vindt veiligheid van haar systemen erg belangrijk. Ondanks de zorg voor beveiliging kan een zwakke plek toch voorkomen. De provincie werkt graag samen met u om haar systemen nog beter te kunnen beschermen. Om zo snel mogelijk maatregelen te kunnen nemen, hoort de provincie het graag als u zo’n zwakke plek in een van onze systemen ontdekt.
+Voorwaarden melding beveiligingsprobleem:
+- Mail uw bevinding(en) naar: informatiebeveiliging@noord-holland.nl.
+- Geef voldoende informatie over het probleem zodat de provincie dit zo snel mogelijk kan oplossen. Meestal is het IP-adres of de URL (webadres) van het bewuste systeem en een omschrijving van beveiligingsprobleem voldoende.
+- Laat uw contactgegevens (minimaal een e-mailadres of telefoonnummer) achter zodat de provincie u kan benaderen om samen aan een veilig resultaat te werken.
+- Geef het beveiligingsprobleem zo snel mogelijk na ontdekking door. Deel informatie over het probleem niet met anderen totdat het is opgelost.
+- Ga verantwoordelijk om met de kennis over het beveiligingsprobleem. Verricht geen handelingen die verder gaan dan noodzakelijk om het beveiligingsprobleem aan te tonen.
+Wat u mag van de provincie verwachten?
+- De provincie verbindt geen juridische consequenties aan uw melding wanneer u zich aan bovenstaande voorwaarden houdt.
+- De provincie behandelt uw melding vertrouwelijk en deelt persoonlijke gegevens niet met derden zonder uw toestemming, tenzij dit wettelijk of uit hoofde van een rechterlijke uitspraak verplicht is.
+- In onderling overleg kan de provincie, wanneer u dat wenst, uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid.
+- U ontvangt binnen 1 werkdag een ontvangstbevestiging.
+- Binnen 3 werkdagen reageert de provincie op een melding met een beoordeling van de melding en een verwachte datum voor een oplossing.
+- De provincie houdt u op de hoogte van de voortgang van het oplossen van het probleem.
+- De provincie lost het geconstateerde beveiligingsprobleem zo snel mogelijk, maar uiterlijk binnen 90 dagen, op.
+- In onderling overleg kan worden bepaald of en zo ja op welke wijze het opgeloste probleem bekend wordt gemaakt.
+Wat doet de provincie als zij kwetsbaarheden bij anderen constateert?
+- De provincie voert alleen onderzoek uit naar lekken in door derden beheerde systemen (samenwerkingspartners of leveranciers) nadat onderling overleg hierover heeft plaatsgevonden. Wel behoudt de provincie zich het recht voor om, zonder voorafgaande kennisgeving, onderzoek naar kwetsbaarheden uit te voeren.
+- De provincie brengt geen beveiligingslekken in software of systemen van derden in de publiciteit.
+- Door de provincie geconstateerde zwakke plekken meldt zij zo spoedig mogelijk aan de partij die verantwoordelijk is voor de hosting en/of het beheer van de systemen en software.
+- Door de provincie geconstateerde beveiligingslekken of -problemen worden, als de ernst van het geconstateerde dat rechtvaardigt, gemeld bij het Nationaal Cyber Security Center van de Nederlandse overheid.

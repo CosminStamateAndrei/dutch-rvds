@@ -1,0 +1,37 @@
+ 
+ 
+Responsible Disclosure   
+ 
+• At Leiden University, we consider the security of our systems of the utmost importance. 
+Despite the considerable attention we devote to securing our systems, there may still be 
+weak spots. 
+ If you have discovered such a weak spot in one of our systems, please let us know so that we 
+can take appropriate action as soon as possible. We want to work together with you to 
+better protect our systems. However, this is not an invitation to start actively scanning our 
+network or systems for vulnerabilities. We monitor our network ourselves.  
+ If you adhere to the following conditions, we will not take legal action against you unless we 
+are obliged to do so by law.   
+We request that you:  
+• Email your findings as soon as possible to abuse@leidenuniv.nl; you can use our PGP key to 
+do this (fingerprint E69D 56CB FAB3 E0F8 EE00 8623 7E1E ECF9 436E 6A5B);   
+• Do not abuse the situation by, for example, downloading more data than is necessary to 
+pinpoint the leak, neither view, remove nor modify data from third parties;  
+• Do not inform others of the problem until it is resolved and promptly delete all confidential 
+information obtained through the leak after receiving our confirmation of receipt of 
+notification of the leak;   
+• Do not take advantage of attacks on physical security, social engineering, distributed denial 
+or service, spam or malware;  
+• Provide sufficient information to reproduce the problem so that we can resolve it as quickly 
+as possible.  Usually the IP address or URL of the affected system and a description of the 
+vulnerability is sufficient, but additional information may be required for more complex 
+vulnerabilities.   
+What we promise:  
+• We will respond to your report within 5 days and will keep you informed of the steps taken 
+to resolve the problem;  
+• We will treat your report confidentially and will not share your personal information with 
+third parties, unless this is necessary for compliance with a legal obligation;  
+• If news coverage appears about the reported problem, we will coordinate with you and 
+possibly mention your name as the person responsible for discovering the problem;  
+ 
+ 
+This Responsible Disclosure is based on an example written by Floor Terra.                  

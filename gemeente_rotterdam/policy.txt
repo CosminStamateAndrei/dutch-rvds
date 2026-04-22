@@ -1,0 +1,52 @@
+Responsible Disclosure
+Gemeente Rotterdam vindt de beveiliging van informatie- en communicatietechnologie erg belangrĳk.
+Maar hoewel de gemeente volop aandacht heeft voor beveiliging van haar ICT-systemen, kan er toch een
+zwakke plek aanwezig zijn.
+Sommige mensen zoeken actief naar deze zwakke plekken. Bij 'responsible disclosure' geeft de ontdekker de
+organisatie - in dit geval gemeente Rotterdam - tijd om het lek te dichten. Mocht u een zwakke plek in één van
+onze systemen vinden, dan horen wij dat graag. Wij nemen dan snel maatregelen om het lek te dichten.
+Wij vragen u om:
+Leestijd: 3 min
+de gevonden kwetsbaarheid aan ons te melden .
+niet op onevenredige wijze te handelen en de gevonden kwetsbaarheid niet te misbruiken. Bijvoorbeeld
+door:
+gebruik te maken van social engineering of aanvallen op fysieke beveiliging om zich op die wijze toegang
+te verschaffen tot het systeem.
+een eigen backdoor in een informatiesysteem te plaatsen om vervolgens daarmee de kwetsbaarheid aan
+te tonen. Daarmee kan aanvullende schade  worden aangericht en onnodige veiligheidsrisico's worden
+gelopen.
+een kwetsbaarheid verder uit te nutten dan noodzakelijk is om de kwetsbaarheid vast te stellen.
+gegevens van het systeem te kopiëren, te wijzigen of te verwijderen. Een alternatief hiervoor is het maken
+van een directory listing van een systeem.
+veranderingen in het systeem aan te brengen.
+herhaaldelijk toegang tot het systeem te verkrijgen.
+gebruik te maken van het zogeheten distributed denial of service, spam of 'bruteforcen' van toegang tot
+systemen, daarbij is immers geen sprake van een kwetsbaarheid, maar alleen van het herhaaldelijk
+proberen van wachtwoorden.
+niet meer data te downloaden dan nodig is om het lek aan te tonen. Wees zorgvuldig met gegevens van
+derden door deze gegevens niet in te kijken, te verwijderen of aan te passen.
+Lees voor
+
+Wij beloven dat wij:
+Meer informatie
+Gemeente Rotterdam streeft ernaar alle kwetsbaarheden zo snel mogelijk op te lossen. Nadat de
+kwetsbaarheid is opgelost en u hierover wilt publiceren, zijn wij graag vooraf betrokken bij deze publicaties.
+Zie ook
+informatie over de kwetsbaarheid niet met anderen te delen. Deel de informatie over de kwetsbaarheid pas
+nadat wij het lek gedicht hebben en u daarover bericht hebben. Deel geen vertrouwelijke gegevens die u
+verkregen heeft. Wis de gegevens direct na het dichten van het lek.
+ons voldoende informatie te geven om de kwetsbaarheid te reproduceren en de tijd te geven om de
+kwetsbaarheid te onderzoeken en te verhelpen. Meestal is het IP-adres of de URL van het getroffen systeem
+en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan meer
+nodig zijn.
+Report the vulnerability in English .
+binnen vijf werkdagen reageren op uw melding met onze beoordeling en de verwachte oplossingsdatum.
+geen strafrechtelijke stappen tegen u ondernemen als u zich aan bovenstaande voorwaarden houdt.
+uw melding vertrouwelijk behandelen en uw persoonlijke gegevens niet zonder uw toestemming met derden
+delen, tenzij dat wettelijk gezien of door een gerechtelijke uitspraak nodig is. Melden onder een pseudoniem
+is mogelijk.
+u op de hoogte houden van de voortgang van de oplossing van de kwetsbaarheid. In berichtgeving over de
+kwetsbaarheid vermelden wij - als u dat wenst - uw naam als ontdekker.
+Rotterdam digitaal
+Cybercriminaliteit
+Bibob

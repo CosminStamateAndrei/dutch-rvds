@@ -1,0 +1,25 @@
+De RID-Utrecht hecht veel belang aan de beveiliging van haar systemen. Ondanks alle voorzorgsmaatregelen blijft het mogelijk dat een zwakke plek in de systemen te vinden is. Wanneer u een zwakke plek in één van onze systemen ontdekt, vernemen wij dit graag van u, zodat wij snel gepaste maatregelen kunnen nemen. Door het maken van een melding verklaart u zich als melder akkoord met onderstaande afspraken over Coordinated Vulnerability Disclosure en zal RID-Utrecht uw melding conform onderstaande afspraken afhandelen.
+Wij vragen het volgende van u:
+- Mail uw bevindingen naar servicedesk@rid-utrecht.nl. Versleutel de bevindingen indien mogelijk om te voorkomen dat de informatie in verkeerde handen valt;
+- Geef voldoende informatie om het probleem te reproduceren, zodat we het zo snel mogelijk kunnen oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn;
+- Wij houden ons aanbevolen voor tips die ons helpen het probleem op te lossen. Beperkt u zich daarbij wel graag tot verifieerbare feitelijkheden die betrekking hebben op de door u geconstateerde kwetsbaarheid en vermijd dat uw advies in feite neerkomt op reclame voor specifieke (beveiligings)producten;
+- Indien u terugkoppeling wenst kunt u uw contactgegevens achterlaten, laat dan een e-mail of telefoonnummer achter.
+De volgende handelingen zijn niet toegestaan:
+- Het uitvoeren van handelingen die een eventueel gevaar voor onze continuïteit kunnen opleveren, bijvoorbeeld:
+- Het plaatsen van malware, noch op onze systemen noch op die van anderen;
+- Het zogeheten “bruteforcen” van toegang tot systemen, behalve voor zover dat strikt noodzakelijk is om aan te tonen dat de beveiliging op dit vlak ernstig tekort schiet, dat wil zeggen als het buitengewoon eenvoudig is om met openbaar verkrijgbare en goed betaalbare hardware en software een wachtwoord te kraken waarmee het systeem ernstig kan worden gecompromitteerd;
+- Het gebruik maken van technieken waarmee de beschikbaarheid en/of bruikbaarheid van het systeem of services wordt verminderd (DoS-aanvallen).
+- Het gebruik maken van social engineering, behalve voor zover dat strikt noodzakelijk is om aan te tonen dat medewerkers met toegang tot gevoelige gegevens in het algemeen (ernstig) tekortschieten in hun plicht om daar zorgvuldig mee om te gaan. Dat wil zeggen als het op overigens volkomen legale wijze (dus niet via chantage of iets dergelijks) in het algemeen te eenvoudig is om hen over te halen tot het verstrekken van dergelijke gegevens aan onbevoegden. U dient daarbij alle zorg te betrachten die redelijkerwijs van u verwacht kan worden om de betreffende medewerkers zelf niet te schaden. Uw bevindingen dienen uitsluitend te zijn gericht op het aantonen van kennelijke gebreken in de procedures en werkwijze binnen de gemeente en niet op het schaden van individuele personen die bij de gemeente werkzaam zijn;
+- Het openbaar maken of aan derden verstrekken van informatie over het beveiligingsprobleem voordat het probleem is opgelost;
+- Het op wat voor (andere) wijze dan ook misbruik maken van de kwetsbaarheid.
+Wat u mag verwachten:
+- Indien u aan alle bovenstaande voorwaarden voldoet, zullen wij geen strafrechtelijke aangifte tegen u doen en ook geen civielrechtelijke zaak tegen u aanspannen.
+- Als blijkt dat u een bovenstaande voorwaarde toch heeft geschonden, kunnen wij alsnog besluiten om gerechtelijke stappen tegen u te ondernemen.
+- Wij behandelen een melding vertrouwelijk en delen persoonlijke gegevens van een melder niet zonder diens toestemming met derden, tenzij wij daar volgens de wet of een rechterlijke uitspraak toe verplicht zijn.
+- Wij delen de ontvangen melding altijd met de Informatiebeveiligingsdienst voor gemeenten (IBD). Zo borgen wij dat gemeenten hun ervaringen op dit vlak met elkaar delen.
+- In onderling overleg kunnen we, indien u dit wenst, uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid. In alle andere gevallen blijft u anoniem.
+- Wij sturen u binnen 1 werkdag een (automatische) ontvangstbevestiging.
+- Wij reageren binnen 3 werkdagen op een melding met een (eerste) beoordeling van de melding en eventueel een verwachte datum voor een oplossing.
+- Wij nemen zo snel mogelijk maatregelen op het door u gemelde beveiligingsprobleem. Daarbij streven we ernaar om u goed op de hoogte te houden van de voortgang en nooit langer dan 90 dagen te doen over het nemen van maatregelen. Wij zijn daarbij vaak wel mede afhankelijk van toeleveranciers.
+- In onderling overleg kan worden bepaald of en op welke wijze over het probleem wordt gepubliceerd, nadat het is opgelost.
+- Wij belonen jou als dank voor je hulp met een passende beloning voor elke melding van een bij ons nog onbekend beveiligingsprobleem op onze systemen. De aard en grootte van de beloning bepalen wij aan de hand van de ernst van het lek en de kwaliteit van de melding.

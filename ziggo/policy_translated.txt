@@ -1,0 +1,109 @@
+1 of 3
+
+Responsible Disclosure Code of Conduct
+
+Scope
+- This code of conduct focuses on the procedure for reporting suspected security issues
+
+and the responsible public disclosure thereof (hereinafter: responsible disclosure)
+- This code of conduct applies to both Ziggo and the reporter of a security issue or
+
+vulnerability.
+
+- What is agreed in this code does not affect statutory agreements
+
+Definitions
+
+a. A report concerns the reporting by a reporter to Ziggo of a suspected security issue,
+
+in order to make the problem known in a responsible manner.
+
+b. The reporter is the person or entity making a report.
+
+c. Ziggo is a provider of public telecommunication networks and services.
+
+d. A security problem or vulnerability is a (suspected) weakness in or breach of the
+security of the infrastructure or ICT system of Ziggo and/or of the customers.
+
+e. A customer refers to the party with whom Ziggo has a (business) agreement for the management of
+infrastructure or ICT systems.
+
+1. Background
+Ziggo takes security very seriously. Trust in service provision is paramount.
+Unfortunately, incidents do occur. Ziggo has its own responsibility to ensure security in an appropriate manner.
+
+In addition, Ziggo works jointly with other companies in the Telecom sector to increase
+security. Ziggo depends on complex ICT systems for the continuity of its services. The
+privacy of Ziggo users and customers is of great importance, as is the confidentiality of
+communication and information. Therefore, it must be prevented that unauthorized persons gain access to Ziggo's
+infrastructure or the data of Ziggo users and customers. To prevent this, Ziggo invests heavily in the security of its infrastructure. In addition, Ziggo continuously monitors for irregularities, such as intrusion attempts.
+
+Incidents can have various causes, such as human error, external factors like power outages, or vulnerabilities in an ICT system. In some cases, vulnerabilities are detected prematurely by third parties. With a responsible disclosure procedure, Ziggo aims to make it easier for users to report suspected security issues. By doing so, Ziggo hopes to resolve problems more quickly and prevent information from falling into the wrong hands.
+
+Differences may arise in the way reports are followed up. For instance, a vulnerability that has already been discovered and for which an update exists is easier to patch than a vulnerability that comes to light for the first time. Experience with responsible disclosure programs from international companies shows that it can sometimes take more than six months before some newly discovered vulnerabilities are adequately resolved.
+
+
+2 of 3
+
+2. Responsible disclosure procedure
+
+A responsible disclosure procedure involves having process agreements in place so that it is clear to third parties how they can responsibly report vulnerabilities in the security of the infrastructure and ICT systems to Ziggo.
+
+By endorsing this code of conduct, Ziggo applies the following principles and process agreements for responsible disclosure:
+
+2.1 The principles
+a. Ziggo ensures a process and its own reporting point that are clear to third parties for reporting security problems and vulnerabilities. Ziggo ensures that this process is made known, for example by posting a message on the Ziggo website with an explanation and preconditions.
+
+b. Ziggo ensures that the process agreements are known and adhered to in relevant places within the organization.
+
+c. The reporter of a vulnerability and Ziggo agree on the timeframe within which clarity will be provided regarding the manner in which the vulnerability will be remedied.
+
+d. The reporter of a vulnerability and Ziggo agree on whether and in what manner publicity will be sought as soon as it is clear how the vulnerability has been remedied.
+
+2.2 Process agreements for a report
+a. Vulnerabilities can be reported in an accessible manner. See the Ziggo website for a step-by-step explanation: https://www.ziggo.nl/klantenservice/meldpunt-beveiligingslekken
+b. The reporter themselves must clearly state the subject matter, and the report must be accompanied by supporting evidence to provide Ziggo with a course of action.
+
+c. The report may be submitted anonymously.
+
+d. Ziggo strives to ensure that the report can be submitted in a secure manner, for example using the PGP encryption technique.
+
+e. If the report concerns a Ziggo customer, Ziggo will only release the (contact) details of the relevant customer (to enable immediate reporting) when explicit permission has been obtained from the customer. In all other cases, Ziggo will mediate with and between the reporter and the customer.
+
+f. Ziggo (and/or the customer) will contact the reporter regarding the timeframe within which the vulnerability will be resolved and will make an agreement with the reporter on how publicity will be sought, if applicable.
+
+2.3 The reporting policy
+a. Ziggo will not proceed with a report if the reporter has not made misuse of the discovered vulnerability and has not sought publicity prematurely.
+
+b. If it appears that misuse was made by the reporter before or after the report, the process agreements for responsible disclosure cannot be followed and Ziggo will file a report.
+
+c. Misuse of the vulnerability includes, among other things, obtaining data (other than is necessary to demonstrate vulnerability), manipulation of information, modification of the network configuration, and gaining knowledge of (confidential) data.
+
+d. Ziggo is not required to follow the process agreements for responsible disclosure if it turns out that the attacker talked their way in through social engineering or if it concerns a Denial of Service attack.
+
+3 of 3
+2.4 The reward policy
+
+Ziggo independently determines whether a reward is awarded. A condition for this is that a legitimate
+report of an innovative and substantial nature has been made within the terms of this
+code of conduct. In consultation with the reporter, it is agreed whether the reporter will be mentioned in any
+publication regarding the vulnerability.
+
+3. Method of disclosure
+Ziggo has placed the available information related to this code of conduct on a single page on the Ziggo website in understandable terms and
+in an accessible form. Ziggo clearly indicates where the
+information can be found on the website. This information is available to all customers.
+
+It is indicated on the Ziggo website that Ziggo adheres to the Responsible Disclosure Code of Conduct. The
+code of conduct can also be found on the Ziggo website.
+
+The reporting instructions and code of conduct can be found via the following link:
+
+https://www.ziggo.nl/klantenservice/meldpunt-beveiligingslekken
+
+4. Final Provisions
+
+The code of conduct applies to all persons and/or organizations that have
+signed to the code of conduct. Changes to this code are made at the initiative of Ziggo and are published on
+the regular Ziggo webpage for the security vulnerability reporting point. The code of conduct will be evaluated 6 months after its
+implementation.

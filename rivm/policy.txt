@@ -1,0 +1,13 @@
+The RIVM systems have been structured with all due care and comply with key security requirements. Even so, there may be a vulnerability in our systems that we have not detected yet. If you encounter a security issue on our systems or find any unsecured information, please let us know at security@ncsc.nl or at NCSC - CVD-form(link is external).
+
+Notifying us can help prevent important information from falling into the wrong hands or being used for fraudulent or criminal action. We expect you to keep any security notifications confidential and to avoid disclosure in the media or otherwise without our permission. We will keep you informed about what is happening with your notification.
+Please do not abuse any security issues by taking disproportionate action*.
+*Disproportionate action is defined here as:
+- Using social engineering to gain access to a system.
+- Placing your own back door in an information system to prove its vulnerability, as that could lead to additional damage and cause unnecessary security risks.
+- Exploiting a vulnerability more than is strictly necessary to determine that it exists.
+- Copying, changing or deleting information in a system.
+- Making changes to a system.
+- Repeatedly accessing the system or sharing access with others.
+- Using ‘brute force’ attacks to try to gain access to systems; repeatedly trying passwords is not a valid method for exposing vulnerabilities.
+(Source: Guidelines for designing a practice of Responsible Disclosure, National Cyber Security Centre)

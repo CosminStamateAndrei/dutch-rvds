@@ -1,0 +1,38 @@
+Reporting a Vulnerability (CVD)
+Have you discovered a weak spot (vulnerability) on the municipality's website or in an IT system? Please report it. The municipality will review the problem and resolve it as soon as possible. This allows it to protect its data and systems even better. This method of collaboration is called Coordinated Vulnerability Disclosure (CVD).
+
+The municipality secures the data on its website and in IT systems with care. Nevertheless, weak spots may exist. Cybercriminals can exploit these by breaking into the system and altering or stealing data for criminal activities. By reporting these weak spots, you help the municipality keep the data safe.
+
+Make a report
+- Report the weak spot you have discovered as soon as possible via Zerocopter.
+
+Please note
+- If you report anonymously, the municipality cannot contact you.
+- Provide sufficient information so that the municipality can examine (reproduce) the problem itself and resolve it as soon as possible. Usually, the IP address or URL of the vulnerable system and a description of the weakness are sufficient. For vulnerabilities that are more complex, more information is often required.
+
+- Do not exploit the weakness. For example, do not view other people's data. Also, do not delete or change other people's data. If you download data, do not download more than is necessary to demonstrate the weakness.
+
+- Do not share the problem with others until the municipality has resolved the issue.
+
+- Delete all confidential data that you have downloaded after the municipality has resolved the issue. Do not share this data with others either.
+
+- Do not use:
+
+- techniques that jeopardize the municipality's services
+- attacks on physical security, such as access gates and locks
+- psychological manipulation (social engineering)
+- attacks involving a large number of login attempts (brute-force attacks)
+- spam
+
+After your report
+The municipality:
+- will respond to your report within 10 working days with an assessment and an expected date for a solution.
+- will keep you informed about the progress of resolving the problem. - will not take legal action against you regarding the report if you have complied with the conditions.
+
+- will treat your report confidentially and will not share your personal data with third parties without your permission. An exception to this is if the municipality is legally obliged to share your personal data. You may submit the report under a pseudonym.
+
+- may offer you a reward as thanks for your help. The municipality determines this per report. The size of the reward depends primarily on the severity of the vulnerability and the quality of your report.
+
+The municipality tries to resolve all problems as quickly as possible and to inform all parties involved about this. It would like to be informed if the resolved problem is published.
+
+This text is based on a text by Floor Terra. That text is shared on responsibledisclosure.nl under a Begin external link: , end external link..

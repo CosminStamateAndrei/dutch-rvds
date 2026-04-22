@@ -1,0 +1,12 @@
+Security vulnerability
+Attention: this concerns vulnerabilities in systems owned by KPN, not regarding questions related to your computer, modem or mailbox. Use our submission form to report a security vulnerability.
+Found a security vulnerability?
+Please report this to us. KPN finds it important to provide secure products and services for all of our customers.
+The privacy of our customers is of paramount importance. Our specialized teams monitor our networks systems. Despite care and dedication, situations may arise in which there is a vulnerable spot in our security.
+If you have indications you may have spotted a vulnerability in any of our networks and systems, please do contact us. We are happy to work with you to resolve this situation as soon as possible. And request you to share information with us.
+To prevent a potential vulnerability being abused by others, we ask you use the following guidelines:
+- Report security vulnerabilities (or suspision thereof) to KPN’s Computer Emergency Response Team (KPN-CERT) using the form below. This form can also be sent anonymously. If you want to send us an encrypted message, use the PGP key of KPN-CERT and send the email to cert@kpn-cert.nl.
+- Provide sufficient information (for example, a detailed description including IP addresses, logs, how to reproduce the vulnerability, screenshots, etc.) so that we can handle your message as effectively as possible.
+- Do not share knowledge about the vulnerability with others, until the leak has been repaired.
+- Do not abuse the vulnerability. If this happens we may have to pursue legal action.
+Once a vulnerability is reported, we will contact you within 2 working days to make arrangements for a reasonable period of recovery and a possible coordinated publication of the vulnerability.

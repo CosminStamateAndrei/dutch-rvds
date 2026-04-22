@@ -1,0 +1,31 @@
+Computer System Security / Responsible Disclosure
+The Municipality of Tilburg takes extensive measures to secure its computer systems. Nevertheless, a vulnerability may occur in the systems. If someone discovers such a vulnerability, the municipality would like to hear about it. Appropriate measures will then be taken quickly.
+
+Reporting a computer system vulnerability
+By reporting a vulnerability, the reporter agrees to the agreements below regarding responsible disclosure. The Municipality of Tilburg will handle the report in accordance with the agreements below.
+
+- Use the contact form. Describe the problem as clearly and completely as possible so that it can be resolved quickly. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient.
+
+- The municipality is open to tips that help to resolve the problem. Only mention factual details that relate to the vulnerability.
+
+- Leave contact details so that we can get in touch to work together towards a secure outcome. Leave at least an email address, website address, or telephone number.
+
+- Submit the report as soon as possible after discovering the vulnerability. The following actions are not permitted:
+
+- Installing malware on the systems of the Municipality of Tilburg or those of others.
+- So-called “brute-forcing” access to systems.
+- Using social engineering.
+- Disclosing or providing information about the security issue to third parties before it has been resolved.
+- Performing actions that go beyond what is strictly necessary to demonstrate and report the security issue. In particular regarding the processing (including viewing or copying) of confidential data.
+
+- Modifying or deleting data in the system is never permitted.
+- Disclosing or providing data of a confidential nature to third parties, such as privacy-sensitive data.
+- Using techniques that reduce the availability and/or usability of the system or services (DoS attacks).
+- Abusing the vulnerability in any (other) way whatsoever. What can you expect as a reporter
+
+- The municipality treats a report confidentially and does not share a reporter's personal data with third parties without their consent, unless the municipality is required to do so by law or a court ruling.
+
+- The municipality will respond to a report within 5 working days with an (initial) assessment of the report and, if applicable, an expected date for a solution.
+- The municipality will resolve the reported security issue as soon as possible.
+- A discovered vulnerability may only be published once the reporter and the Municipality of Tilburg have reached an agreement on this.
+- As a token of appreciation for reporting a vulnerability, the reporter will receive a typical Tilburg gift.

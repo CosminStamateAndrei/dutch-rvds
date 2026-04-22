@@ -1,0 +1,47 @@
+Found a security vulnerability in a Fontys system?
+- Stop testing.
+- Report it via the Vulnerability Reporting Form.
+- Do not share any details with others.
+- Follow the rules below, we will not take legal action.
+- You’ll receive a response within 5 business days.
+How do I report a vulnerability?
+- Stop testing and do not continue collecting or viewing data.
+- Report your finding via the Vulnerability Reporting Form.
+- Provide enough detail to reproduce the issue: the system’s URL or IP, a short description, and the steps you took.
+- Complex case? Attach a clear PDF with step-by-step instructions and (if needed) screenshots, and upload it with the form.
+- Do not include personal data in your report (mask or anonymise it), except for your own contact details.
+- In the form, confirm you agree to our CVD policy and consent to the use of your personal data to handle your report.
+Our CVD Policy
+- Report as soon as possible via the Vulnerability Reporting Form.
+- Only do what is needed to show the problem.
+- Use the simplest way to prove it. Avoid heavy tests or scans.
+- Do not make your report depend on a reward.
+- Do not misuse the issue. Do not change, delete, move, or copy data.
+- Do not seek personal gain or put pressure on Fontys.
+- Do not view or download more data than needed.
+- Be extra careful with personal data. Do not view, copy, or share it. Do not include any found personal data in your report.
+- Do not share the vulnerability with anyone until it is fixed.
+- Confidential handling of your report and data. We only share them if the law requires it.
+- Reply within 5 business days with our first assessment and, where possible, next steps.
+- We fix the issue as fast as we can and keep you updated. Guideline: about 60 days for software (hardware can take longer).
+- Clear agreement about publication after the issue is fixed.
+- No legal action if you follow this policy.
+- Wall of Fame mention if you choose (your name, report date, and optional link).
+Exceptions and special notes
+- This policy is not an invitation to scan. Do not run broad or ongoing scans. Our Security Operation Center (SOC, our internal security team) monitors our network. Unnecessary scans create extra work and cost.
+- Not allowed: attacks on physical security or on systems of other organisations, (D)DoS, social engineering, malware, spam, or any other harmful techniques.
+- Anonymous reports are possible. If you report anonymously or with a pseudonym, we cannot keep you updated or make agreements about publication or recognition.
+- Accepted risk (rare). In some cases, we may treat a vulnerability as a (temporary) accepted risk, for example, when fixing it would take far too much time or money compared to the impact.
+Legal matters and the Dutch Public Prosecution Service (OM)
+Some actions during security research can be criminal offences. If you follow this policy, Fontys will normally not take legal action against you.
+The Dutch Public Prosecution Service (OM) looks at whether:
+- Public interest: did your research help improve security?
+- Proportionality: did you avoid going further than needed?
+- Subsidiarity: did you use the least intrusive method?
+Frequently Asked Questions
+Not if you follow this CVD policy. Only if you break the rules can Fontys or the OM take legal action.
+Yes. Please note: if you report anonymously, we cannot update you about progress, publication, or recognition.
+We reply within 5 business days. Fixing the issue can take longer; as a guideline we aim for about 60 days for software.
+We don’t offer standard rewards. If you want, you can receive a Wall of Fame mention.
+Questions about the CVD policy? Email ISP-office@fontys.nl.
+Our policy is licensed under a Creative Commons Attribution (BY) 3.0 license and is based on the sample policy by Floor Terra.

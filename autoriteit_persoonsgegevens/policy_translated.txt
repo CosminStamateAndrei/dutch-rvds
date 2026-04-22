@@ -1,0 +1,50 @@
+Reporting a Vulnerability (Coordinated Vulnerability Disclosure)
+Have you discovered a vulnerability in a system of the Dutch Data Protection Authority (AP)? Then the AP would like to hear about it. Report the vulnerability to the AP before you share it (publicly) with others. This allows the AP to take appropriate measures first. This is called Coordinated Vulnerability Disclosure.
+
+Confidentiality
+The AP will treat your report confidentially. The AP does not share personal data with third parties without your consent, unless required by law or by a court ruling. If you wish, the AP can mention your name as the discoverer of the reported vulnerability. You can read how long we retain your data in the privacy statement.
+
+Which vulnerabilities can you report?
+
+A vulnerability in the security of an AP environment, such as autoriteitpersoonsgegevens.nl.
+
+Responsible reporting
+If you discover a vulnerability in our systems, we ask you to report this in a responsible manner. If you take the following points into consideration, the AP will have no reason to take legal action against you.
+
+- Keep information about the vulnerability confidential. Do not share the vulnerability with others until you hear from us that the problem has been resolved. Do you believe this cannot wait? Then please contact us first. - Report the vulnerability as soon as possible after discovery.
+
+This helps us to take timely action and improve security. - Handle knowledge about the vulnerability responsibly.
+
+If you gained access to (confidential) data during the investigation, we ask you to:
+- Not view or retain this data for longer than is strictly necessary for the report;
+- Not share this data with others;
+- Report immediately that you gained access to such information;
+- Delete any copies as soon as they are no longer needed for the report.
+
+- Act responsibly.
+
+Do not perform actions that cause disruption to the systems or the integrity of the AP's data. Avoid, among other things:
+- Social engineering;
+- Brute-force attacks;
+- (D)DOS attacks;
+- Intentionally modifying or deleting data;
+- Deploying malware;
+- Other invasive attack methods. Report
+The AP only processes clear, complete reports. Therefore, we ask you to include the following information:
+
+- The type of vulnerability involved;
+- A clear, step-by-step explanation of the vulnerability so that we can reproduce the problem (mandatory);
+- An explanation of the risk and danger of the vulnerability (mandatory);
+- Domains and/or IP addresses affected by the vulnerability (mandatory);
+- Your contact details (name, email address, and phone number), so that we can ask you additional questions if necessary and provide feedback on your report.
+
+Send your report to the AP's Information Security Team via incident@Verwijder-deze-text.autoriteitpersoonsgegevens.nl.
+
+After you have submitted a report
+This is what happens after you have submitted your report:
+
+- You will receive an acknowledgment of receipt from the AP within 1 working day;
+- If necessary, an AP employee will request more information from you;
+- The AP aims to resolve the security issue within 60 days. To resolve the problem, the AP is often dependent on suppliers;
+
+- Once the problem has been resolved, you will be notified if you wish.

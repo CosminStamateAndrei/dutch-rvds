@@ -1,0 +1,24 @@
+CBS werkt continu aan de beveiliging van zijn ICT-systemen. Toch kan het gebeuren dat er een zwakke plek in één van onze systemen of websites voorkomt. Constateert u zo’n zwakke plek, dan stellen we het zeer op prijs als u hier melding van maakt via een e-mail naar cert@cbs.nl.
+Door de kwetsbaarheid te melden voordat u deze aan de buitenwereld kenbaar maakt, stelt u CBS in staat om eerst maatregelen treffen. Dit heet Responsible Disclosure. CBS volgt hierin het beleid van de Rijksoverheid.
+Wat wij van u vragen bij Responsible Disclosure
+Als u een melding doet van een kwetsbaarheid in een ICT-systeem, denk dan aan de volgende zaken:
+- Geef voldoende informatie om het probleem te reproduceren. Zo kan CBS het probleem zo snel mogelijk oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende. Bij ingewikkeldere kwetsbaarheden kan meer nodig zijn.
+- Laat contactgegevens (e-mailadres of telefoonnummer) achter zodat CBS contact met u kan opnemen.
+- Doe de melding zo snel mogelijk na ontdekking van de kwetsbaarheid.
+- Deel de informatie over het beveiligingsprobleem niet met anderen totdat het is opgelost.
+- Ga verantwoordelijk om met de kennis over het beveiligingsprobleem. Verricht geen handelingen die verder gaan dan wat nodig is om het beveiligingsprobleem aan te tonen.
+Maak geen misbruik van een zwakke plek in een ICT-systeem
+Als u een kwetsbaarheid ontdekt, maak hier dan geen misbruik van. Bijvoorbeeld door:
+- malware te plaatsen;
+- gegevens in een systeem te kopiëren, wijzigen of verwijderen (een alternatief hiervoor is een directory listing maken van een systeem);
+- veranderingen aan te brengen in het systeem;
+- herhaaldelijk toegang te verkrijgen tot het systeem of de toegang te delen met anderen;
+- gebruik te maken van het zogeheten ‘bruteforcen’ van toegang tot systemen;
+- gebruik te maken van denial-of-service of social engineering.
+Wat CBS doet bij met uw melding
+CBS behandelt deze melding als volgt:
+- U krijgt binnen 1 werkdag een ontvangstbevestiging van de melding.
+- CBS reageert binnen 3 werkdagen op uw melding. Deze reactie bevat een beoordeling van de melding en een verwachte datum voor een oplossing.
+- CBS houdt u als melder op de hoogte van de voortgang van het oplossen van het probleem.
+- CBS lost het beveiligingsprobleem zo snel mogelijk op, maar uiterlijk binnen 60 dagen. CBS zal samen met u bepalen of en hoe over het gemelde probleem wordt bericht. Berichtgeving vindt pas plaats nadat het probleem is opgelost.
+CBS behandelt uw melding vertrouwelijk. CBS deelt persoonlijke gegevens niet met derden zonder uw toestemming. Behalve als dit wettelijk of door een rechterlijke uitspraak verplicht is. CBS kan, als u dat wilt, uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid.

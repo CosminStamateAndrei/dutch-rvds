@@ -1,0 +1,16 @@
+We werken graag met je samen om onze gebruikers en systemen beter te beschermen. De afspraken rondom het melden van een ICT-kwetsbaarheid staan beschreven in de responsible disclosure. Zo weet je wat wij van je vragen en hoe de Radboud Universiteit met jouw melding omgaat.
+Geen uitnodiging tot actief scannen
+Indien je een interne scan wilt uitvoeren, bijvoorbeeld voor studiedoeleinden, neem dan eerst contact op met het CERT: cert [at] ru.nl. Het is namelijk niet toegestaan om zonder toestemming actief scans uit te voeren.
+Wij vragen:
+- je bevindingen te mailen naar cert [at] ru.nl (cert[at]ru[dot]nl);
+- het probleem niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden in te kijken, verwijderen of aanpassen;
+- het probleem niet met anderen te delen totdat het is opgelost en alle vertrouwelijke gegevens die zijn verkregen via het lek direct na het dichten van het lek te wissen;
+- geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden en voldoende informatie te geven om het probleem te reproduceren zodat wij het zo snel mogelijk kunnen oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Wij reageren niet op zogenaamde “beg-bounties” (Troy Hunt: Beg Bounties).
+Wat wij beloven:
+- als je je aan bovenstaande voorwaarden houdt zullen wij geen juridische stappen tegen je ondernemen betreffende de melding;
+- wij behandelen je melding vertrouwelijk en zullen je persoonlijke gegevens niet zonder jouw toestemming met derden delen tenzij dat noodzakelijk is om een wettelijke verplichting na te komen. Melden onder een pseudoniem is mogelijk;
+- wij houden je op de hoogte van de voortgang van het oplossen van het probleem;
+- in berichtgeving over het gemelde probleem zullen wij, indien je dit wenst, jouw naam vermelden als de ontdekker.
+Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en wij worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
+Deze tekst is van voorbeeldbeleid van Floor Terra en valt onder een Creative Commons Naamsvermelding 3.0 licentie.

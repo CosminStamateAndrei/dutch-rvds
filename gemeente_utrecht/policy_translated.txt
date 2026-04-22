@@ -1,0 +1,35 @@
+RID-Utrecht attaches great importance to the security of its systems. Despite all precautionary measures, it remains possible that a vulnerability may be found in the systems. If you discover a vulnerability in one of our systems, we would like to hear from you so that we can take appropriate measures quickly. By submitting a report, you, as the reporter, agree to the following agreements regarding Coordinated Vulnerability Disclosure, and RID-Utrecht will handle your report in accordance with these agreements.
+
+We ask the following of you:
+
+- Email your findings to servicedesk@rid-utrecht.nl. Encrypt the findings if possible to prevent the information from falling into the wrong hands;
+- Provide sufficient information to reproduce the problem so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient, but more may be required for more complex vulnerabilities;
+- We welcome tips that help us resolve the problem. Please limit yourself to verifiable facts relating to the vulnerability you have identified and avoid your advice effectively amounting to advertising for specific (security) products;
+- If you wish to receive feedback, you can leave your contact details; please provide an email address or phone number.
+
+The following actions are not permitted:
+
+- Performing actions that could pose a potential threat to our continuity, for example:
+
+- Installing malware, neither on our systems nor on those of others;
+- So-called “brute-forcing” access to systems, except insofar as this is strictly necessary to demonstrate that security in this area is seriously deficient, that is to say, if it is exceptionally easy to crack a password using publicly available and affordable hardware and software, thereby seriously compromising the system;
+
+- Using techniques that reduce the availability and/or usability of the system or services (DoS attacks). - Using social engineering, except to the extent strictly necessary to demonstrate that employees with access to sensitive data generally (seriously) fail in their duty to handle it with care. That is to say, if it is generally too easy, in an otherwise completely legal manner (i.e., not through blackmail or the like), to persuade them to provide such data to unauthorized persons. In doing so, you must exercise all care that can reasonably be expected of you to avoid harming the employees concerned themselves. Your findings must be aimed exclusively at demonstrating apparent deficiencies in the procedures and working methods within the municipality and not at harming individual persons employed by the municipality;
+
+- Disclosing or providing information about the security problem to third parties before the problem has been resolved;
+- Abusing the vulnerability in any (other) manner whatsoever.
+
+What you may expect:
+- If you comply with all the above conditions, we will not file a criminal complaint against you nor initiate a civil lawsuit against you. - If it turns out that you have violated any of the above conditions, we may still decide to take legal action against you.
+
+- We treat a report confidentially and do not share a reporter's personal data with third parties without their consent, unless we are required to do so by law or a court ruling.
+
+- We always share the received report with the Information Security Service for Municipalities (IBD). This ensures that municipalities share their experiences in this area with one another.
+
+- By mutual agreement, if you wish, we can mention your name as the discoverer of the reported vulnerability. In all other cases, you remain anonymous.
+
+- We will send you an (automatic) acknowledgment of receipt within 1 working day.
+- We will respond to a report within 3 working days with an (initial) assessment of the report and, if applicable, an expected date for a solution.
+- We will take measures regarding the security issue you reported as soon as possible. In doing so, we strive to keep you well informed of the progress and never take longer than 90 days to implement measures. However, we are often partly dependent on suppliers in this regard. - It can be determined by mutual agreement whether and how the problem will be published after it has been resolved.
+
+- As a thank you for your help, we will reward you with an appropriate reward for every report of a security problem on our systems that is previously unknown to us. We will determine the nature and size of the reward based on the severity of the vulnerability and the quality of the report.

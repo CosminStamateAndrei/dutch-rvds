@@ -1,0 +1,25 @@
+Algemeen
+Gemeente Breda vindt beveiliging van informatie- en communicatietechnologie belangrĳk. Hoewel de gemeente hier volop aandacht voor heeft, kan er toch een zwakke plek aanwezig zijn. Als je denkt een zwakke plek in de digitale diensten van de gemeente te hebben gevonden, dan wil de gemeente graag samenwerken om de de kwetsbaarheid zo snel mogelijk op te lossen.
+Wat de gemeente van je vraagt
+- Meld bevindingen zo snel mogelijk.
+- Geef zo veel mogelijk informatie om het probleem te reproduceren.
+- Vaak is het IP-adres of de link (URL) van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende.
+- Bij complexere kwetsbaarheden kan meer nodig zijn.
+- Laat je gegevens achter zodat de gemeente met je kan samenwerken voor een oplossing.
+- Melden onder een pseudoniem is mogelijk.
+- Anoniem melden kan ook, naar samenwerken en op de hoogte gehouden worden lukt dan niet.
+- Deel de ontdekking en gevoelige gegevens niet met anderen totdat het probleem is opgelost.
+- Ga verantwoordelijk om met de kennis over het beveiligingsprobleem. Door bijvoorbeeld:
+- Niet meer data op te halen dan nodig is om de kwetsbaarheid aan te tonen.
+- Geen gegevens in te kijken, te verwijderen of aan te passen.
+- De toegang niet te delen met anderen.
+- Geen eigen ‘back-door’ in het systeem te plaatsen.
+- Wis zo snel mogelijk alle gegevens die je via het beveiligingsprobleem hebt opgehaald.
+- Zet geen aanvallen in op fysieke beveiliging, social engineering, plaatsen van malware, distributed denial of service, spam, applicaties van derden enzovoort.
+Na de melding
+- Binnen 5 werkdagen reageert de gemeente op de melding met een beoordeling en de verwachte oplossingsdatum.
+- De gemeente zal geen strafrechtelijke stappen nemen zo lang aan de voorwaarden wordt voldaan.
+- De gemeente deelt persoonlijke gegevens niet zonder toestemming met derden. Tenzij dat wettelijk gezien of door een uitspraak van een rechter nodig is.
+- Je wordt op de hoogte gehouden van de voortgang van het oplossen van de kwetsbaarheid.
+Opgeloste kwetsbaarheid publiceren
+Gemeente Breda is graag vooraf betrokken bij het maken van een publicatie over de opgeloste kwetsbaarheid.

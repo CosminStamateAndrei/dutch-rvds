@@ -1,0 +1,41 @@
+Responsible disclosure of vulnerabilities
+
+At TU Delft, we consider the security of our systems to be of paramount importance. Despite our efforts to ensure security, it is possible that a vulnerability may still exist.
+
+If you have found a vulnerability in one of our systems, we would like to hear about it so that we can take prompt action and collaborate to better protect our systems.
+
+Our responsible disclosure policy is not an invitation to actively scan our university network for weaknesses. We monitor our corporate network, which means there is a high probability that a scan will be detected and unnecessary costs will be incurred due to investigations by our CERT.
+
+We ask you:
+
+- To email your findings to abuse@tudelft.nl as soon as possible.
+
+- Not to exploit the vulnerability, for example by downloading more data than necessary to demonstrate the leak, or by altering or deleting data.
+
+- Not to share the vulnerability with others until we have indicated that the vulnerability has been resolved and may be shared.
+
+- Not to use attacks on physical security or third-party applications, social engineering, distributed denial-of-service, or spam. - Provide sufficient information to reproduce the vulnerability so that we can resolve it as quickly as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability and the actions taken are sufficient, but more may be required for more complex vulnerabilities.
+
+If you adhere to the conditions below, we will not take legal action against you regarding the report. However, the Public Prosecution Service reserves the right to decide on any potential criminal prosecution.
+
+What we promise:
+
+- We will respond to your report within 3 working days with our assessment and an expected date for a solution.
+- We will treat your report confidentially and will not share your personal data with third parties without your consent, unless necessary to comply with a legal obligation.
+- We will keep you informed of the progress in resolving the vulnerability.
+- Reporting anonymously or under a pseudonym is possible, but this means that we cannot contact you regarding the next steps or reward.
+- We offer the opportunity to have your name inducted into our Hall of Fame as recognition after reporting a valid and serious vulnerability. Out of scope:
+
+Some vulnerabilities are automatically included in our patch cycles, resulting in rapid resolution. These do not need to be reported via our Responsible Disclosure program.
+
+Examples of vulnerabilities that do not need to be reported:
+
+- HTTP 404 pages or other HTTP code that does not yield a 200 status, as well as content spoofing or text insertion on these pages.
+- Fingerprints and other methods to detect versions that are shared publicly.
+- Clickjacking or vulnerabilities that can only be exploited via clickjacking.
+- Enabled HTTP OPTIONS method.
+- SSL configuration issues such as SSL forward secrecy not enabled or weak cipher suites.
+- SPF, DKIM, DMARC issues.
+- Reporting outdated versions of software without a proof of concept or working exploit.
+
+Reports considered beg bounty will not be processed or responded to. We strive to resolve all issues as quickly as possible and keep all involved parties informed. We would like to be involved in any potential publication regarding the vulnerability after it has been resolved.

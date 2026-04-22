@@ -1,0 +1,31 @@
+Responsible disclosure
+At TenneT we take Safety and Security very seriously
+Work with us
+Keeping our systems safe and secure
+We take care of our systems at TenneT, but despite our best effort, certain vulnerabilities or weak spots might exist. If you find a weak spot in our systems we hope to hear from you as soon as possible, so that we can take adequate measures. We would like to work with you to keep our systems safe and secure and prevent malicious attacks from happening. After all, without electricity your computer will also stop working.
+We ask you:
+- To fill in the form below;
+- Not to abuse the vulnerability after exposing it to us;
+- To only download the minimal data needed to prove the hack;
+- Not to alter data or inflict a system problem;
+- Not to share this information with others, until the exploit has been fixed and all confidential data has been re-protected;
+- To provide as much insight in the hack as possible;
+- To provide contact information (anonymous also allowed);
+- Inform us when going to publicity
+- Not to use hacking techniques like:
+- Breaking and entering
+- Circumvent physical access restrictions
+- Social Engineering
+- (Distributed) Denial of Service
+- Spam
+- Third-party (malicious) applications
+Our promise to you
+We wil:
+- Respond to your request in an adequate timeframe (within one work week);
+- Not take legal actions when applying to the statements above;
+- Treat your information confidentially. We have an obligation to share finding with authorities, but we will not willingly share your personal information with third parties unless specified by yourself. Registering anonymously or under an alias is allowed;
+- We will keep you informed on the vulnerability management process;
+- In public announcement made by us, you will have the right to be known as the person who detected it (and helped solving it);
+We strive to fix our problems as soon as possible.
+We want to be included in any publication concerning this vulnerability.
+Text inspired by: http://responsibledisclosure.nl

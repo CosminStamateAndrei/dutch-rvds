@@ -1,0 +1,26 @@
+We are happy to work with you to better protect our users and systems. The agreements regarding the reporting of an ICT vulnerability are described in the responsible disclosure policy. This way, you know what we ask of you and how Radboud University handles your report.
+
+No invitation to perform active scanning
+If you wish to perform an internal scan, for example for study purposes, please contact the CERT first: cert [at] ru.nl. It is not permitted to perform active scans without permission.
+
+We ask:
+
+- to email your findings to cert [at] ru.nl (cert[at]ru[dot]nl);
+
+- not to misuse the problem by, for example, downloading more data than necessary to demonstrate the vulnerability or viewing, deleting, or modifying third-party data;
+
+- not to share the problem with others until it has been resolved and to delete all confidential data obtained through the vulnerability immediately after the vulnerability has been patched; - not to use physical security attacks, social engineering, distributed denial of service, spam, or third-party applications, and to provide sufficient information to reproduce the problem so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient, but more may be required for more complex vulnerabilities.
+
+We do not respond to so-called “beg bounties” (Troy Hunt: Beg Bounties).
+
+What we promise:
+
+- if you adhere to the above conditions, we will not take legal action against you regarding the report;
+
+- we will treat your report confidentially and will not share your personal data with third parties without your permission unless this is necessary to comply with a legal obligation. Reporting under a pseudonym is possible;
+
+- we will keep you informed of the progress in resolving the problem;
+
+- in communications regarding the reported problem, we will, if you wish, mention your name as the discoverer. We strive to resolve all issues as quickly as possible and would like to be involved in any potential publication regarding the issue after it has been resolved.
+
+This text is from Floor Terra's sample policy and is licensed under a Creative Commons Attribution 3.0 license.

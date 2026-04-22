@@ -1,0 +1,76 @@
+Coordinated Vulnerability Disclosure (CVD)
+Bij de RUG vinden we de veiligheid van onze systemen erg belangrijk. Ondanks de zorg voor de beveiliging van de systemen kan een zwakke plek voorkomen. Je kunt deze zwakke plekken bij ons melden.
+Samenwerken
+Als je een zwakke plek in een van onze systemen vindt, dan horen wij dit graag. We kunnen dan zo snel mogelijk maatregelen treffen. Wij werken graag met je samen om onze gebruikers en systemen beter te kunnen beschermen.
+Geen uitnodiging tot actief scannen
+Ons zogenoemde responsibledisclosurebeleid is geen uitnodiging om ons netwerk of onze systemen uitgebreid actief te scannen op zwakke plekken. Wij monitoren namelijk zelf ons bedrijfsnetwerk. Daardoor is de kans groot dat we je scan oppikken, dat ons Computer Emergency Response Team (CERT) onderzoek doet, wat mogelijk leidt tot onnodige kosten.
+Strafrechtelijke vervolging
+Het is mogelijk dat je tijdens je onderzoek handelingen uitvoert die volgens het strafrecht strafbaar zijn. Heb je je aan onderstaande voorwaarden gehouden, dan ondernemen wij geen juridische stappen tegen je. Het Openbaar Ministerie heeft echter altijd het recht om zelf te beslissen of het je strafrechtelijk vervolgt.
+Meld je bevindingen
+Verzoek aan jou
+-
+Misbruik de gevonden zwakheid niet door bijvoorbeeld:meer data te downloaden dan nodig is om het lek aan te tonende gegevens te veranderen of verwijderen
+-
+Wees extra voorzichtig met persoonsgegevens.
+-
+Deel de zwakheid niet met anderen totdat deze is opgelost.
+-
+Maak geen gebruik van aanvallen op fysieke beveiliging of applicaties van derden, van social engineering, (distributed) denial-of-service, malware, of spam.
+-
+Geef voldoende informatie om de zwakheid te reproduceren, zodat wij deze zo snel mogelijk kunnen oplossen. Meestal zijn het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid en de uitgevoerde handelingen voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Onze belofte
+Onze belofte
+-
+Wij reageren binnen 5 werkdagen met onze beoordeling van de melding en een verwachte datum voor een oplossing.
+-
+Wij behandelen je melding vertrouwelijk en zullen je persoonlijke gegevens niet zonder je toestemming met derden delen, tenzij dat noodzakelijk is om een wettelijke verplichting na te komen.
+-
+Wij houden je op de hoogte van de voortgang van het oplossen van de zwakheid.
+-
+Je kunt anoniem of onder een pseudoniem melden. Wij kunnen dan echter geen contact met je opnemen over bijvoorbeeld de vervolgstappen, voortgang van het dichten van het lek, publicatie of eventuele vermelding in onze 'Hall of Fame'.
+-
+In berichtgeving over de gemelde zwakheid zullen wij, als je dit wilt, je naam vermelden als de ontdekker van de kwetsbaarheid.
+-
+Wij kunnen je als waardering een plek in onze 'Hall of Fame' geven voor je onderzoek, maar zijn hiertoe niet verplicht. We bepalen dit per geval. Het hangt af van de zorgvuldigheid van je onderzoek, de kwaliteit van de melding en de ernst van het lek.
+-
+Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en alle betrokken partijen op de hoogte te houden. Wij zijn graag betrokken bij een eventuele publicatie over de zwakheid, nadat deze is opgelost.
+Niet in scope
+Niet in scope
+RUG bied geen plek in de 'Hall of Fame' voor triviale kwetsbaarheden of bugs die niet misbruikt kunnen worden. Hieronder staan voorbeelden van bekende kwetsbaarheden en geaccepteerde risico’s, die buiten bovenstaande regeling vallen:
+-
+HTTP 404 codes/pagina’s of andere HTTP non-200 codes/pagina’s en content spoofing/text injecting op deze pagina's
+-
+fingerprinting/versievermelding op publieke services
+-
+publieke bestanden of directories met ongevoelige informatie (bijvoorbeeld robots.txt)
+-
+clickjacking en problemen die alleen te exploiten zijn via clickjacking
+-
+geen secure/HTTP-only flags op ongevoelige cookies
+-
+OPTIONS HTTP method ingeschakeld
+-
+alles gerelateerd tot HTTP security headers, bijvoorbeeld:Strict-Transport-SecurityX-Frame-Options
+-
+X-XSS-Protection
+-
+X-Content-Type-Options
+-
+Content-Security-Policy
+-
+-
+issues met SSL-configuratie issuesSSL Forward secrecy uitgeschakeldzwakke/onveilige cipher suites
+-
+issues met SPF, DKIM of DMARC
+-
+host header injection
+-
+rapporteren van verouderde versies van enige software zonder een proof of concept van een werkende exploit
+-
+informatieblootstelling in metadata
+-
+DNSSEC and DNS Certificate Authority Authorization
+-
+(Distributed ) Denial-of-Service attacks
+CVD Hall of Fame
+Hall of Fame

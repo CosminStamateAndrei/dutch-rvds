@@ -1,0 +1,30 @@
+General
+The Municipality of Breda considers the security of information and communication technology important. Although the municipality pays full attention to this, a weak point may still exist. If you believe you have found a weak point in the municipality's digital services, the municipality would like to cooperate to resolve the vulnerability as quickly as possible.
+
+What the municipality asks of you
+- Report findings as soon as possible.
+- Provide as much information as possible to reproduce the problem.
+- Often, the IP address or the link (URL) of the affected system and a description of the vulnerability are sufficient.
+- More may be required for more complex vulnerabilities.
+- Leave your details so that the municipality can work with you to find a solution.
+
+- Reporting under a pseudonym is possible.
+- Anonymous reporting is also possible, but cooperation and being kept informed will not be possible in that case.
+- Do not share the discovery or sensitive data with others until the problem has been resolved.
+- Handle knowledge about the security issue responsibly. For example, by:
+
+- Not retrieving more data than is necessary to demonstrate the vulnerability.
+- Not viewing, deleting, or modifying data.
+- Not sharing access with others.
+- Not placing your own ‘back-door’ in the system.
+- Deleting all data retrieved via the security issue as soon as possible.
+- Not launching attacks on physical security, social engineering, malware deployment, distributed denial of service, spam, third-party applications, etc.
+
+After the report
+- Within 5 working days, the municipality will respond to the report with an assessment and the expected resolution date.
+- The municipality will not take criminal action as long as the conditions are met.
+- The municipality does not share personal data with third parties without permission, unless required by law or by a court ruling.
+- You will be kept informed of the progress in resolving the vulnerability.
+
+Publishing resolved vulnerability
+The Municipality of Breda would like to be involved in advance in creating a publication regarding the resolved vulnerability.

@@ -1,0 +1,18 @@
+Stuur zo snel mogelijk een e-mail naar cvd@uwv.nl. Zet daarin het volgende:
+- Het IP-adres of de URL waar het om gaat.
+- Een omschrijving van het probleem.
+- Hoe wij het probleem kunnen reproduceren en onderzoeken.
+- Uw naam, telefoonnummer en e-mailadres.
+Versleutel de e-mail met onze PGP-sleutel.
+Na uw melding
+U krijgt binnen 1 dag een ontvangstbevestiging. Binnen 5 dagen reageren wij op uw melding. Ook daarna houden wij u op de hoogte.
+Deel de informatie nooit met anderen. Neem uw verantwoordelijkheid en ga niet verder dan nodig om het probleem aan te tonen. Dat betekent:
+- Plaats geen malware.
+- Kopieer, verander of verwijder geen gegevens. Een alternatief is een ‘directory listing’ van het systeem.
+- Breng geen systeemveranderingen aan.
+- Dring niet meerdere keren het systeem binnen.
+- Maak geen gebruik van ‘brute forcing’ om toegang te krijgen.
+- Gebruik geen ‘denial-of-service' of ‘social engineering’.
+Geen juridische gevolgen
+Als u zich aan deze regels houdt, dan doen wij geen aangifte tegen u. Wij behandelen uw melding strikt vertrouwelijk. Ook delen we geen persoonlijke gegevens met anderen zonder uw toestemming, tenzij dit wettelijk verplicht is of als dit moet na een rechterlijke uitspraak.
+Als u een belangrijke bijdrage levert aan de veiligheid van onze digitale dienstverlening kunnen wij uw naam plaatsen in onze eregalerij (Engelstalig). We geven geen geldbedrag als beloning.

@@ -1,0 +1,20 @@
+We talk about 'responsible disclosure' when the reporter and the organisation disclose ICT vulnerabilities in cooperation, based on policies established by the organisation for this purpose. It is also called 'Responsible Disclosure' or 'Coordinated Vulnerability Disclosure'.
+Vulnerabilities as a threat
+A vulnerability is a weakness in software or hardware that usually results from a programming error. A vulnerability can be abused by cybercriminals and poses a threat to the security of information systems.
+Report vulnerability
+If you want to report a vulnerability, fill in the form on the website of our partner Zerocopter.
+Conditions for reporting
+- Do not abuse vulnerabilities, for example by downloading more data than necessary to demonstrate the vulnerability.
+- Be extra cautious with personal data: i.e. do not view, delete or modify third-party data
+- Do not share vulnerabilities with others until they are resolved. And delete all confidential data obtained via vulnerabilities as soon as possible
+- Do not use attacks on physical security or third-party applications, social engineering, distributed denial-of-service or spam
+- Provide sufficient information to reproduce the vulnerability so that we can resolve it quickly. Usually an IP address or URL of the affected system and a description of the vulnerability is sufficient, but more may be required for more complex vulnerabilities.
+What we promise
+- We will respond to your report within 5 days with our assessment and an expected date for resolution.
+- We will treat your report confidentially and we will not share your personal information with third parties without your permission, unless this is necessary to comply with a legal obligation.
+- We will keep you informed, if you wish, of the progress in resolving the problem.
+- We may mention your name as the discoverer in communications about the reported problem, if you wish.
+- Reporting anonymously or under a pseudonym is possible. It is good to know that this means that we cannot contact you about, for example, the next steps, progress in fixing the leak, publication or a possible reward for the report.
+- The UvA offers a reward as a token of gratitude for the help. Depending on the severity of the security issue and the quality of the report, the reward may vary from a small token of appreciation to gift cards. However, it must be a serious security issue that is unknown to the UvA.
+- We aim to fix reported problems as soon as possible. We are happy to be involved in any publication about the problem after it is resolved.
+In our Hall of Fame, we would like to thank everyone who has shared a vulnerability.

@@ -1,0 +1,44 @@
+Responsible Disclosure Statement 
+ 
+ 
+ 
+ 
+Code of conduct for notifying weak spots in security at NS 
+Providing services safely is very important to NS. Security therefore has a key role when we are 
+developing and providing our services. 
+ 
+Code of conduct for notifying security leaks 
+Despite all the precautions and other efforts, situations may arise in which there is a weak spot in our 
+security - a leak. If you discover a weak spot in our systems, we will be pleased to work with you on a 
+solution. We therefore ask that you share that information with us, confidentially.  
+As long as you take the necessary efforts to prevent further violations of privacy, destruction of data, 
+or interruptions or negative effects on our services, we will not take steps against your having violated 
+our security, unless we have reasonable grounds to suspect that you are not acting in good faith.  
+To avoid misuse by third parties of any security leak that is detected, we would ask you to observe the 
+code of conduct below when notifying us. 
+ 
+Code of conduct for responsible disclosure 
+• Send an e-mail to responsible.disclosure@ns.nl. Please provide sufficient information (e.g.  a 
+detailed description including IP addresses, logs, the approach taken, screenshots, etc.) so 
+that we can assess your notification as fully as possible. 
+• Report any security leaks or suspicions thereof without publicising them in any way 
+whatsoever. 
+• After you have reported a security leak, we will contact you within two working days. We will 
+then inform you of what we have found, based on your notification. 
+• In consultation with you, we will determine a reasonable remediation period and, if  NS agrees, 
+decide upon coordinated publication of the security leak. We request that you do not misuse 
+the security leak in any way whatsoever in the meantime. 
+• If you prefer to remain anonymous, we will not use or retain any personal data associated 
+with the notification. You can also take steps yourself to ensure that the report remains 
+anonymous by using an anonymous mail service on the Internet or via the TOR network.  
+ 
+Should it transpire that you have not observed the above code of conduct, NS reserves the right to 
+take steps against you at a later date. 
+ 
+Note: the reporting desk is not intended for questions or complaints about NS products or services. If 
+you have any questions or complaints, please contact NS Customer Service via www.ns.nl.
+ 
+ 
+This code of conduct for notifying weak spots in security at NS is subject to Dutch law.  
+ 
+28 April 2016                                                                                                                                             

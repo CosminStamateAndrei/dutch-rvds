@@ -1,0 +1,23 @@
+We pay close attention to the security of our information systems. If, despite our security measures, you come across something that could be improved, we ask that you let us know so we can take immediate action.
+The National Cyber Security Centre (NCSC) of the Dutch Ministry of Justice and Security has published recommendations on how to report and handle security vulnerabilities in a responsible manner. We apply the NCSC’s recommendations for reporting and handling vulnerabilities.
+How to report a vulnerability
+- Report your findings by completing the form below.
+- Tell us which system or component is affected, and describe step by step how the vulnerability can be reproduced. Include supporting documentation (screenshots, etc.) where possible.
+- You can also submit your report encrypted. See our security.txt for details.
+What you must not do
+- Do not attempt to detect vulnerabilities using automated scans or tools such as Zap, Burp, Nessus, ssllabs, etc.
+- Do not exploit the vulnerability (by copying, modifying or deleting data).
+- Do not share information about the vulnerability without talking to us about this first. We will agree on a reasonable timeframe for disclosure, which we can bring forward or put back in consultation based on impact and progress.
+- Do not introduce backdoors or malware. Do avoid making any permanent changes.
+- Do not use DDoS, DoS, social engineering or spam.
+What you can expect from us
+- We will respond to your report within 5 working days with our assessment and the expected remediation date.
+- We will treat your report confidentially and never share your information with third parties without your permission, unless legally required to do so.
+- We will not pursue legal action against the reporter as long as their actions remain within the scope of our policy and they have acted in a manner commensurate to the vulnerability, as specified by the NCSC. We reserve the right to reconsider this in exceptional cases, such as when a report leads to demonstrable damage to external systems (such as those of suppliers), or when the reporter has made intentional misuse with serious consequences.
+Rewards and recognition
+We appreciate every report we receive and to show this appreciation we will, in most cases, give the reporter an appropriate reward or other form of recognition. We determine the type and amount of the reward based on factors such as the severity, quality of the report, and the impact on our organisation and business operations.
+We do not give a reward when:
+- the vulnerability has already been reported (only the first reporter receives a reward)
+- we were already aware of the vulnerability
+- you live in a country on an international sanctions list
+- you have not acted in full compliance with this policy

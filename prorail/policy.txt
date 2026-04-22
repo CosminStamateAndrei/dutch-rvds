@@ -1,0 +1,32 @@
+Responsible Disclosure Statement
+De veiligheid van onze producten en diensten vinden we erg belangrijk. Ook die van onze IT-systemen. Ondanks alle zorg en aandacht voor de beveiliging van de systemen kan het voorkomen dat er (tijdelijk) een zwakke plek, een kwetsbaarheid, over het hoofd wordt gezien.
+Zwakke plek gevonden?
+Denk je dat je een zwakke plek heeft gevonden in één van onze systemen? Dan horen we dit graag. We kunnen dan zo snel mogelijk maatregelen treffen. Je kunt hiervoor onderstaande richtlijnen volgen. Zo kunnen we samen voorkomen dat anderen de mogelijke kwetsbaarheid misbruiken.
+1. Zo meldt je een mogelijke kwetsbaarheid in onze systemen
+- Mail je bevindingen naar responsible-disclosure@prorail.nl (Onder vermelding: “Responsible disclosure”);
+- Geef voldoende informatie door om de gevonden kwetsbaarheid te reproduceren, zodat ProRail dit zo snel mogelijk kan oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende. Bij complexere kwetsbaarheden kan meer informatie nodig zijn;
+- Misbruik de kwetsbaarheid niet door bijvoorbeeld meer data te downloaden dan nodig is of gegevens van derden in te kijken, te verwijderen of aan te passen;
+- Deel de kwetsbaarheid niet met anderen en wis alle verkregen vertrouwelijke gegevens;
+- Geef je contactgegevens door zodat ProRail contact met je op kan nemen om samen te werken aan een veilig resultaat. Geef in elk geval je e-mailadres of telefoonnummer door.
+2. Doe dit in ieder geval niet als je een mogelijke kwetsbaarheid hebt gevonden
+- Het plaatsen van malware;
+- Het kopiëren, wijzigen of verwijderen van gegevens in een systeem (een alternatief hiervoor is het maken van een directory listing van een systeem);
+- Het aanbrengen van veranderingen in het systeem;
+- Het herhaaldelijk toegang tot het systeem verkrijgen of de toegang delen met anderen;
+- Het gebruikmaken van het zogeheten “bruteforcen” van toegang tot systemen;
+- Het gebruiken van denial-of-service of social engineering.
+Het beleid voor responsible disclosure is geen uitnodiging om onze ICT-systemen actief te scannen om kwetsbaarheden te ontdekken. ProRail scant en monitort zelf zijn ICT-systemen.
+3. Zo gaan we om met je melding
+- Binnen drie werkdagen ontvang je een reactie met onze beoordeling van je melding en een verwachte oplossingsdatum ;
+- Heb je je aan de bovengenoemde voorwaarden gehouden? Dan ondernemen wij vanzelfsprekend geen juridische stappen met betrekking tot de wijze van vinden, de inbreuk en het rapporteren van de kwetsbaarheid;
+- We behandelen je melding vertrouwelijk. We delen je persoonlijke gegevens niet zonder jouw toestemming met derden, tenzij dat noodzakelijk is om een wettelijke verplichting na te komen.
+Je kunt kwetsbaarheden ook anoniem melden; - We houden je op de hoogte van de voortgang van het oplossen van het probleem;
+- Indien gewenst, vermeldt ProRail je naam of alias in de publieke patch of security fix release information.
+4. Wat kun je niet melden onder responsible disclosure?
+De regeling is niet bedoeld voor:
+- Opmerkingen over de diensten die ProRail levert;
+- Opmerkingen of vragen over de bereikbaarheid van onze diensten;
+- Het rapporteren van fraude of mogelijke fraude;
+- Het rapporteren van mogelijk valse of zogenaamde phishing e-mails;
+- Het rapporteren van virussen en/of malware;
+- Het melden van klachten.

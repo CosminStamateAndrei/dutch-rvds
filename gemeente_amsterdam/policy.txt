@@ -1,0 +1,192 @@
+›Home ›Privacy City of Amsterdam
+Information security for the City of
+Amsterdam
+Reporting a vulnerability
+Reporting system for ethical hacking
+Dutch site Search Menu  
+Do you think you have found a vulnerability in one of our
+digital services? We would like to resolve the issue as fast
+as possible.
+If you are a specialist and you have found a vulnerability in
+our information systems, please help us by reporting it as
+soon as possible. Together we can improve the security
+and reliability of our systems.
+Please read the terms and conditions before making the
+report and respect the rules below on reporting a
+vulnerability.
+You can submit your report via the Zerocopter
+Coordinated Vulnerability Disclosure (CVD) form. Our
+specialists will read your report and get to work right
+away. You will receive updates on the process and
+progress.
+The City of Amsterdam aims to be a reliable government
+organisation and encourages the public to report
+suspected vulnerabilities in its information services.
+Despite all the measures the City takes, there may still be
+weaknesses in the IT systems that someone could abuse.
+If you have the right skills to discover vulnerabilities in our
+systems, you can help us by reporting them. This helps us
+to improve the security and reliability of our systems. Our
+security experts will investigate your findings. You will
+
+Our terms and conditions
+Report the vulnerability as soon as possible to
+prevent others from also finding it and taking
+advantage of it with malicious intention.
+Make your report to our organisation confiden-
+tially to prevent others from accessing the
+information.
+Provide enough information to reproduce the
+issue so that we can remedy the problem as
+quickly as possible. Usually the IP address or
+URL of the affected system and a description of
+the vulnerability will be sufficient, but for more
+complex vulnerabilities we may require more
+information.
+Do not misuse a vulnerability beyond the point
+necessary to establish the vulnerability.
+Do not use brute force attacks (repeated
+password attempts), social engineering, attacks
+on physical security, (distributed) denial of
+service, spam or third party applications to gain
+access to systems.
+Do not share your findings with others until the
+issue has been resolved. After the leak has been
+fixed, we also request that you immediately
+delete all confidential data that you have
+obtained.
+If you suspect that a vulnerability gives you
+access to personal data, we ask you not to
+verify this yourself, but to allow us do so.
+Do not abuse the vulnerability you have
+detected, for example by downloading more
+data than is necessary to demonstrate the
+receive an email with an initial response within five
+working days.
+Please note: To prevent abuse, please do not make the
+issue public until we have resolved it. Instead, talk to our
+experts and give them time to remedy the problem.
+Please adhere to the following terms and conditions:
+
+vulnerability or by viewing, deleting or
+modifying data belonging to third parties.
+Under no circumstances should your investiga-
+tion lead to the disclosure of personal data or
+confidential information.
+Do not install a backdoor in a system, even to
+demonstrate the vulnerability. This may cause
+additional damage, and it creates unnecessary
+security risks. Installing a backdoor in a system
+makes it even more insecure.
+Do not change or delete any data in the system.
+If it is necessary for the investigation to copy
+data from the system, never copy more than
+necessary. An alternative is to make a directory
+listing of a system.
+Do not make any system changes.
+Do not make repeated attempts to access the
+system and do not share access with others.
+You may make your report anonymously, but
+we would prefer to get in touch with you to
+exchange information and to thank you for your
+report.
+If you act in good faith and according to the
+above rules of the City of Amsterdam, we will
+not take any legal action, unless required to do
+so by law.
+What you can report
+Remote Code Execution
+Cross Site Scripting (XSS) vulnerabilities
+Cross Site Request Forgery (CSRF)
+vulnerabilities
+SQL injection vulnerabilities
+Vulnerabilities related to encryption
+Unauthorised access to data
+What you can’t report (out of scope)
+Examples of vulnerabilities that can be reported:
+The City of Amsterdam does not accept reports of trivial
+
+Examples of notifications that are out of scope:
+1. HTTP 404 codes/pages or other HTTP non-200
+codes/pages and content spoofing/text injections in
+these pages
+2. Fingerprinting/version disclosures on public services
+3. Public files or directories that do not contain
+confidential information
+4. Clickjacking, vulnerabilities that can only be
+exploited through clickjacking
+5. No secure/HTTP-only flags on non-confidential
+cookies
+6. OPTIONS HTTP method enabled
+7. Rate-limiting with no apparent impact
+8. All issues related to HTTP security headers, for
+example:
+a. X-Frame Options
+b. X-XSS Protection
+c. X-Content-Type-Options
+d. Content-Security-Policy
+e. Strict-Transport-Security
+9. SSL security configuration issues, for example:
+a. SSL Forward secrecy disabled
+10. No TXT record for DMARC or a missing CAA record
+11. Host header injection
+vulnerabilities or security issues that cannot be misused.
+Below are examples of known vulnerabilities and security
+issues that fall outside the scope of the scheme.
+Of course, this does not mean that these issues do not
+need to be resolved. However, our CVD process is
+intended for reports of matters that can be directly
+abused, such as a vulnerability for which a working exploit
+exists or a misconfiguration that makes it possible to
+circumvent an existing security measure.
+We will review all reports and may set them aside as ‘out of
+scope’ if they do not relate to a significant risk.
+
+12. Reports of outdated versions of software without
+proof of a working exploit
+13. Absence of security best practices or hardening
+measures. While these are important, they are
+beyond the scope of a CVD process. For example:
+a. php/wp-json from a WordPress website
+b. Absence of rate limiting measures
+14. Vulnerabilities that only affect users of outdated or
+unpatched browsers and platforms
+15. Issues that result in Denial of Service (DoS) of the
+organisation’s servers at the network or application
+layer.
+16. Issues requiring unlikely user activity
+17. Cross-site request forgery with minimal security
+impact
+18. Issues related to software or protocols that are not
+specific to our organisation, for example known
+issues with ARP or HL7.
+19. If your report relates to a vulnerability that has
+already been reported by someone else, we will act
+only on the earlier report.
+Rewards
+In certain cases, it is possible for us to offer a reward if you
+would appreciate it. This may consist of a public mention
+
+A reward will only be awarded to the first
+reporter of the vulnerability.
+Multiple reports for the same type of
+vulnerability with minimal differences will be
+treated as a single report (only one report will
+be rewarded).
+If you wish, you may be listed in the
+Coordinated Vulnerability Disclosure Hall of
+Fame on the website of the Information Security
+Service for municipalities
+(Informatiebeveiligingsdienst, IBD). See the
+Information Security Service website (in Dutch)
+for more information.
+Your privacy
+Publication
+of your contribution or a token of appreciation.
+We will use your personal data only to take action
+regarding your report. We will not share your personal
+data with others without your permission, unless legally
+required to do so. See the privacy statement of the online
+reporting system for ethical hackers.
+In consultation with you, we will decide whether, when
+and how your report will be made public.
