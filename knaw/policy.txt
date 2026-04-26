@@ -1,0 +1,87 @@
+Responsible disclosure policy
+At the Academy, we consider the security of our IT systems to be very important. Despite our care for the security of our systems, a weakness may nevertheless exist. If you find a weakness in one of our systems, please report it to us immediately so that we can take action as quickly as possible. 
+
+We would like to cooperate with you to protect our users and our systems more effectively.
+
+Not an invitation to active scanning
+Our responsible disclosure policy is not an invitation to actively scan our Academy network for weaknesses. We monitor our company network. There is a risk that a scan will be picked up and our CSIRT-KNAW group will have to carry out an investigation resulting in unnecessary costs.
+
+Criminal law and responsible disclosure
+There is a likelihood that during your investigation, you may perform acts that are punishable under criminal law. If you have complied with the conditions below, we will not take any legal action against you regarding the report. The Public Prosecutor's Office always retains the right to decide whether to prosecute you. The Public Prosecutor's Office has published information about this: https://www.om.nl/onderwerpen/cybercrime/hack_right/zelf-fouten-in-ict-systemen-zoeken.
+
+We ask you to do the following
+Please e-mail your findings as soon as possible to CSIRT@knaw.nl.
+Do not exploit the weakness by, for example:
+- downloading more data than necessary to demonstrate the leak
+- changing or deleting data
+Be extra cautious in the case of personal data.
+Do not share the weakness with others until it is resolved.
+Do not use attacks on physical security or third-party applications, social engineering, distributed denial-of-service, or spam.
+Please provide sufficient information to reproduce the weakness so that we can solve the issue as soon as possible. In most cases, the IP address or the URL of the affected system and a description of the vulnerability and the actions performed are sufficient, but for more complex vulnerabilities more may be needed.
+What we promise
+We will respond to your report within five (5) working days with our assessment of the report and an expected date for resolution.
+We will treat your report as confidential and will not share your personal data with third parties without your consent unless this is necessary to comply with a legal obligation.
+We will keep you informed of the progress in resolving the weakness.
+Anonymous or pseudonymous reporting is possible. You should be aware that this does mean we cannot contact you about, for example, the next steps, the progress of resolving the leak, publication or any reward for the report.
+In reports relating to the weakness, we will, if you wish, include your name as the person who discovered it.
+We strive to solve all problems as quickly as possible and keep all parties involved informed. We would like to be involved in any publication about the weakness after it has been resolved.
+Out of Scope List
+The KNAW network also provides internet access for researchers, international collaborations, and affiliated parties that maintain their own websites and systems. Reports concerning such systems or sites are accepted and forwarded to the responsible organizations. What these organizations do with the report is beyond the control and scope of the KNAW.
+
+The KNAW does not respond to reports of trivial vulnerabilities or bugs that cannot be exploited. This document lists examples of known vulnerabilities and accepted risks (non-exhaustive) that fall outside the scope of Responsible Disclosure process.
+
+In many cases, these involve known configurations, low-risk findings, or issues that do not directly affect the security of systems or data. The purpose of this list is to provide transparency to security researchers and reporters.
+
+Note: Findings that do not affect the availability, integrity, or confidentiality of data are generally considered out of scope.
+
+Out of Scope Reports
+HTTP 404 pages or other HTTP non-200 responses and content spoofing or text injection in these pages
+Includes spoofing/injection without a realistic exploit scenario.
+Fingerprinting or version disclosures on public-facing services
+Including version banners or files such as info.php that reveal software versions without exploitable risk.
+Public files or directories that do not contain confidential information
+For example: robots.txt, public sitemap.xml, or accessible log files with non-sensitive content.
+Disclosure of sensitive or confidential information
+Will be evaluated by KNAW or the responsible organization, and may be considered out of scope if not posing a significant risk.
+Clickjacking vulnerabilities
+Especially if the impact relies solely on clickjacking techniques.
+Missing secure or HTTP-only flags on non-sensitive cookies
+OPTIONS HTTP method enabled
+Rate-limiting issues without clear or demonstrated impact
+Missing or misconfigured HTTP security headers, such as:
+X-Frame-Options
+X-XSS-Protection
+X-Content-Type-Options
+Content-Security-Policy
+Strict-Transport-Security
+Cross-Origin Resource Sharing (CORS) — unless the misconfiguration leads to a demonstrable security issue
+SSL/TLS configuration issues, including:
+Forward secrecy not enabled
+Weak or outdated cipher suites
+Missing or misconfigured DNS records
+For example: DMARC, SPF, DKIM, or CAA without proven impact
+Host header injection without exploit scenario
+Outdated software versions without proof-of-concept or working exploit
+Missing security best practices or hardening techniques
+While important, these do not fall within the scope of Responsible Disclosure. Examples:
+Public endpoints like xmlrpc.php or /wp-json on WordPress
+Use of xmlrpc.php for DoS via pingback mechanism
+Results from automated scanning tools (e.g. Nmap, SSL/TLS scanners) without evidence of exploitability
+Exposure of non-sensitive metadata
+Reflected or stored XSS on static or non-interactive websites that do not process sensitive data
+General configuration warnings
+Vulnerabilities only affecting outdated or unpatched browsers or platforms
+Social engineering against organization personnel or contractors
+For example: phishing, spoofed login pages, impersonation attempts
+Denial-of-Service (DoS) vulnerabilities
+At either the network or application layer
+Includes WordPress xmlrpc.php pingback-based DoS without wider impact
+Issues that require unlikely or unrealistic user interaction
+E.g., multiple improbable user actions or elaborate deception
+Cross-site Request Forgery (CSRF) with minimal security impact
+No modification of sensitive data or authentication-related actions
+Issues related to third-party software or protocols outside organizational control
+For example: known weaknesses in ARP, HL7, or other standard protocols
+Issues that have been reported before
+Issues that KNAW classifies as out of scope, despite not being listed above
+Our policy is subject to a Creative Commons Attribution 3.0 licence. The policy is based on the example policy of Floor Terra (responsibledisclosure.nl), the SURF Model Responsible Disclosure and on examples from the university world (University of Twente, VU Amsterdam, Fontys).

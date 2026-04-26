@@ -1,0 +1,46 @@
+Report vulnerability
+The municipality of Zwolle considers the security of its systems very important. Despite all precautions, it remains possible that a weak spot can be found in the systems. Do you discover a weak spot in one of our systems? We would like to hear this from you. Then we can quickly take appropriate measures. This way of working together is called Coordinated Vulnerability Disclosure (CVD).
+
+The fact that the municipality of Zwolle has a Coordinated Vulnerability Disclosure policy is not an invitation to extensively and actively scan our company network for weaknesses. We monitor our company network ourselves. If you are investigating a vulnerability in one of our systems, consider the proportionality of the attack.
+
+By making a notification you agree to the agreements below about the Coordinated Vulnerability Disclosure. The municipality of Zwolle will process your report in accordance with the agreements below.
+
+Email your findings to security@zwolle.nl. Encrypt the findings if possible with Zivver. Or send the message via secure email. This prevents the information from falling into the wrong hands. Submit the notification as soon as possible after discovery of the weak spot.
+
+We need at least the following information from you:
+
+Leave your details so we can contact you. In any case, leave an email address or telephone number.
+Provide sufficient information to reproduce the problem. We can then solve it as quickly as possible. Usually you just need to send us the IP address or URL of the affected system and a description. With an extensive weak spot, more information may be needed. For example, a Proof of Concept.
+Conditions:
+
+You delete all confidential data you have obtained in your research. You do this immediately after we have resolved the weak spot.
+We always like it when we get help to solve a problem. Provide information about the weak spot we can control. Avoid your advice amounting to advertising for other (security) products.
+Do not abuse the weak spot by, for example:
+Download more data than necessary to demonstrate the weak spot.
+Change or delete data.
+
+The following operations shall not be permitted: a
+
+You may not place malware on our systems. Not even on those of others.
+You may not access the system “bruteforce”. This is only allowed if there is no other option. For example, to show that security is very poor. This means that it should be easy to crack a password with easily and cheaply available hardware and software. This password can then expose the system to danger.
+You may only use social engineering if there is no other option. This is only allowed if you demonstrate that employees who have access to sensitive data do not handle this carefully. You must have legally persuaded employees to give this type of data to people who are not allowed to receive it. It is not permitted to harm municipal employees.
+With what you have found you may only demonstrate that the procedures and working methods within the municipality are flawed.
+You may not pass on the information from the security vulnerability to others until we resolve the issue.
+You may only perform actions that are really necessary to demonstrate the security vulnerability to us and to report it to us. You can give us a directory list, instead of copying a complete database. You should never change or delete data in the system.
+You may not use techniques that deteriorate the use and/or availability of the system or services (DoS attacks).
+
+What you can expect from us:
+
+If you meet all the conditions, we will not file a criminal report. We will therefore not file a civil law case against you.
+If you have not complied with these terms, we may file a court case against you.
+We treat the report confidentially. We will only share your personal information with others if you have given your consent. We also share the data if the law requires us to do so. Or if this is mandatory by a court decision.
+Municipalities share their experiences with each other. That is why we always share the notification received with the Information Security Service for Municipalities (IBD).
+You remain anonymous as the discoverer of the weaker place. If you would like us to mention your name, we will do so.
+You will receive an acknowledgment of receipt within 2 working days.
+You will receive a response from us within 5 working days with a review of the report.
+We will resolve the security issue you reported as soon as possible. We want to keep you well informed about the progress. We don't want to take more than 90 days to solve the problem. We are often dependent on others.
+After solving the problem, we can decide together whether the problem will be announced and how we will communicate it.
+We can give you a reward for your research, but we are not obliged to do so. The form of this reward is not determined in advance. We determine this on a case-by-case basis. Whether we give a reward and the form in which it happens depends on
+the care of your investigation
+the quality of the report
+the severity of the weak spot

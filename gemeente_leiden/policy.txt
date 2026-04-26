@@ -1,0 +1,22 @@
+Responsible disclosure: meld een zwakke plek in onze systemen
+De gemeente Leiden vindt de veiligheid van de computersystemen belangrijk. Ondanks onze zorg voor de beveiliging van die systemen, kan het voorkomen dat er toch een zwakke plek is. Hebt u een zwakke plek in onze systemen gevonden? Dan horen we dit graag, zodat we snel maatregelen kunnen nemen.
+Zwakke plekken kunt u op twee manieren ontdekken:
+- u loopt ergens toevallig tegenaan bij normaal gebruik van een digitale omgeving;
+- u zoekt bewust naar een zwakke plek in de digitale omgeving.
+Wat mag u niet?
+Het is niet toegestaan om op wat voor manier dan ook misbruik te maken van de kwetsbaarheid. Het is niet toegestaan om:
+- Kwaadwillende software te plaatsen.
+- Wachtwoorden te kraken of te achterhalen.
+- Te proberen vertrouwelijke of geheime informatie via medewerkers van de gemeente te achterhalen.
+- Informatie over het beveiligingsprobleem openbaar te maken of aan derden te verstrekken voordat het is opgelost.
+- Gebruik te maken van technieken waarmee de beschikbaarheid of bruikbaarheid van het systeem wordt verminderd (DDoS-aanvallen).
+Wat mag u van ons verwachten?
+- Als u aan alle voorwaarden voldoet, doet de gemeente geen strafrechtelijke aangifte en start geen civielrechtelijke zaak tegen u.
+- De gemeente behandelt een melding vertrouwelijk. Persoonlijke gegevens worden zonder uw nadrukkelijke toestemming niet gedeeld. Behalve als de gemeente volgens de wet of een rechterlijke uitspraak verplicht is dit te doen.
+- Afhankelijk van de ernst van het beveiligingsprobleem deelt de gemeente de melding met de Informatiebeveiligingsdienst voor gemeenten (IBD).
+- In onderling overleg kan de gemeente uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid. In alle andere gevallen blijft u anoniem.
+- De gemeente stuurt binnen een werkdag een (automatische) ontvangstbevestiging.
+- De gemeente reageert binnen drie werkdagen op een melding.
+- De gemeente lost het gemelde beveiligingsprobleem zo snel mogelijk op. U wordt daarvan op de hoogte gehouden van de voortgang. Wij proberen om nooit langer dan 90 dagen over het oplossen van het probleem te doen.
+- In onderling overleg kan worden bepaald of en hoe er over het probleem wordt gepubliceerd.
+- De gemeente kan u een beloning bieden als dank voor de hulp. Afhankelijk van de melding, kan die beloning variëren van een eenvoudig ‘dankjewel’ tot een nader te bepalen geldbedrag. Het moet hierbij wel gaan om een nog onbekend en serieus beveiligingsprobleem.

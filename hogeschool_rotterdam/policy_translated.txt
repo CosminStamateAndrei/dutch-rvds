@@ -1,0 +1,57 @@
+If you have found a vulnerability in one of our systems, we would like to hear about it so that we can take measures as soon as possible. We would like to work with you to better protect our users and our systems.
+
+No invitation to actively scan
+Our so-called responsible disclosure policy is not an invitation to extensively and actively scan our network or systems for vulnerabilities. We monitor our corporate network ourselves. As a result, there is a high probability that we will detect your scan and that our Computer Emergency Response Team (CERT) will conduct an investigation, which may lead to unnecessary costs.
+
+Prosecution
+It is possible that you perform actions during your investigation that are punishable by law. If you have adhered to the conditions below, we, as Rotterdam University of Applied Sciences, will not take legal action against you. However, the Public Prosecution Service always has the right to decide whether to criminally prosecute you.
+
+Request for you
+- Email your findings as soon as possible to cert@hr.nl. Encrypt your findings using our S/MIME public key or our PGP key (fingerprint 79B2 945F 2155 45A8 8C73 EA46 B0E8 BEF2 1C5A C4B6) to prevent the information from falling into the wrong hands.
+
+- Do not exploit the discovered vulnerability by, for example:
+
+- downloading more data than necessary to demonstrate the leak;
+- altering or deleting the data;
+- exercising extra caution regarding personal data;
+- not sharing the vulnerability with others until it has been resolved;
+- not using attacks on physical security or third-party applications, social engineering, (distributed) denial-of-service, malware, or spam;
+- providing sufficient information to reproduce the vulnerability so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability and the actions taken are sufficient, but more may be required for more complex vulnerabilities. Our promise
+- We will respond within five working days with our assessment of the report and an expected date for a solution.
+- We will treat your report confidentially and will not share your personal data with third parties without your permission, unless this is necessary to comply with a legal obligation.
+- We will keep you informed of the progress in resolving the vulnerability.
+- You may report anonymously or under a pseudonym. However, in that case, we will not be able to contact you regarding, for example, the next steps, progress in patching the vulnerability, publication, or any potential reward for the report.
+- In communications regarding the reported vulnerability, we will, if you wish, mention your name as the discoverer of the vulnerability.
+- We may offer you a reward for your research, but are not obligated to do so. Therefore, you are not automatically entitled to compensation. The form of this reward is not fixed in advance and is determined by us on a case-by-case basis. Whether we provide a reward and the form in which this occurs depend on the thoroughness of your research, the quality of the report, and the severity of the vulnerability. Employees and students of Rotterdam University of Applied Sciences are excluded from any potential reward.
+- We strive to resolve all issues as quickly as possible and keep all involved parties informed. We would like to be involved in any potential publication regarding the vulnerability after it has been resolved.
+
+Not in scope
+Rotterdam University of Applied Sciences does not offer a reward for trivial vulnerabilities or bugs that cannot be exploited. There is a network and a shared web server that are primarily used for experiments by students and researchers. These websites and servers fall outside the scope. Below are examples of known vulnerabilities and accepted risks that fall outside the scope of the above regulation:
+
+- Everything in the 145.24.222.0/24 network
+- All websites on the web server 145.24.129.62 (octagon.hro.nl)
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and content spoofing/text injecting on these pages
+- fingerprinting/version disclosure on public services
+- public files or directories containing non-sensitive information (e.g. robots.txt)
+- clickjacking and issues that can only be exploited via clickjacking
+- no secure/HTTP-only flags on non-sensitive cookies
+- OPTIONS HTTP method enabled
+- everything related to HTTP security headers, for example:
+
+- Strict-Transport-Security
+- X-Frame-Options
+- X-XSS-Protection
+- X-Content-Type-Options
+- Content Security Policy
+- issues with SSL configuration issues
+- SSL Forward secrecy disabled
+- weak/insecure cipher suites
+- issues with SPF, DKIM, or DMARC
+- host header injection
+- reporting outdated versions of any software without a proof of concept of a working exploit
+- information exposure in metadata
+Our policy is licensed under a Creative Commons Attribution 3.0 license. The policy is based on the SURF policy and the Floor Terra sample policy.
+
+Service Description (RFC 2350)
+
+RFC 2350 is an international standard for Computer Security Incident Response Teams. This standard describes how and for what purpose CERT-HR can be contacted in the event of incidents.

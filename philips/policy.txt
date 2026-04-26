@@ -1,0 +1,47 @@
+Reporting Procedure
+1. Please use our PGP public key to encrypt any email submissions to us at [email protected].
+2. Please provide us with your reference/advisory number and sufficient contact information, such as your organization and contact name so that we can get in touch with you.
+3. Please provide a technical description of the concern or vulnerability.
+a) Please provide information on which specific product you tested, including product name and version number; the technical infrastructure tested, including operating system and version; and any relevant additional information, such as network configuration details.
+b) For web based services, please provide the date and time of testing, URLs, the browser type and version, as well as the input provided to the application.
+4. To help us to verify the issue, please provide any additional information, including details on the tools used to conduct the testing and any relevant test configurations. If you wrote specific proof- of-concept or exploit code, please provide a copy. Please ensure all submitted code is clearly marked as such and is encrypted with our PGP key.
+5. If you have identified specific threats related to the vulnerability, assessed the risk, or have seen the vulnerability being exploited, please provide that information also PGP-encrypted.
+6. If you communicate vulnerability information to vulnerability coordinators such as ICS-CERT, CERT/CC, NCSC or other parties, please advise us and provide their tracking number, if one has been made available.
+7. When possible provide the report in English to expedite the process.
+
+Product Security Vulnerability Report Assessment and Action
+
+1. Philips will acknowledge receiving your report within two business days.
+2. Philips will provide you with a unique tracking number for your report.
+3. Philips will assign a contact person to each case.
+4. Philips’ central security incident response team will notify the appropriate product teams.
+5. Philips will keep you informed on the status of your report approximately every 2-3 weeks.
+6. If the vulnerability is actually in a 3rd party component which is part of our product/service, we will refer the report to that 3rd party and advise you of that notification. To that end, please inform us whether it is permissible in such cases to provide your contact information to the 3rd party.
+7. Upon receiving a vulnerability report, Philips will:
+        a) Verify the reported vulnerability.
+        b) Work on a resolution.
+        c) Perform QA/validation testing on the resolution.
+        d) Release the resolution (Philips aims for a 90 day resolution).
+        e) Share lessons learned with development teams.
+8. Philips will use existing customer notification processes to manage the release of patches or security fixes, which may include direct customer notification or public release of an advisory not ification on our website.
+
+Important
+
+ 
+
+1. Refrain from including sensitive information, e.g. patient information, in any screen shots or other attachments you provide to us.
+2. Do not perform any vulnerability or similar testing on products that are actively in use. Vulnerability testing should only be performed on devices or systems not currently in use or not intended for use.
+3. For Healthcare products, never perform any vulnerability or similar testing on products that are actively in use in patient care, patient diagnosis or patient monitoring.
+4. For web based products, please use demo/test environments to perform vulnerability testing.
+5. Do not take advantage of the vulnerability or problem you have discovered; for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying any data.
+6. After vulnerability testing, each device should be retested to ensure no damage has been inflicted and the device is suitable for use. Contact your service provider prior to the device being placed back into use.
+7. As part of responsible co-ordination of vulnerability disclosure, we encourage you to work with Philips on selecting public release dates for information on discovered vulnerabilities. To minimize the possibility of public safety, privacy and security risks, we request your cooperation in synchronizing the release of information. Please inform us of your disclosure plans, if any, prior to public disclosure.
+8. The discloser’s actions must not be disproportionate, such as:
+        a) Using social engineering to gain access to the system.
+        b) Building his or her own backdoor in an information system with the intention of then using it to demonstrate the vulnerability, as doing so can cause additional damage and create unnecessary security risks.
+        c) Utilizing a vulnerability further than necessary to establish its existence.
+        d) Copying, modifying or deleting data on the system. An alternative for doing so is making a directory listing of the system.
+        e) Making changes to the system.
+        f) Repeatedly gaining access to the system or sharing access with others.
+        g) Using brute force attacks to gain access to the system. This is not a vulnerability in the strict sense, but rather repeatedly trying out passwords.
+9. Philips will provide full credit to researchers who make a vulnerability report or perform testing, in publicly released patch or security fix release information, if requested.

@@ -1,0 +1,42 @@
+Kwetsbaarheden melden
+Welke kwetsbaarheden kan ik melden?
+Je kunt problemen melden die te maken hebben met onze online dienstverlening. Bijvoorbeeld:
+- Cross-site scripting
+- SQL-injectie
+- Cross-site Request Forgery (CSRF)
+Hoe meld ik een kwetsbaarheid?
+Iedereen kan een kwetsbaarheid melden. Ook als je geen klant bij ons bent.
+Niet anoniem melden
+HackerOne hebben we een privéprogramma. Als je mee wilt doen kun je je aanmelden door ons je gebruikersnaam te sturen via responsible-disclosure@asnbank.nl. Als we dankzij jouw melding kwetsbaarheden verhelpen of onze dienstverlening aanpassen, geven we jou een passende beloning. Wij beslissen of je voor een beloning in aanmerking komt. Op de HackerOne-pagina lees je de spelregels en hoe we het bedrag van een beloning bepalen. Melden anderen dezelfde kwetsbaarheid? Dan is de vergoeding voor de eerste melder.
+Anoniem melden
+- Je kunt een kwetsbaarheid ook anoniem melden (in het Nederlands of Engels) door ons te mailen op responsible-disclosure@asnbank.nl vanaf een willekeurig e-mailadres. Gebruik daarbij bij voorkeur onze publieke PGP-sleutel.
+- Zet in je e-mail genoeg informatie waarmee we de kwetsbaarheid kunnen reproduceren en verifiëren. Bijvoorbeeld een specifieke URL, een stappenplan of een "proof of concept". Houd er rekening mee dat we je bij een anonieme melding geen beloning kunnen geven als je daarvoor in aanmerking komt.
+De spelregels
+We zijn blij als je scherp bent op kwetsbaarheden en die aan ons meldt, maar we vinden het ook belangrijk dat al onze klanten ongestoord en veilig online kunnen bankieren. Daarom hebben we een paar spelregels.
+Veroorzaak geen schade en verstoor onze dienstverlening niet wanneer u een kwetsbaarheid of beveiligingsprobleem onderzoekt
+- Hacktools, zoals kwetsbaarheidsscanners of detectiescanners (bijvoorbeeld Acunetix, Appscan, Rapid7 AppSpider, Burp Suite Pro-actieve scanner, DirBuster, Nessus, Netsparker, Nikto, OpenVAS), mag je alleen gebruiken als je vooraf toestemming en instructies van ons hebt gekregen.
+- Gebruik tijdens het testen maximaal 1 gelijktijdige verbinding of thread.
+- Breng geen of zo beperkt mogelijk wijzigingen aan in onze systemen, alleen wat nodig is om een kwetsbaarheid te bewijzen.
+- Gegevens uit het systeem mogen niet worden gewijzigd of verwijderd.
+- We bieden geen testaccounts.
+Verstoor andere gebruikers niet, houd hun gegevens veilig
+- Communiceer alleen met eigen accounts of met accounts waarvoor je expliciete toestemming van de accounthouder hebt gekregen.
+- Handel integer: voorkom privacyschendingen en vernietiging van gegevens. Zorg ervoor dat onze dienstverlening niet onderbreekt of aantast.
+- Geef nooit klant- of bedrijfsgegevens door aan anderen.
+- Wees terughoudend bij het kopiëren van gegevens.
+- Voer geen enkele actie uit die een andere gebruiker opmerkt (plaats bijvoorbeeld geen test op een openbaar fora, in de commentaren op een openbare pagina, via een DM naar een andere gebruiker sturen, enz.).
+- Als je per ongeluk een publicatie, verstoring of enige andere schade hebt veroorzaakt, neem dan onmiddellijk contact met ons op via e-mail: responsible-disclosure@asnbank.nl
+Sociale, fysieke en bruteforce testen niet in scope
+- Alle vormen van Denial of Service (DoS), bruteforcing en enumeratie
+- Social engineering (bijv. phishing, vishing, smishing)
+- Start geen aanvallen op onze fysieke beveiliging
+Maak geen misbruik
+- Maak minimaal gebruik van een zwakke plek. Doe alleen dat wat er moet gebeuren om de kwetsbaarheid vast te stellen.
+- Deel de kwetsbaarheid niet met andere partijen dan ASN Bank totdat deze is opgelost.
+- Praat met onze experts en geef ons de tijd om het probleem op te lossen.
+- Plaats geen achterdeur in een informatiesysteem om de kwetsbaarheid te bewijzen.
+- We bieden geen testaccounts.
+Wat doet ASN Bank met je melding?
+Onze beveiligingsexperts onderzoeken je melding. Je krijgt binnen 2 werkdagen een eerste reactie.
+Jouw privacy
+We geven je gegevens niet aan anderen en gebruiken ze niet voor andere doeleinden. Tenzij we daartoe wettelijk worden verplicht, bijvoorbeeld bij vordering door justitie.

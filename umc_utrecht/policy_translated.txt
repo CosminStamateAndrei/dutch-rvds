@@ -1,0 +1,65 @@
+Visiting address:
+
+Heidelberglaan 100
+3584 CX Utrecht
+
+Postal address:
+
+PO Box 85500
+3508 GA Utrecht
+
+www.umcutrecht.nl
+
+Responsible Disclosure Policy
+
+At UMC Utrecht, we consider the security of our systems to be of great importance.
+
+Despite our efforts to secure our systems, it is possible that a vulnerability may still exist.
+
+If you have found a vulnerability in one of our systems, we would like to hear about it so that we can take measures as soon as possible.
+
+We would like to work with you to better protect our users, our systems, and the data of our patients and employees.
+
+Our responsible disclosure policy is not an invitation to extensively and actively scan our corporate network to discover vulnerabilities.
+
+We monitor our corporate network. As a result, there is a high probability that a scan will be detected, that our Computer Emergency Response Team (CERT) will conduct an investigation, and that unnecessary costs may be incurred.
+
+Computer intrusion is punishable in principle, including in the case of ethical hacking.
+
+However, if you have adhered to the rules below, we will not take legal action against you regarding the report.
+
+The Public Prosecution Service always retains the right to decide whether you will be criminally prosecuted. The Public Prosecution Service has published a policy letter regarding this.
+
+Page(s) 1 / 3
+
+We ask you:
+
+• To email your findings as soon as possible to cert@umcutrecht.nl.
+
+Encrypt your findings with our PGP key (asc) to prevent the information from falling into the wrong hands. • Not to exploit the vulnerability, for example by downloading more data than necessary to demonstrate the leak, or by altering or deleting data, and to exercise extra caution regarding personal data.
+
+• Not to share the vulnerability with others until it has been resolved.
+
+• To provide us with sufficient information to reproduce the vulnerability so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system, a description of the vulnerability, and the actions taken are sufficient, but more may be required for more complex vulnerabilities.
+
+• Public disclosure is only permitted once the reporter and UMC Utrecht have agreed that the vulnerability may be made public, all involved organizations have been properly informed, and UMC Utrecht has indicated that the vulnerability has been resolved.
+
+• If a vulnerability is difficult or impossible to resolve, or if high costs are involved, the reporter is only entitled to make the vulnerability public after explicit permission from UMC Utrecht. UMC Utrecht would like to be involved in any potential publication regarding the vulnerability.
+
+Page(s) 2 / 3
+
+What we promise:
+
+• We will respond to your report within 5 working days with a confirmation of receipt and an initial assessment of the legitimacy and severity of the reported vulnerability.
+
+• We will keep you informed of the progress in resolving the vulnerability.
+
+• We will treat your report confidentially and will not share your personal data with third parties without your permission, unless this is necessary to comply with a legal obligation.
+
+• Reporting anonymously or under a pseudonym is possible. It is good for you to know that this does mean that we will not be able to contact you regarding, for example, the next steps, progress in closing the leak, or any potential publication of the vulnerability. • If the Information Security Officer decides to inform a broader ICT community
+
+or the general public about the vulnerability, you will be notified of this.
+
+• In communications regarding the reported vulnerability, we will, if you wish, mention your name as the discoverer of the vulnerability.
+
+• We strive to resolve all issues as quickly as possible and keep all involved parties informed.

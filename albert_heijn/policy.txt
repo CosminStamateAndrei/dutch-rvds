@@ -1,0 +1,17 @@
+Bij Koninklijke Ahold Delhaize N.V. ("Ahold Delhaize") hechten wij groot belang aan het onderhouden van de beveiliging van onze systemen en gegevens. Wij zijn van mening dat een goede beveiliging cruciaal is voor het vertrouwen van de klanten, leveranciers en werknemers. Wij streven er dan ook naar onze beveiliging continu te verbeteren en waarderen jouw hulp in dat opzicht.
+Mocht je een zwakke plek in een van onze systemen vinden, dan horen wij dat graag direct van jou, zodat wij zo snel mogelijk de nodige maatregelen kunnen treffen om de beveiliging te verbeteren. Om ons systeem op een verantwoorde wijze te verbeteren, vragen wij jouw aandacht voor het volgende.
+Voldoende informatie aan te leveren om het probleem in kaart te brengen, zodat Ahold Delhaize het probleem zo snel mogelijk kan adresseren. Het IP adres of de URL van het systeem en een beschrijving van jouw bevinding zijn vaak voldoende. Echter bij complexe problemen kan meer informatie noodzakelijk zijn.
+Je contactgegevens achter te laten, zodat Ahold Delhaize contact met je kan opnemen.
+Je bevindingen zo snel mogelijk na ontdekking bij ons te melden.
+Geen informatie over jouw bevindingen met iemand te delen, behalve met de door Ahold Delhaize aangewezen personen.
+Zorgvuldig met de kennis van jouw bevindingen om te gaan en enkel te gebruiken om ons op de hoogte te brengen van hetgeen je hebt ontdekt.
+Data kopieert, verandert of verwijdert uit een systeem.
+Veranderingen aanbrengt in een systeem.
+Herhaaldelijk toegang verkrijgt tot het systeem of deze mogelijkheid geeft aan andere personen dan die door Ahold Delhaize zijn aangewezen.
+Gebruik maakt van zo genaamde "brute force" om toegang te krijgen tot onze systemen.
+Gebruik maakt van aanvallen door middel van social engineering of (distributed) denial of service.
+Handelingen verricht die mogelijk ons systeem kunnen ontwrichten.
+Dat jouw naam niet wordt vermeld als diegene die de bevindingen heeft ontdekt, tenzij je hiertoe toestemming geeft.
+Ahold Delhaize zal je zo spoedig mogelijk een ontvangstbevestiging sturen.
+Ahold Delhaize looft een beloning uit voor jouw hulp. Afhankelijk van de ernst van jouw bevindingen en de kwaliteit van jouw melding kan de beloning variëren van een T-shirt, een meet & greet met het IT security team tot een maximum van € 300 aan cadeaubonnen. Het moet in ieder geval gaan om een ernstige constatering, die voor ons onbekend is.
+Ahold Delhaize wil diegenen bedanken die contact hebben opgenomen via het Responsible Disclosure kanaal en aanzienlijk hebben bijgedragen aan de beveiliging van onze systemen en platforms, door hen op te nemen in de Wall of Fame van Ahold Delhaize.

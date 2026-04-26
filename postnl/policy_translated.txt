@@ -1,0 +1,23 @@
+To ensure the smooth delivery of thousands of packages and letters every day, we pay close attention to the security of our IT systems. Nevertheless, it is possible that a leak may occur somewhere. If you find a weak spot in our systems, we kindly ask you to report it to us. Naturally, you must adhere to the rules for ‘responsible disclosure’. We have listed them below:
+
+Have you found a vulnerability?
+
+- You will not exploit the weak spot. For example, by viewing, modifying, or deleting personal or confidential data. Or by downloading more data than necessary.
+
+- You will not share your finding with others before we have fixed the weak spot.
+
+Have you obtained personal or confidential data? Then you will delete or destroy it as soon as possible (after we have contacted you, of course).
+
+- You will not use your finding for a cyberattack.
+
+- You have not used social engineering, distributed denial of service (DDoS), or spam. - If you follow these rules, you need not fear that your report will lead to legal action. Not even if you did something unlawful or punishable.
+
+Good to know: we work with Zerocopter to assess your report. When you submit a report, you will leave our website.
+And in return, we promise that:
+
+- We will respond to your report as soon as possible with our assessment and an expected date for a solution.
+- We will treat your report confidentially and will not share your personal data with third parties without your permission unless it is necessary to resolve the issue or to comply with a legal obligation. You can also submit your report anonymously.
+- We will keep you informed of the progress in resolving the problem if you have requested this from us.
+- For medium-risk and high-risk findings, we will reward you with a package of goodies if you are the first to report the vulnerability and we have made an adjustment based on your report. - We will mention your name in our Hall of Fame for medim risk and high risk findings. Naturally, only with your permission (when you are the first to report this vulnerability and we have made an adjustment based on your report).
+- If the discovery of the vulnerability in our systems is the result of a possible criminal offense or unlawful conduct, we will not take legal action against you provided you have adhered to our terms regarding our 'Responsible Disclosure'.
+We strive to resolve all reports as quickly as possible. If you seek publicity or wish to publish about this after the problem has been resolved, we request that you coordinate the publication with us and inform us in advance.

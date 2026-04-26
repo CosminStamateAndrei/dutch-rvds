@@ -1,0 +1,38 @@
+Report a vulnerability
+
+Have you discovered a weakness in an ICT system or website of De Nederlandsche Bank (DNB)? If so, please report this vulnerability to DNB as soon as possible via cvd@dnb.nl. Submit the report before disclosing the vulnerability to the outside world so that DNB can take the necessary measures in a timely manner. This principle is called Responsible Disclosure.
+
+Making a report
+When you have discovered a weakness in an ICT system, we ask the following of you:
+
+- Send the report to cvd@dnb.nl as soon as possible after discovering the vulnerability. If possible, use DNB's PGP key to prevent the information from falling into the wrong hands. See our contact page for more information.
+
+- Do not share information about the security issue with others until the issue has been resolved.
+
+- Provide information about how and when the vulnerability or malfunction occurs. Clearly describe how this problem can be reproduced and provide information about the method used and the time of investigation.
+- Handle the knowledge regarding the security issue responsibly. Do not perform any actions that go beyond what is necessary to demonstrate the security issue. Do not exploit the weakness and do not retain confidential data obtained through the vulnerability in the system.
+
+- Leave contact details (email address or phone number) so that DNB can contact you regarding the status of the outage.
+
+- Scope is dnb.nl.
+If your report complies with these conditions, DNB will not attach any legal consequences to the report.
+
+What does DNB do regarding Responsible Disclosure?
+
+When you report a weakness in an ICT system, DNB handles it as follows:
+
+- You will receive an acknowledgment of receipt from the DNB Information Desk within two working days of submitting the report.
+- Within three working days of the acknowledgment of receipt, you will receive a response containing an assessment of the report and the expected date of the solution. In the meantime, you will be kept informed about the progress of resolving the problem.
+
+- DNB treats your report confidentially and will never share your data with third parties without your permission, except when required by law or by a court ruling. - DNB will determine together with you whether and how the reported problem will be publicized. Publication will only take place after the problem has been resolved. In the publicity regarding the reported problem, DNB will, if desired, mention your name as the discoverer.
+
+- As a thank you for reporting, DNB makes a reward available. The amount of the reward is determined by DNB based on the severity and scope of the reported problem and the quality of the report.
+
+The policy described above is based on the guidelines for Coordinated Vulnerability Disclosure (Refers to an external site) of the National Cyber ​​Security Centre.
+
+Exceptions
+Reports regarding the following will not be processed:
+
+- The policy regarding SPF / DKIM / DMARC.
+- The possibility of cross-site scripting on a static website or on a website where no sensitive (user) information is processed.
+- The absence of HTTP security headers as used by, among others, Cross-Origin Resource Sharing (CORS), unless this absence demonstrably leads to a security problem. DNB is already aware of this.

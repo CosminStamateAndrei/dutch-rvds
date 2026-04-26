@@ -1,0 +1,44 @@
+Information security
+Information security guarantees the accessibility, integrity and confidentiality of information. This includes the security of research data, privacy-sensitive information and copyrighted material.
+Below, you will find information on the information security policy, the Computer Emergency Response Team (CERT), responsible disclosure and the network rules and regulations. Have you encountered an error? Report it directly through “report an incident”.
+The information security policy details how WUR protects information. The policy is in keeping with WUR’s mission. It contributes to the protection of information and systems to prevent violation of confidentiality, integrity and accessibility.
+The key principle is to ensure the continuity of education, research and value creation. In doing so, we strive for a balance between freedom and security in the way we protect our data.
+The WUR-CERT can be reached through email by cert@wur.nl. This mailbox is checked regularly during business hours by the person(s) on duty for the WUR-CERT. Outside the business hours, the mailbox will be checked on best-effort principle with reasonable intervals.
+Download or check out the list of all WUR-CERT responsibilities.
+Secure systems and secure data are of critical importance to WUR. Have you encountered a vulnerability in our systems? Please report it without delay so we can address it.
+How to offer feedback
+Please email any feedback to cert@wur.nl. Make sure you include all information needed to reproduce the issue. Reporting issues anonymously is possible.
+Encrypt your email using the PGP key before sending it. You may download the key from pgp.surfnet.nl or any other open access PGP-key servers. The fingerprint is 860E CC37 CA68 FBA8 E01D 0A62 B2CD A3AB 88BE 4927, short (0X) b2cda3ab88be4927 or look for cert@wur.nl .
+We also request you to:
+- Download only the data you need to show the vulnerability.
+- Refrain from reading, removing or editing third-party data.
+- Refrain from sharing the issue with others until it has been solved.
+- Promptly delete any personal data that may have come into your possession through the leak.
+- Refrain from using social engineering, distributed denial of service, spam, or third-party applications upon identifying an issue. Please also refrain from breaching our physical security.
+If you comply with the above, no legal steps will be taken.
+Response to your feedback
+We appreciate your feedback and will respond as follows:
+- We will reply to your message within five office days.
+- We will keep you appraised of the stages in solving the issue.
+- We will treat your message as confidential, and we will not disclose your personal data to third parties without your consent unless we are legally obligated to do so.
+- In our communication on the issue and/or our ‘Hall of Fame’, we will name you as the discoverer (if you so desire).
+Out of scope
+WUR does not reward trivial vulnerabilities or bugs that cannot be abused. The following are examples of known and accepted vulnerabilities and risks that are outside the scope of the responsible disclosure policy:
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and Content Spoofing/Text Injection on these pages.
+- Fingerprint version banner disclosure on common/public services.
+- Disclosure of known public files or directories or non-sensitive information, (e.g. robots.txt).
+- Clickjacking and issues only exploitable through clickjacking.
+- Lack of Secure/HTTPOnly flags on non-sensitive Cookies.
+- OPTIONS HTTP method enabled.
+- Anything related to HTTP security headers, e.g.: Strict-Transport-Security / X-Frame-Options / X-XSS-Protection / X-Content-Type-Options / Content-Security-Policy.
+- SSL Configuration Issues: SSL forward secrecy not enabled / Weak or insecure cipher suites.
+- SPF, DKIM, DMARC issues.
+- host header injection.
+- Reporting older versions of any software without proof of concept or working exploit.
+- Information leakage in metadata.
+The network policy contains the rules that apply when using WUR IT equipment or the WUR network. This document details system and network security issues, protecting privacy-sensitive information and preventing unauthorised use or behaviour.
+General (not WUR staff or student)
+You may report security issues through email: cert@wur.nl. WUR-CERT is available on Mondays through Fridays during office hours (8.30-17.00 hrs) except on (national) holidays. Outside of office hours, the email box is checked irregularly.
+When reporting an incident, please provide as much information as you can, such as the date, time, and place of the incident. If you have information on frequency, IP numbers, URLs, error messages or logs, please add these as well. If you wish to encrypt your message, please use the PGP-key that you can download on pgp.surfnet.nl or any other open access PGP-key server. The fingerprint is: 860E CC37 CA68 FBA8 E01D 0A62 B2CD A3AB 88BE 4927.
+WUR staff and students
+Students and staff may report security issues to the IT service desk: servicedesk.it@wur.nl. Urgent or confidential issues may be reported by phone through 0317 – 488 888.

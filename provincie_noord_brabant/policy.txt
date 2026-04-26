@@ -1,0 +1,35 @@
+Bij de provincie Noord-Brabant vinden wij de veiligheid van onze systemen erg belangrijk.
+Ondanks onze zorg voor de beveiliging kan het voorkomen dat er toch een zwakke plek is. Als je een zwakke plek in één van onze systemen heeft gevonden horen wij dit graag zodat we zo snel mogelijk maatregelen kunnen treffen.
+Hoe kan ik een zwakke plek in een ICT-systeem van de Provincie Noord-Brabant melden?
+Een zwakke plek in een ICT-systeem van de provincie Noord-Brabant kun je melden via het contactformulier van de provincie Noord-Brabant, of via een e-mailbericht aan: [email protected]. De provincie Noord-Brabant doet een dringend beroep op de melder om de ICT kwetsbaarheid eerst aan de provincie Noord-Brabant te melden. Na onderzoek zal de provincie Noord-Brabant de noodzakelijke maatregelen te treffen. Na de melding besluit de provincie Noord-Brabant of de gemelde kwetsbaarheid openbaar wordt gemaakt.
+Waar moet je aan denken bij Responsible Disclosure?
+Bij het formuleren van een melding over een kwetsbaarheid in een ICT-systeem van de provincie Noord-Brabant, denk aan de volgende zaken:
+Geef voldoende informatie zodat de provinciale organisatie in staat is om het probleem te reproduceren. Zo kan de provincie Noord-Brabant het probleem detecteren en zo snel mogelijk oplossen. Meestal is het IP-adres of de URL van het getroffen ICT systeem en een omschrijving van de kwetsbaarheid voldoende. Bij ingewikkeldere kwetsbaarheden kan het nodig zijn om meer informatie mede te delen;
+Laat contactgegevens (e-mailadres en/of telefoonnummer) achter zodat de provincie Noord-Brabant in staat is om contact op te nemen;
+Meldt zo snel mogelijk na ontdekking van de kwetsbaarheid;
+Deel de informatie over de ICT kwetsbaarheid niet met anderen totdat het is opgelost;
+Ga verantwoordelijk om met de kennis over de gemelde kwetsbaarheid. Verricht geen handelingen die verder gaan dan wat nodig is om de kwetsbaarheid aan te tonen;
+Voldoe je bij je melding aan deze voorwaarden? Dan verbindt de provincie Noord-Brabant geen juridische consequenties aan de melding;
+Als blijkt dat je bovenstaande voorwaarden toch hebt geschonden, dan kan de provincie Noord-Brabant alsnog besluiten om gerechtelijke stappen tegen je te ondernemen.
+Maak geen misbruik van een zwakke plek in een ICT-systeem
+Als een ICT kwetsbaarheid is ontdekt, maak er dan geen misbruik van. Bijvoorbeeld door:
+Malware te plaatsen;
+Gegevens in een ICT systeem te kopiëren, wijzigen of verwijderen;
+Zelf veranderingen aan te brengen in het betreffende ICT systeem;
+Herhaaldelijk toegang te verkrijgen tot het ICT systeem of de toegang te delen met anderen;
+Gebruik te maken van het zogeheten ‘brute force’ om toegang tot systemen te verkrijgen;
+Andere personen te informeren over de ICT kwetsbaarheid;
+Gebruik te maken van denial-of-service of social engineering.
+Wat doet de provincie Noord-Brabant met jouw melding?
+Heb je een melding geplaatst in de daarvoor bestemde ticketsysteem van een zwakke plek in een ICT-systeem? De provincie Noord-Brabant behandelt deze melding als volgt:
+Je krijgt binnen 2 werkdagen een ontvangstbevestiging van de provincie Noord-Brabant;
+De provincie reageert binnen 5 werkdagen op jouw melding. Deze reactie bevat een beoordeling van de melding en een verwachte datum voor een oplossing;
+De provincie Noord-Brabant houdt je als melder op de hoogte van de voortgang van het oplossen van het probleem;
+De provincie Noord-Brabant lost het beveiligingsprobleem zo snel mogelijk op, uiterlijk binnen 90 dagen. De provincie Noord-Brabant zal samen met jou bepalen of en hoe over het gemelde probleem wordt bericht. Berichtgeving vindt pas plaats nadat het probleem is opgelost.
+De provincie Noord-Brabant kan, als je dat wilt, jouw naam vermelden als de ontdekker van de gemelde kwetsbaarheid;
+De provincie Noord-Brabant behandelt jouw melding vertrouwelijk en deelt persoonlijke gegevens niet zonder jouw toestemming met derden, behalve als dit wettelijk of door een rechterlijke uitspraak verplicht is.
+Kwetsbaarheid in een ICT-systeem buiten de provincie Noord-Brabant
+Ontdek je een kwetsbaarheid in een ICT-Systeem wat niet onder de verantwoordelijkheid van de provincie Noord-Brabant valt? Benader dan eerst de betreffende instantie.
+Reageert de betreffende organisatie niet of niet goed? Dan kun je het Nationaal Cyber Security Centrum (NCSC) op de hoogte brengen. Zij zullen dan de rol van intermediair op zich nemen.
+Heb je een vraag?
+Stel je vraag via het formulier of bel naar het algemene nummer van de provincie.

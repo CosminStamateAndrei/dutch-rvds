@@ -1,0 +1,64 @@
+At the Province of North Brabant, we consider the security of our systems to be of great importance.
+
+Despite our efforts to ensure security, it is possible that a vulnerability may still exist. If you have found a vulnerability in one of our systems, we would like to hear about it so that we can take measures as soon as possible.
+
+How can I report a vulnerability in an ICT system of the Province of North Brabant?
+
+You can report a vulnerability in an ICT system of the Province of North Brabant via the Province of North Brabant's contact form, or via an email message to: [email protected]. The Province of North Brabant strongly urges the reporter to first report the ICT vulnerability to the Province of North Brabant. After investigation, the Province of North Brabant will take the necessary measures. Following the report, the Province of North Brabant will decide whether the reported vulnerability will be made public.
+
+What should you keep in mind regarding Responsible Disclosure?
+
+When formulating a report regarding a vulnerability in an ICT system of the Province of North Brabant, consider the following:
+
+Provide sufficient information so that the provincial organization is able to reproduce the problem. This allows the Province of North Brabant to detect the problem and resolve it as quickly as possible. Usually, the IP address or URL of the affected ICT system and a description of the vulnerability are sufficient. For more complex vulnerabilities, it may be necessary to provide more information;
+
+Leave contact details (email address and/or telephone number) so that the Province of North Brabant is able to get in touch;
+
+Report as soon as possible after discovery of the vulnerability;
+
+Do not share information about the ICT vulnerability with others until it has been resolved;
+
+Handle knowledge about the reported vulnerability responsibly. Do not perform actions that go beyond what is necessary to demonstrate the vulnerability;
+
+If you comply with these conditions in your report, the Province of North Brabant will not attach any legal consequences to the report;
+
+If it turns out that you have violated the above conditions, the Province of North Brabant may still decide to take legal action against you.
+
+Do not misuse a weak spot in an ICT system
+If an ICT vulnerability has been discovered, do not misuse it. For example, by:
+
+Installing malware; To copy, modify, or delete data in an ICT system;
+
+To make changes to the relevant ICT system yourself;
+
+To repeatedly gain access to the ICT system or share access with others;
+
+To use so-called ‘brute force’ to gain access to systems;
+
+To inform other persons about the ICT vulnerability;
+
+To use denial-of-service or social engineering.
+
+What does the Province of North Brabant do with your report?
+
+Have you submitted a report regarding a weakness in an ICT system via the designated ticketing system? The Province of North Brabant handles this report as follows:
+
+You will receive an acknowledgment of receipt from the Province of North Brabant within 2 working days;
+
+The province will respond to your report within 5 working days. This response includes an assessment of the report and an expected date for a solution;
+
+The Province of North Brabant will keep you, as the reporter, informed of the progress in resolving the problem;
+
+The Province of North Brabant will resolve the security issue as soon as possible, within 90 days at the latest. The Province of North Brabant will determine together with you whether and how the reported problem will be publicized. Publication will only take place after the problem has been resolved.
+
+If you wish, the Province of North Brabant can mention your name as the discoverer of the reported vulnerability;
+The Province of North Brabant will treat your report confidentially and will not share personal data with third parties without your permission, except when required by law or by a court ruling.
+
+Vulnerability in an ICT system outside the Province of North Brabant
+Did you discover a vulnerability in an ICT system that does not fall under the responsibility of the Province of North Brabant? Then please contact the relevant authority first.
+
+If the organization in question does not respond or does not respond properly, you can notify the National Cyber ​​Security Centre (NCSC). They will then assume the role of intermediary.
+
+Do you have a question?
+
+Ask your question via the form or call the province's general number.

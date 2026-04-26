@@ -1,0 +1,69 @@
+Province of Limburg Responsible Disclosure Policy
+
+The Province of Limburg considers the security of its systems and information provision very important. Despite our efforts to ensure security, it is possible that a weak point may still exist. If you have found a weak point in one of our systems, we would like to hear about it so that we can take measures as soon as possible. We would like to collaborate with you to better protect our systems.
+
+We ask you:
+
+• To email your findings to cert@prvlimburg.nl
+
+• To provide sufficient information to reproduce the problem so that we can resolve it as soon as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient, but more may be required for more complex vulnerabilities.
+
+• To leave contact details so that we can get in touch with you to work together on a secure outcome. We ask you to leave at least your email address and/or telephone number. • To report the vulnerability as soon as possible after discovery.
+
+• Not to share information about the security issue with others until it has been resolved.
+
+• To handle knowledge about the security issue responsibly by not performing actions that go beyond what is necessary to demonstrate the security issue.
+
+Therefore, in any case, avoid the following actions:
+
+• Installing malware.
+
+• Copying, modifying, or deleting data in a system (an alternative to this is creating a directory listing of a system).
+
+• Making changes to the system.
+
+• Repeatedly gaining access to the system or sharing access with others.
+
+• Using so-called “brute-forcing” to gain access to systems.
+
+• Using denial-of-service or social engineering. What you can expect:
+
+• If you meet all the above conditions when reporting a vulnerability you have discovered in an ICT
+
+system of the Province of Limburg,
+
+we will not attach any legal consequences to this report.
+
+• We treat a report confidentially and do not share personal data
+
+with third parties without the permission of the reporter, unless this is required by law or by
+
+court ruling.
+
+• By mutual agreement, if you wish, we can mention your name as the
+
+discoverer of the reported vulnerability.
+
+• We will send you an acknowledgment of receipt within 1 working day.
+
+• We will respond to a report within 5 working days with an assessment of the
+
+report and an expected date for a solution.
+
+• We will keep you informed of the progress in resolving the problem.
+
+• We will resolve the security problem you have discovered in a system as
+
+as soon as possible. By mutual agreement, it can be determined whether and in what manner information about the problem will be published after it has been resolved. What we do with vulnerabilities we find at others:
+
+• The Province of Limburg only investigates leaks in systems managed by third parties (our cooperation partners or suppliers) after explicit permission to do so.
+
+• We reserve the right to conduct investigations into vulnerabilities on systems and software supplied to the Province by third parties without prior notice if these are hosted and managed by us ourselves.
+
+• We do not publicize security vulnerabilities in third-party software or systems ourselves.
+
+• We will report weaknesses identified by us as soon as possible to the party responsible for the hosting and/or management of the systems and software.
+
+• In the event of vulnerabilities in systems and software hosted and managed by the Province itself, we will notify the supplier.
+
+• Leaks or vulnerabilities discovered by us are simultaneously reported to the National Cyber ​​Security Center of the Dutch government.

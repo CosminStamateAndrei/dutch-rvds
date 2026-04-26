@@ -1,0 +1,25 @@
+Coordinated Vulnerability Disclosure
+De Connectie is a partnership between the municipalities of Arnhem, Renkum and Rheden. Together, these three municipalities are the owners of De Connectie. De Connectie believes it is essential that its IT systems are secure and strives for the highest possible security. Nevertheless, it can always happen that there is a weakness in one of these systems.
+Vulnerabilities in IT systems of De Connectie
+If you have found a weak spot in one of De Connectie’s IT systems, we would like to hear from you. In this way we are able to take measures as quickly as possible to remedy the vulnerability found. In order to be able to deal with the vulnerabilities found in our IT systems in a responsible manner, there are agreements that you can keep to us.
+De Connectie asks you:
+- E-mail your findings to cert@connectie.nl and / or upload via Zivver to prevent the information from falling into the wrong hands.
+- Provide sufficient information to reproduce the problem so that De Connectie can solve the problem as quickly as possible. Usually the IP address or URL of the affected system and a description of the vulnerability is sufficient, but more complex vulnerabilities may of course require more information.
+- Leave contact details so that De Connectie can contact you to work together to achieve a safe result. Leave at least one e-mail address or telephone number.
+- Make the report as soon as possible after discovery of the vulnerability.
+- Do not share the information about the security issue with others until it is resolved.
+- Act responsibly in dealing with the knowledge of the security issue by not performing any actions that go beyond what is necessary to demonstrate the security issue.
+Therefore, at least avoid the following actions:
+- Placing malware.
+- Copying, changing or deleting data in a system (an alternative is to make a directory listing of a system).
+- Making changes to the system.
+- Repeated access to the system or sharing access with others.
+- Using the so-called “brute force” of access to systems.
+- Making use of denial-of-service attacks (DDoS) or social engineering.
+What you can expect from us:
+- If you meet the above conditions when reporting, De Connectie will not take legal measures.
+- De Connectie treats a report confidentially, and does not share personal information with third parties without the consent of the reporter, unless this is required by law or pursuant to a court decision.
+- De Connectie solves the security problem that you have discovered in a system as quickly as possible.
+Vulnerabilities in third-party IT systems
+If you have found a weakness in a government system or in a system with a vital function, you can contact the National Cyber Security Center (NCSC). For systems from other owners / managers and / or suppliers you must first approach those organizations yourself. If the organization does not respond or does not respond well, you can inform the NCSC. The NCSC will take on a role as an intermediary in order to achieve a joint result.
+For more information, please visit: https://www.ncsc.nl/actueel/leidraad-coordinated-vulnerability-disclosure.html

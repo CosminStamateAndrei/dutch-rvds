@@ -1,0 +1,38 @@
+We are aware of the possibility of a vulnerability in the security of our systems, despite our best intentions and vigilance. If you discover a weakness in any of our systems, please let us know. This will enable us to rectify the problem. There are two ways to discover a vulnerability: you can stumble on a weakness accidentally while using the digital environment in a routine way, or you make a targeted effort to find a one.
+Our responsible disclosure policy is not an invitation to actively scan our corporate network for vulnerabilities. We monitor our network ourselves. Consequently, it is likely that we would spot such a scan, have it investigated by our Security Operation Centre (SOC), which may result in unnecessary costs.
+We would like to work with you to better protect researchers and our systems.
+What do we ask of you?
+- If you are investigating a vulnerability in one of our systems, keep in mind the proportionality of the attack. This proportionality also applies to demonstrating the vulnerability itself. Do not examine or change more data than is strictly necessary to demonstrate the vulnerability.
+- Do not abuse the vulnerability by downloading, changing or deleting data, for example. We will always take your report seriously and will investigate any suspected vulnerability, even without 'proof'’.
+- Do not share the problem with others until it is resolved.
+- Do not use physical security attacks, social engineering or hacking tools, such as vulnerability scanners.
+- Please provide us with sufficient information to reproduce the problem so we can fix it as quickly as possible. Usually the IP address or URL of the affected system and a description of the vulnerability will suffice, but more may be required with more complex vulnerabilities.
+- Delete any confidential data obtained during your investigation right after we have fixed the vulnerability.
+What we promise
+- We will respond in substance to your report within ten business days and provide an estimate of how long it will take to resolve the problem. Of course, we will continue to provide you with regular updates on our progress in resolving the issue.
+- We will fix the vulnerability as quickly as possible. Again, proportionality is important: the time frame for resolving a vulnerability depends on several factors, including the severity and complexity of the vulnerability.
+- We will treat your report confidentially and will not share your personal data with third parties without your consent. An exception to this is if a report needs to be filed to the police or judicial authorities or if they request data.
+- Unfortunately, it is not possible to rule out legal action against you in advance. We want to be able to assess each situation individually. NWO will take legal action if we suspect that the vulnerability or data are being misused, or that you have shared knowledge of the vulnerability with others. We can guarantee that an accidental discovery in our online environment will not result in a report.
+- We believe it is important to give you the credit you deserve – and want. We will only mention your name when we publish the vulnerability with your consent.
+- To thank you for your help, we offer a listing on our 'Wall of Fame' for every report of a security issue that is not yet known to us. This is determined based on the severity of the leak and the quality of the report.
+- If you find a vulnerability in the software that we use, but which was made by a third party, and that vulnerability is covered by a bug bounty programme, you will be referred to this party and any reward will obviously be yours.
+- If you find a vulnerability in the software that we use, but which was made by a third party, and that vulnerability is covered by a bug bounty program, then you will be referred to this party and any reward will obviously be yours.
+Scope
+The following vulnerabilities are outside the scope of this responsible disclosure policy:
+- HTTP 404 codes/pages or other HTTP non-200 codes/pages and Content Spoofing/Text Injection on these pages.
+- Fingerprint version banner disclosure on common/public services.
+- Disclosure of known public files or directories or non-sensitive information, (e.g. robots.txt).
+- Clickjacking and issues only exploitable through clickjacking.
+- Lack of Secure/HTTPOnly flags on non-sensitive Cookies.
+- HTTP methods that are enabled.
+- Anything related to HTTP security headers, e.g.: o Strict-Transport-Security. o X-Frame-Options. o X-XSS-Protection. o X-Content-Type-Options. o Content-Security-Policy.
+- SSL/TLS Configuration and/or Certificate Issues, e.g.: SSL forward secrecy not enabled, weak / insecure cipher suites, host header injection.
+- Issues regarding SPF, DKIM, DMARC and MTA-STS.
+- Reporting older versions of any software without proof of concept or working exploit.
+- information leakage on publicly published domains of NWO or in metadata of publicly published documents of NWO.
+- Vulnerabilities applicable to DoS (Denial of Service) or DDoS (Distributed Denial of Service).
+- Physical vulnerabilities or attacks using Social Engineering.
+- Vulnerabilities applicable to 3rd party software and/or (chain)suppliers.
+We aim to resolve all issues as quickly as possible, keep all parties informed, and we are keen to be involved in any publication about the issue once is has been resolved.
+Report vulnerabilities
+Please report a vulnerability in one of our systems as soon as possible by sending an email to security@nwo.nl. Include sufficient information to allow us to reproduce and investigate the problem.

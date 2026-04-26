@@ -1,0 +1,46 @@
+Coordinated Vulnerability Disclosure (CVD)
+The Municipality of Apeldoorn considers the security of its systems to be of great importance. As part of our commitment to cybersecurity and protecting our systems, we recognize the importance of detecting and reporting vulnerabilities. The CVD is intended to provide a structured framework in which security experts can report vulnerabilities.
+
+We ask the following of you regarding a CVD report:
+- Reporting
+To report the vulnerability to us as soon as possible after discovery. The reporting method is outlined below. Findings can only be communicated to the organization in this way.
+
+To email your findings to cvd@apeldoorn.nl (to be used only for CVD reports). You can also send the finding securely and encrypted via the website https://crypt.apeldoorn.nl/.
+- Information
+Additionally, we ask you to provide sufficient information to reproduce the problem, so that we can resolve it quickly. The IP address or URL of the system in question and a description of the security issue are sufficient. Additional relevant information and tips are always welcome to potentially resolve the issue faster. However, please avoid advertising specific (security) tools.
+
+Information regarding the security issue should not be shared with others until the problem has been resolved. After the issue has been resolved, it is possible to publish the vulnerability in consultation. - Contact
+We ask you to leave your contact details so that we can work together to resolve the finding. Please leave at least one email address or phone number. This allows our Security Operations Center to get in touch with you.
+
+The following actions are not permitted:
+- Installing malware.
+- Brute-forcing access to systems.
+- Using social engineering, unless this proves strictly necessary to demonstrate that an employee is failing in their duty to handle sensitive information with care.
+This may only be done in a completely legal manner, i.e., not through blackmail or other malicious actions. Findings obtained through social engineering must be intended to identify a security issue in the procedures and working methods within the municipality, not to harm a municipal employee.
+
+- Publishing/disclose the security issue before it has been resolved.
+- Performing unnecessary actions that go beyond what is strictly necessary to identify and report the security issue. Downloading, modifying, and deleting data or configurations from a system is never permitted.
+
+An alternative to this is creating a directory listing or screenshot.
+
+- Using techniques, such as a DoS attack, that limit the availability and/or usability of our systems or services.
+
+What else you can expect
+
+Legal aspect
+- If you comply with all the above conditions, we will not attach any legal consequences to this report. If it turns out that you have violated the above conditions, we may still decide to take legal action against you.
+
+Contact regarding the report
+- We will send you an (automatic) acknowledgment of receipt within 1 working day. - We will respond to your report within three working days with the (initial) assessment, including an expected resolution date.
+
+- We will keep you informed about the progress regarding the report. We will resolve the security issue you have identified as quickly as possible and aim to resolve the problem within 30 days. In doing so, we are often partly dependent on suppliers.
+
+Handling of you and the report
+- We treat the report confidentially and do not share your personal data without your consent, unless we are required to do so by law or court order.
+
+- We always share the received report with the Information Security Service for Municipalities (IBD). This ensures that municipalities can share their experiences in this area with one another.
+
+- The method for publishing the vulnerability can be determined in consultation. This will only happen once the problem has been resolved.
+
+Reward
+- We may offer you a reward as thanks for your help. Depending on the severity of the security issue and the quality of the report, this reward can range from a simple ‘thank you’ to an amount of up to €300. This must, however, involve a serious, as yet unknown security problem.

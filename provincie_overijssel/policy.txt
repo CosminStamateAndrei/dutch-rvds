@@ -1,0 +1,31 @@
+Despite all the care and commitment to secure the information systems, situations can arise in which there is a weak spot: a security hole. If you believe you have found a weak spot in any of the provincial systems, we ask you to report the information about the vulnerability to us. This allows the leak to be repaired as soon as possible and prevents others from abusing the vulnerability. In this way we work together on the information security of the province. To make this possible in a good and responsible manner, the province and you must adhere to the agreements below.
+
+Process and appointments report vulnerability
+Coordinated Vulnerability Disclosure (CVD)
+The province of Overijssel attaches great importance to the security of its systems. Despite all precautions, it remains possible that a weak spot can be found in the systems. If you discover a weak spot in one of our systems, we would like to hear from you so that we can take appropriate measures quickly. By making a notification, you as a reporter agree to the agreements below about Coordinated Vulnerability Disclosure (CVD).
+
+Report handling
+We ask the following from you
+Email your findings to informatiebeveiliging@overijssel.nlRefers to another website.
+Provide enough information to reproduce the problem so that we can solve it as quickly as possible. Usually the IP address, URL, screenshots, etc. of the affected system and a description of the vulnerability are sufficient, but more complex vulnerabilities may require more.
+We keep recommended for tips that help us solve the problem. Please limit yourself to verifiable facts that relate to the vulnerability you have identified and avoid that your advice in fact amounts to advertising for specific (security) products.
+Leave contact details so that we can contact you to work together on a safe result. Leave at least one email address or phone number.
+Submit the notification as soon as possible after discovery of the vulnerability.
+The following actions are not permitted
+Placing malware, neither on our systems nor on those of others.
+The so-called “bruteforce” of access to systems, except to the extent strictly necessary to demonstrate that security in this area is seriously inadequate, i.e. if it is extremely easy to use publicly available and affordable hardware and software to create a password that can seriously compromise the system.
+Using social engineering.
+Disclosing or providing third parties with information about the security issue before the issue is resolved.
+Carrying out actions that go beyond what is strictly necessary to demonstrate and report the security problem. In particular, when it comes to processing (including viewing or copying) confidential data that you have had access to due to the vulnerability. Instead of copying a complete database, you can normally suffice with, for example, a directory listing. Changing or deleting data in the system is never allowed.
+Using techniques that reduce the availability and/or usability of the system or services ((D) DoS attacks).
+Abusing vulnerability in any (other) way.
+What you can expect
+If you meet all the above conditions, we will not file a criminal complaint against you or file a civil case against you.
+If it turns out that you have violated the above condition, we may still decide to take legal action against you.
+We treat a report confidentially and do not share personal data of a reporter with third parties without his consent, unless we are obliged to do so by law or a court decision.
+We may share the notification received (always anonymously) with other provinces and the Information Security Service for Municipalities (IBD). In this way we ensure that provinces and municipalities (via the IBD) share their experiences in this area.
+By mutual agreement, if you wish, we may mention your name as the discoverer of the reported vulnerability. In all other cases you remain anonymous.
+We will send you an acknowledgment of receipt within 2 working days.
+We will respond to a report within 1 week with an (initial) assessment of the report and possibly an expected date for a solution.
+We will resolve the security issue you reported as soon as possible. We strive to keep you well informed of progress and never do more than 90 days to solve the problem. We are often partly dependent on suppliers.
+It can be determined by mutual agreement whether and how the problem will be published after it has been resolved.

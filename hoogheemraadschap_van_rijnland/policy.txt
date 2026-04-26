@@ -1,0 +1,29 @@
+Met de toenemende digitalisering van onze samenleving worden vrijwel alle processen ondersteund door technologie, van mobiele telefoons tot gespecialiseerde software. Dit biedt vele mogelijkheden, maar brengt ook risico’s met zich mee. Kwetsbaarheden in ICT-systemen kunnen ernstige gevolgen hebben, en het is daarom cruciaal om zorgvuldig om te gaan met kennis over deze zwakke punten.
+Wat te doen bij een gevonden kwetsbaarheid?
+Kwetsbaarheden variëren van kleine foutjes tot ernstige beveiligingsproblemen die bijvoorbeeld de controle over kritieke infrastructuren, zoals gemalen en sluizen, kunnen verstoren. Als u een kwetsbaarheid op onze site ontdekt, meld dit dan direct aan ons. We begrijpen dat u daarbij mogelijk handelingen hebt verricht die wettelijk verboden zijn, maar als u te goeder trouw en volgens onze richtlijnen handelt, zullen wij geen juridische stappen ondernemen.
+We vragen u om de kwetsbaarheid niet openbaar te maken of met anderen te delen en deze zo snel mogelijk via de knop onderaan deze pagina te melden. Zo kunnen we de risico’s direct aanpakken en verdere schade voorkomen.
+Wat verwachten we van u na uw melding?
+Na uw melding vragen we u om:
+- Geen misbruik te maken van de kwetsbaarheid: Verander, download of verwijder geen gegevens die hierdoor toegankelijk zijn.
+- Vertrouwelijkheid te waarborgen: Deel de kwetsbaarheid niet totdat deze is opgelost en verwijder alle verkregen informatie.
+- Ethisch te handelen: Gebruik geen aanvallen zoals fysieke inbraken, social engineering, DDoS, spam of externe applicaties.
+- Samen te werken: Voorzie ons van voldoende informatie om het probleem te reproduceren en op te lossen, zoals IP-adressen, protocollen, softwaredetails en een beschrijving van de werkwijze.
+Wat kunt u van ons verwachten?
+Bij een melding beloven wij:
+- Snelle reactie: Ons CERT-WM stuurt binnen drie werkdagen een ontvangstbevestiging en kan om aanvullende informatie vragen.
+- Beoordeling en oplossing: Binnen 30 dagen ontvangt u onze beoordeling en een verwachte datum voor de oplossing.
+- Vertrouwelijke behandeling: Uw melding en persoonlijke gegevens worden vertrouwelijk behandeld.
+- Voortgangsupdate: U wordt op de hoogte gehouden van de voortgang.
+- Erkenning: We vermelden uw naam als ontdekker in rapportages, indien u dat wenst.
+- Geen juridische stappen: We nemen geen juridische stappen als u zich aan de regels houdt.
+- Beloning: Bij ontdekking van een onbekend beveiligingsprobleem bieden we een passende beloning, afhankelijk van de ernst en kwaliteit van de melding.
+- Oplossing en samenwerking: We streven naar een snelle oplossing en werken graag met u samen aan een eventuele publicatie na afloop.
+Te melden kwetsbaarheden
+Voorbeelden van kwetsbaarheden die u kunt melden:
+- Remote Code Execution: Ongeautoriseerde uitvoering van code op onze systemen.
+- Cross Site Scripting (XSS): Scripts die in de browser van een gebruiker kunnen worden uitgevoerd.
+- Encryptieproblemen: Zwakke punten in de beveiliging van versleutelde gegevens.
+- Ongeautoriseerde toegang: Toegang tot gevoelige informatie door onbevoegden.
+Wat hoeft niet gemeld te worden?
+Afwijkingen zonder impact op de beschikbaarheid, integriteit of vertrouwelijkheid van informatie, zoals XSS op statische websites zonder gevoelige informatie, hoeven niet te worden gemeld.
+Door kwetsbaarheden op een verantwoorde manier aan te pakken, zorgen we samen voor een veiligere digitale omgeving.

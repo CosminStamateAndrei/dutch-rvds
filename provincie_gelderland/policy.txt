@@ -1,0 +1,17 @@
+Informatiebeveiliging
+De veiligheid van onze ICT-systemen vinden we belangrijk. Desondanks kan het voorkomen dat er toch een zwakke plek aanwezig is. Als u een zwakke plek in een of meerdere van onze systemen heeft gevonden, meld het ons voordat u het aan de buitenwereld laat weten. Dit heet Responsible Disclosure. Dan kunnen we zo snel mogelijk maatregelen treffen.
+Werkwijze melden zwakke plek
+Als u een zwakke plek in een ICT-systeem ontdekt, dan vragen wij u als volgt te werk te gaan:- mail uw bevindingen naar security@gelderland.nl
+- geef voldoende informatie zodat we het probleem zo snel mogelijk kunnen oplossen. Meestal is het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan er meer informatie nodig zijn
+- laat uw contactgegevens achter zodat we met u contact kunnen opnemen om samen te werken aan een veilig resultaat. Laat hiervoor minimaal een e-mailadres of telefoonnummer achter
+- doe de melding zo snel mogelijk na ontdekking van de kwetsbaarheid
+- deel de informatie over het beveiligingsprobleem niet met anderen totdat het is opgelost
+- ga verantwoordelijk om met de kennis over het beveiligingsprobleem door geen handelingen te verrichten die verder gaan dan noodzakelijk is om het beveiligingsprobleem aan te tonen.
+Maak geen misbruik van zwakke plek in ICT-systeem
+Als u een zwakke plek ontdekt, vermijd dan onderstaande handelingen:- plaatsen van malware
+- kopiëren, wijzigen of verwijderen van gegevens in een systeem (een alternatief hiervoor is het maken van een directory listing van een systeem)
+- aanbrengen van veranderingen in het systeem
+- herhaaldelijk toegang tot het systeem verkrijgen of de toegang delen met anderen
+- gebruikmaken van het zogeheten ‘bruteforcen’ van toegang tot systemen
+- gebruikmaken van denial-of-service of social engineering
+Heeft u nog vragen? Stuur dan een mail naar: security@gelderland.nl

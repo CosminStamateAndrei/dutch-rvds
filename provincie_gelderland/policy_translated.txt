@@ -1,0 +1,23 @@
+Information Security
+
+We consider the security of our ICT systems important. Nevertheless, it is possible that a vulnerability exists. If you have found a vulnerability in one or more of our systems, please report it to us before disclosing it to the outside world. This is called Responsible Disclosure. This allows us to take measures as quickly as possible.
+
+Procedure for reporting a vulnerability
+If you discover a vulnerability in an ICT system, we ask you to proceed as follows:
+- Email your findings to security@gelderland.nl
+- Provide sufficient information so that we can resolve the problem as quickly as possible. Usually, the IP address or URL of the affected system and a description of the vulnerability are sufficient, but more information may be required for more complex vulnerabilities
+- Leave your contact details so that we can contact you to work together towards a secure solution. Please leave at least an email address or phone number for this purpose
+- report the vulnerability as soon as possible after discovery
+- do not share information about the security issue with others until it has been resolved
+- handle knowledge about the security issue responsibly by not performing actions that go beyond what is necessary to demonstrate the security issue.
+
+Do not exploit a weakness in the ICT system
+
+If you discover a weakness, avoid the following actions:
+- installing malware
+- copying, modifying, or deleting data in a system (an alternative to this is creating a directory listing of a system)
+- making changes to the system
+- repeatedly gaining access to the system or sharing access with others
+- using so-called ‘brute-forcing’ to gain access to systems
+- using denial-of-service or social engineering
+Do you have any further questions? Please send an email to: security@gelderland.nl

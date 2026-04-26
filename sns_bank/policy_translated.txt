@@ -1,0 +1,58 @@
+Reporting Vulnerabilities
+
+Which vulnerabilities can I report?
+
+You can report issues related to our online services. For example:
+
+- Cross-site scripting
+- SQL injection
+- Cross-site Request Forgery (CSRF)
+
+How do I report a vulnerability?
+Anyone can report a vulnerability. Even if you are not a customer of ours.
+
+Do not report anonymously
+
+We have a private program for HackerOne. If you would like to participate, you can sign up by sending us your username via responsible-disclosure@asnbank.nl. If we resolve vulnerabilities or adjust our services thanks to your report, we will give you an appropriate reward. We decide whether you are eligible for a reward. You can read the rules and how we determine the reward amount on the HackerOne page. If others report the same vulnerability, the compensation goes to the first reporter.
+
+Reporting anonymously
+- You can also report a vulnerability anonymously (in Dutch or English) by emailing us at responsible-disclosure@asnbank.nl from any email address. Preferably use our public PGP key for this.
+- Include enough information in your email for us to reproduce and verify the vulnerability. For example, a specific URL, a step-by-step plan, or a "proof of concept". Please note that we cannot offer you a reward for an anonymous report if you are eligible.
+
+The ground rules
+We appreciate it if you are vigilant about vulnerabilities and report them to us, but we also believe it is important that all our customers can bank online undisturbed and securely. That is why we have a few ground rules.
+
+Do not cause damage or disrupt our services when investigating a vulnerability or security issue
+- You may only use hacking tools, such as vulnerability scanners or detection scanners (e.g., Acunetix, Appscan, Rapid7 AppSpider, Burp Suite Proactive Scanner, DirBuster, Nessus, Netsparker, Nikto, OpenVAS), if you have received prior permission and instructions from us.
+- Use a maximum of 1 concurrent connection or thread during testing. - Make no changes to our systems, or keep them to a minimum; only what is necessary to prove a vulnerability.
+
+- Data from the system must not be modified or deleted.
+- We do not offer test accounts.
+
+Do not disturb other users; keep their data safe.
+- Communicate only with your own accounts or with accounts for which you have obtained explicit permission from the account holder.
+- Act with integrity: prevent privacy violations and data destruction. Ensure that you do not interrupt or compromise our service.
+- Never pass on customer or company data to others.
+- Be cautious when copying data.
+- Do not perform any action that another user might notice (for example, do not post a test on a public forum, in the comments on a public page, send it to another user via DM, etc.). - If you have accidentally caused a publication, disruption, or any other damage, please contact us immediately via email: responsible-disclosure@asnbank.nl
+
+Social, physical, and brute-force testing are not in scope
+- All forms of Denial of Service (DoS), brute-forcing, and enumeration
+- Social engineering (e.g., phishing, vishing, smishing)
+- Do not launch attacks on our physical security
+
+Do not misuse
+- Minimize the use of a weakness. Only do what is necessary to identify the vulnerability.
+
+- Do not share the vulnerability with parties other than ASN Bank until it has been resolved.
+
+- Talk to our experts and give us time to resolve the issue.
+
+- Do not place a backdoor in an information system to prove the vulnerability.
+- We do not offer test accounts.
+
+What does ASN Bank do with your report?
+
+Our security experts will investigate your report. You will receive an initial response within 2 working days. Your privacy
+
+We do not share your data with others or use it for other purposes. Unless we are legally required to do so, for example in the event of a request from the authorities.

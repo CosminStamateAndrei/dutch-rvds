@@ -1,0 +1,62 @@
+How to Report to Us
+We kindly ask you to:
+- Fill out the form at https://www.alliander.com/en/contact-form-cvd/
+- Clearly describe in your report how the issue can be reproduced, contributing to a swift resolution. Typically, the IP address or URL of the affected system and a description of the vulnerability are sufficient. However, for more complex vulnerabilities, additional information may be required, and we will contact you accordingly.
+- Provide at least an email address or phone number for us to reach you with any questions. We prefer communication via email.
+- Utilize encrypted communication by using our public PGP key, which can be found at https://www.alliander.com/.well-known/security.txt.
+What Not to Do
+Always avoid the following actions:
+- Placing malware.
+- Copying, modifying, or deleting data in a system.
+- Making changes to the system.
+- Gaining repeated access to the system or sharing access with others.
+- Using brute force to gain access to a system.
+- Engaging in denial-of-service or social engineering.
+- Exploiting the issue to download more data than necessary for identifying the vulnerability or viewing, deleting, or modifying
+- Publicizing the issue. Please refrain from sharing the problem with others until it is resolved, and immediately delete any confidential data obtained through the vulnerability once the issue is resolved.
+- Exploiting physical security attacks, social engineering, DDoS attacks, spam, or third-party applications.
+What We Ask For
+Provide sufficient information to reproduce the problem so that we can address it as quickly as possible. Typically, the IP address or URL of the affected system and a description of the vulnerability are adequate, but more detailed information may be required for complex vulnerabilities.
+What We Promise:
+- We will respond within 5 business days with our assessment of the report and an expected solution date.
+- Following the procedure for reporting, there is no reason for us to pursue legal consequences for your report.
+- We treat your report confidential and will not share your personal information with third parties without your consent, unless required by law or a court order.
+- We keep you informed of the progress in resolving the issue.
+- If you adhere to the above conditions, we will not take legal action regarding the report.
+- If you qualify for a reward (The Alliander Security Hoodie), we will indicate this in our response.
+Reference Documents
+Vulnerability Qualification
+We define vulnerabilities in scope as follows: vulnerabilities in web applications such as XSS, XXE, CSRF, SQLi, Local or Remote File Inclusion, authentication issues, remote code execution, authorization problems, and privilege escalation. These qualified vulnerabilities must impact the security of the application and pose an increased risk to our customers.
+You should be the first researcher to responsibly report the vulnerability. Each submission will be assessed on a case-by-case basis.
+Out of Scope
+The following are issues not considered security vulnerabilities:
+- Reports of outdated software versions.
+- Missing best practices or output from automated scanning tools without evidence of exploitability.
+- Using components of known vulnerability without relevant attack POC.
+- Automated scans of utilities. Example: Web, SSL/TLS scans, Nmap scan results, etc.
+- Self-XSS and XSS affecting only outdated browsers.
+- Missing best practices or results from automated scanning tools without evidence of vulnerability to abuse.
+- UI and UX bugs and typos.
+- Issues related to TLS/SSL.
+- SPF, DMARC, DKIM configurations.
+- Vulnerabilities in products at the end of their lifecycle.
+- Lack of a secure flag on cookies.
+- Enumeration of usernames.
+- Vulnerabilities dependent on the presence of plugins like Flash.
+- Defects affecting users of outdated browsers and plugins.
+- Missing security headers such as “content-type-options,” “X-XSS-Protection.”
+- Lack of CAPTCHAs as a security mechanism.
+- Problems related to maliciously installed applications on the device.
+- Vulnerabilities requiring a jailbroken device.
+- Vulnerabilities requiring physical access to a mobile device.
+- Use of a library known to have a security risk without evidence of usability.
+- Tap-jacking and UI redressing attacks misleading users to tap on a UI element.
+- Click/Tap-jacking and UI redressing attacks misleading users to touch a UI element.
+- Host header and banner grabbing problems.
+- Denial of Service attacks and Distributed Denial of Service attacks.
+- Speed-limiting, brute force attacks.
+- Login/logout/low-business impact CSRF.
+- Unrestricted file uploads.
+- Session restriction and session timeout.
+- Formula/CSV injection.
+At Alliander, we prioritize the security of our systems. Despite our efforts to secure our systems, vulnerabilities may still exist. If you discover a vulnerability in any of our systems, we appreciate you informing us so that we can take prompt measures. We are eager to collaborate with you in enhancing the security of our data and systems. Reporting such vulnerabilities is referred to as Coordinated Vulnerability Disclosure (CVD).

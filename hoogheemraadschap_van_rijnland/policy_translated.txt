@@ -1,0 +1,50 @@
+With the increasing digitalization of our society, virtually all processes are supported by technology, from mobile phones to specialized software. This offers many opportunities but also entails risks. Vulnerabilities in ICT systems can have serious consequences, and it is therefore crucial to handle knowledge about these weak points with care.
+
+What to do if a vulnerability is found?
+
+Vulnerabilities range from minor errors to serious security problems that can, for example, disrupt control over critical infrastructure, such as pumping stations and locks. If you discover a vulnerability on our site, please report it to us immediately. We understand that you may have performed actions that are prohibited by law, but if you act in good faith and according to our guidelines, we will not take legal action.
+
+We ask you not to make the vulnerability public or share it with others, and to report it as soon as possible via the button at the bottom of this page. This allows us to address the risks immediately and prevent further damage.
+
+What do we expect from you after your report?
+
+Following your report, we ask you to:
+
+- Do not exploit the vulnerability: Do not change, download, or delete any data accessible through this vulnerability.
+
+- Ensure confidentiality: Do not share the vulnerability until it has been resolved and delete all obtained information.
+
+- Act ethically: Do not use attacks such as physical intrusions, social engineering, DDoS, spam, or external applications.
+
+- Cooperate: Provide us with sufficient information to reproduce and resolve the problem, such as IP addresses, protocols, software details, and a description of the method used.
+
+What can you expect from us?
+
+Upon receiving a report, we promise:
+
+- Prompt response: Our CERT-WM will send an acknowledgment of receipt within three working days and may request additional information.
+
+- Assessment and solution: Within 30 days, you will receive our assessment and an expected date for the solution.
+
+- Confidential treatment: Your report and personal data will be treated confidentially.
+
+- Progress update: You will be kept informed of the progress.
+
+- Acknowledgment: We will mention your name as the discoverer in reports, if you wish. - No legal action: We will not take legal action if you comply with the rules.
+
+- Reward: Upon the discovery of an unknown security issue, we offer an appropriate reward, depending on the severity and quality of the report.
+
+- Solution and cooperation: We strive for a quick solution and are happy to work with you on a potential publication afterwards.
+
+Vulnerabilities to report
+Examples of vulnerabilities you can report:
+
+- Remote Code Execution: Unauthorized execution of code on our systems.
+- Cross-Site Scripting (XSS): Scripts that can be executed in a user's browser.
+- Encryption issues: Weaknesses in the security of encrypted data.
+- Unauthorized access: Access to sensitive information by unauthorized persons.
+
+What does not need to be reported?
+Anomalies without impact on the availability, integrity, or confidentiality of information, such as XSS on static websites without sensitive information, do not need to be reported.
+
+By addressing vulnerabilities in a responsible manner, we ensure a safer digital environment together.

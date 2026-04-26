@@ -1,0 +1,17 @@
+Om elke dag weer de bezorging van duizenden pakketjes en brieven in goede banen te leiden, besteden we veel aandacht aan de veiligheid van onze IT-systemen. Toch kan het voorkomen dat zich ergens een lek bevindt. Vind jij een zwakke plek in onze systemen? Dan vragen we je vriendelijk om dit bij ons te melden. Natuurlijk houd je je daarbij aan de regels voor ‘responsible disclosure’. Hieronder zetten we ze op een rij:
+Heb jij een kwetsbaarheid gevonden?
+- Je maakt geen misbruik van de zwakke plek. Bijvoorbeeld door persoonlijke of vertrouwelijke gegevens te bekijken, wijzigen of verwijderen. Of door méér gegevens te downloaden dan nodig.
+- Je deelt je bevinding niet met anderen vóórdat wij de zwakke plek hebben verholpen.
+Heb je persoonlijke of vertrouwelijke gegevens verkregen? Dan wis of vernietig je die zo snel mogelijk (nadat wij contact met je hebben opgenomen natuurlijk). 
+- Je gebruikt je bevinding niet voor een cyberaanval .
+- Je hebt geen gebruikgemaakt van social engineering, distributed denial of service (DDoS) of spam.
+- Als je deze regels volgt, hoef je niet bang te zijn dat je melding leidt tot juridische stappen. Ook niet als je iets onwettigs of strafbaars deed.
+Goed om te weten: we werken samen met Zerocopter om je melding te beoordelen. Als je een melding doet, verlaat je onze website.
+En voor wat hoort wat, daarom beloven wij dat:
+- Wij zo snel mogelijk reageren op je melding met onze beoordeling en een verwachte datum voor een oplossing.
+- Wij je melding vertrouwelijk behandelen en je persoonlijke gegevens niet zonder jouw toestemming met derden delen tenzij dat noodzakelijk is om de melding op te lossen, of een wettelijke verplichting na te komen. Je kunt je melding bij ons ook anoniem doen.
+- Wij je op de hoogte houden van de voortgang van het oplossen van het probleem als je dat aan ons hebt gevraagd.
+- Wij je, bij medium risk- en high risk-bevindingen, belonen met een pakketje met goodies wanneer jij de eerste bent die de kwetsbaarheid meldt en we een aanpassing hebben gedaan door jouw melding.
+- Wij jouw naam, bij medim risk- en high risk-bevindingen, op onze Hall of Fame zullen vermelden. Uiteraard alleen met jouw toestemming (wanneer je de eerste bent die deze kwetsbaarheid meldt en we een aanpassing hebben gedaan n.a.v. jouw melding)
+- Als het vinden van de kwetsbaarheid in onze systemen een gevolg is van een mogelijk strafbaar feit of onrechtmatig handelen, wij geen juridische maatregelen tegen je zullen treffen als je je aan onze voorwaarden met betrekking tot onze 'Responsible Disclosure' hebt gehouden.
+Wij streven ernaar om alle meldingen zo snel mogelijk op te lossen. Is het zo dat je na de oplossing van het probleem bekendheid zoekt of hierover wilt publiceren, dan verzoeken wij je de publicatie met ons af te stemmen en ons voorafgaand te informeren.

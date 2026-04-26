@@ -1,0 +1,129 @@
+Nederlands:
+Deze pagina beschrijft de Coordinated Vulnerability Disclosure (CVD) procedure. Hier vindt u de voorwaarden waaraan een melding moet voldoen en de stappen die u moet doorlopen om een CVD-melding correct in te dienen. De procedure helpt bij het veilig en verantwoord rapporteren van kwetsbaarheden.
+De pagina is opgedeeld in een Nederlands en een Engels gedeelte, zodat u de informatie in uw voorkeurstaal kunt raadplegen. Volg de instructies in de juiste sectie om uw melding in te dienen.
+English:
+This page outlines the Coordinated Vulnerability Disclosure (CVD) procedure. Here, you will find the requirements for submitting a report and the steps to follow to ensure your CVD report is processed correctly. The procedure ensures vulnerabilities are reported safely and responsibly.
+The page is divided into a Dutch and an English section, allowing you to access the information in your preferred language. Please follow the instructions in the appropriate section to submit your report.
+- Dutch / Nederlands –
+NL meldingsformulier:
+Link naar de Coordinated Vulnerability Disclosure Hall of Fame:
+https://www.cert-wm.nl/responsible-disclosure-hall-of-fame
+Constituent = Organisatie welke haar Coordinated Vulnerability Disclosure procedure laat verlopen via het CERT-WM en dus vanuit haar website doorlinkt naar deze procedure.
+Constituent streeft ernaar om ook binnen het digitale domein een veilige en stabiele infrastructuur te bieden. Daarom is het essentieel dat ook de ICT-systemen van Constituent veilig zijn. Het kan onverhoopt voorkomen dat een van onze systemen een kwetsbaarheid bevat. Mocht u een kwetsbaarheid in onze systemen ontdekt hebben dan horen wij dat graag zodat we zo snel mogelijk maatregelen kunnen treffen om onze systemen weer veilig te maken. Zo werken we samen aan het verbeteren van de veiligheid van onze gegevens en systemen.
+Melden van een kwetsbaarheid
+Het melden van een (mogelijke) kwetsbaarheid geschiedt via een “Coordinated Vulnerability Disclosure” procedure. Deze Coordinated Vulnerability Disclosure procedure (hierna afgekort als “CVD procedure” of “CVD melding”) wordt op deze pagina nader toegelicht. De procedure kent 4 facetten:
+- Voorwaarden / dit vragen we van u.
+- Uitzonderingen / wat hoeft niet gemeld te worden.
+- Coordinated Vulnerability Disclosure (CVD) Procedure / Meldprocedure.
+- Voorwaarden van het beloningsprogramma.
+Voorwaarden / dit vragen we van u
+Wij vragen met klem om verantwoordelijk om te gaan met de gevonden kwetsbaarheid en om deze op geen enkele wijze te misbruiken. Dit betekent (maar is niet beperkt tot):
+- Downloaden, kopiëren, modificeren of verwijderen van data.
+- Besturen van systemen / (D)DOS aanvallen uitvoeren.
+- Toepassen van Social Engineering.
+- Geen backdoors of malware te plaatsen.
+- Versturen van SPAM berichten naar of namens Constituent.
+- Eventueel verkregen data niet te misbruiken en meteen te verwijderen.
+- Geen social engineering te gebruiken om toegang te krijgen tot onze systemen.
+- Geen “Brute-Force” technieken te gebruiken.
+Misschien doet u bij uw onderzoek iets wat volgens de wet niet mag. Als u daarbij te goeder trouw, zorgvuldig en volgens onderstaande spelregels handelt, doen wij geen aangifte.
+Wij vragen u ook om de kwetsbaarheid niet openbaar te maken of te delen met derden en om de kwetsbaarheid zo snel mogelijk nadat deze geconstateerd is aan ons door te geven volgens de hieronder beschreven procedure.
+Uitzonderingen / wat hoeft niet gemeld te worden:
+Constituent kan, indien het gaat om een kwetsbaarheid met een laag of geaccepteerd risico, besluiten een melding niet te belonen. Hieronder een lijst met een aantal voorbeelden van dit soort kwetsbaarheden:
+- HTTP 404-codes of andere niet HTTP 200-codes.
+- Toevoegen van platte tekst in 404-pagina’s.
+- Versiebanners op publieke services.
+- Publiek toegankelijke bestanden en mappen met niet-gevoelige informatie.
+- Clickjacking op pagina’s zonder inlogfunctie.
+- Certificaten met zwakke / outdated ciphers.
+- Cross-site request forgery (CSRF) op formulieren die anoniem toegankelijk zijn.
+- Gebruik van de HTTP OPTIONS Method.
+- Ontbreken van SPF, DKIM en DMARC records.
+- Ontbreken van één of meerdere HTTP Security Headers.
+- Aanwezigheid van 'auto-aanvullen' of 'wachtwoord opslaan' functie ondersteuning.
+Bruteforce op 'wachtwoord vergeten'-formulier en 'account lockout' niet af gedwongen. - Ontbreken van een bevestigingsvraag, zoals opnieuw wachtwoord invoeren of het vragen van een extra e-mailbevestiging.
+- Het ontbreken van HTTP Public Key Pinning (HPKP).
+- Content spoofing en tekstinjectie op pagina's met een fout melding.
+- Het rapporteren van oude software versies zonder een proof-of-concept of werkende exploit.
+- Verlopen of inactive domeinnamen.
+- Same Site Scripting of gebruik via een localhost DNS-regel.
+Coordinated Vulnerability Disclosure (CVD) Procedure / Meldprocedure
+- U kunt de gevonden kwetsbaarheid versturen naar het CERT-WM. U kunt deze melden via het beveiligde “Coordinated Vulnerability Disclosure Formulier”. De link naar dit formulier vindt u hieronder. Let op, verstuur voor elke gevonden kwetsbaarheid een separate CVD melding. Combineer dus niet meerdere kwetsbaarheden in één RD melding.
+- Vul alle verplichte velden in en vermeld voldoende gegevens zodat wij de kwetsbaarheid kunnen verifiëren en het probleem kunnen reproduceren. Denk hierbij b.v. aan een stap-voor-stap beschrijving aangevuld door o.a. URL’s, screenshots en IP adressen.
+- Vermeld voldoende gegevens zodat we contact op kunnen nemen met u. Vermeld minimaal uw e-mailadres en bij voorkeur uw telefoonnummer en reageer s.v.p. op eventuele verzoeken vanuit het CERT-WM wanneer aanvullende informatie vereist is.
+Wij gebruiken uw contactgegevens alleen om met u over de melding te communiceren. Wij delen deze niet met anderen. Behalve als dit wettelijk vereist is. Bijvoorbeeld wanneer justitie ons om deze gegevens vraagt. Of als wij uw actie zien als een strafbaar feit (u dus niet te goeder trouw handelt) en wij aangifte doen bij de politie.
+Als u de melding anoniem gedaan heeft dan kunnen wij u niet op de hoogte houden. Ook kunnen wij u dan niet voorzien van een eventuele beloning.
+- U ontvangt vanuit het CERT-WM binnen 3 werkdagen een ontvangstbevestiging van uw RD melding. Het CERT-WM is uw contactpersoon gedurende de afhandeling van de RD melding en fungeert hierbij als tussenpersoon tussen u en Constituent. Alvorens het CERT-WM de gemelde kwetsbaarheid communiceert met Constituent zal deze de kwetsbaarheid verifiëren n.a.v. de informatie die beschikbaar is in de RD melding.
+- Het CERT-WM reageert uiterlijk binnen 30 werkdagen inhoudelijk op de RD melding. Deze inhoudelijke berichtgeving geeft eveneens inzicht in de verwachte oplossing.
+- Wij kunnen u, als dank voor uw hulp, oplettendheid en professionele afhandeling van de RD melding een beloning bieden. Afhankelijk van de ernst van het beveiligingsprobleem (waarbij de ernst door onze analysten wordt vastgesteld) en de kwaliteit van de melding, kan die beloning variëren van een eenvoudig ‘dankjewel’ tot een gift. Het moet hierbij wel gaan om een nog onbekend en serieus beveiligingsprobleem. Geldelijke bedragen worden alleen uitgereikt bij grote, serieuze kwetsbaarheden met een groot risico en die een grote impact hebben op de infrastructuur van het gehele domein.
+- Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
+Voorwaarden van het beloningsprogramma
+- Op basis van het risico van de gemelde kwetsbaarheid stelt Constituent de beloning vast. Let op: indien de melding geen kwetsbaarheid betreft of een laag risico vormt dan kan het zijn dat er geen beloning wordt toegekend.
+- Wanneer we een melding over eenzelfde kwetsbaarheid dubbel ontvangen dan wordt de beloning toegekend aan de eerste persoon die de kwetsbaarheid rapporteert. Constituent stelt vast of er sprake is van een dubbele melding en deelt geen inhoudelijke gegevens over deze melding(en).
+- Meerdere meldingen voor hetzelfde type kwetsbaarheid met minimale verschillen worden behandeld als één melding.
+- We proberen gelijke beloningen toe te kennen voor vergelijkbare kwetsbaarheden. De beloningen en de in aanmerking komende kwetsbaarheden kunnen echter wijzigen. Toegekende beloningen uit het verleden bieden geen garantie voor vergelijkbare beloningen in de toekomst.
+- Wanneer de melding als “valide” wordt aangemerkt dan kan de naam van de melder in onze Coordinated Vulnerability Disclosure Hall of Fame worden opgenomen. Als melder geef je op het Coordinated Vulnerability Disclosure formulier aan of je opgenomen wilt worden in onze Hall of Fame. We behouden ons het recht om de informatie in de lijst te beperken. De ranking in deze “Hall of Fame” wordt bepaald n.a.v. het risico en de impact voor Constituent van de gemelde kwetsbaarheid. Er kan niet worden gediscussieerd over de volgorde van deze ranking.
+NL Formulier:
+https://www.cert-wm.nl/form/melding-coordinated-vulnerability-disclosure
+- English -
+Link to EN form:
+Link to our Coordinated Vulnerability Disclosure Hall of Fame:
+https://www.cert-wm.nl/responsible-disclosure-hall-of-fame
+Constituent = Organization that runs its Coordinated Vulnerability Disclosure procedure via CERT-WM and therefore links to this procedure from their original website.
+Constituent strives to provide a secure and stable digital infrastructure. It is therefore essential that the ICT infrastructure of Constituent is also secure. It is possible that one of our systems contains a vulnerability. If you have discovered a vulnerability in our systems, please let us know so that we can take measures as quickly as possible to make our systems secure again. This way we work together to improve the security of our data and our systems.
+Report a vulnerability:
+Reporting a (possible) vulnerability takes place according a “Coordinated Vulnerability Disclosure” procedure. This Coordinated Vulnerability Disclosure procedure (hereinafter abbreviated as “CVD procedure”) is explained in more detail on this page. The procedure knows 4 aspects:
+- Conditions / this is what we ask of you
+- Exceptions / what does not need to be reported
+- Coordinated Vulnerability Disclosure Procedure / Reporting Procedure
+- Terms of the rewards program
+Conditions / this is what we ask of you
+We strongly ask you to handle the discovered vulnerability responsibly and not to abuse it in any way. This means (but is not limited to):
+- Downloading, copying, modifying or deleting data.
+- Control systems / carry out (D)DOS attacks.
+- Applying Social Engineering.
+- Do not install backdoors or malware.
+- Sending SPAM messages to, or on behalf of Constituent.
+- Not to misuse any data obtained and delete this data immediately.
+- Not using social engineering to gain access to our systems.
+- Not to use “Brute-Force” techniques.
+Perhaps you are doing something in your research that is not allowed by law. If you act in good faith, carefully and in accordance with the rules stated in this Coordinated Vulnerability Disclosure procedure, we will not file a report.
+We also ask you to not disclose or share the discovered vulnerability with third parties. And to report the vulnerability to us as soon as possible, after it has been detected. Therefore, please follow the procedure described below.
+Exceptions / what does not need to be reported
+Constituent can decide not to reward if it concerns a vulnerability with a low or accepted risk. Below is a list of some example vulnerabilities that do not need to be reported:
+- HTTP 404 codes or other non HTTP 200 codes.
+- Ability to add plain text in 404 pages.
+- Version banners on public services.
+- Publicly accessible files and folders containing non-sensitive information.
+- Clickjacking on pages without a login function.
+- Certificates with weak / outdated ciphers.
+- Cross-site request forgery (CSRF) on forms that can be accessed anonymously.
+- Using the HTTP OPTIONS Method.
+- Missing SPF, DKIM and DMARC records.
+- Missing one or more HTTP Security Headers.
+- Presence of 'autocomplete' or 'save password' functions.
+- Bruteforcing on 'forgot password' form where 'account lockout' is not enforced.
+- Missing a confirmation prompt, such as re-entering your password or requesting an additional email confirmation.
+- The lack of HTTP Public Key Pinning (HPKP).
+- Content spoofing and text injection on error pages.
+- Reporting old software versions without a proof-of-concept or working exploit.
+- Expired or inactive domain names.
+- Same Site Scripting or use via a localhost DNS rule.
+Coordinated Vulnerability Disclosure Procedure / Reporting Procedure
+- You can send the discovered vulnerability to our security partner, CERT-WM. You can report this via the secure “Coordinated Vulnerability Disclosure Form”. The link to this form can be found below. Please note, send a separate RD report for each discovered vulnerability. So, do not combine multiple vulnerabilities in one RD report.
+- Complete all required fields and provide enough information so we can verify the vulnerability and reproduce the issue. At least provide a step-by-step description among other things, URLs, screenshots and IP addresses.
+- Provide enough information so that we can contact you. Provide us with your e-mail address and preferably your telephone number. Please respond to any requests from the CERT-WM when additional information is required.
+We only use your contact details to communicate with you about the report. We do not share these with others, except if we are required to do so by law. For example, when the authorities ask us to provide this information or if we regard your action as a criminal offense (i.e. you are not acting in good faith) and we report this to the police.
+If you have made the report anonymously, we cannot keep you informed. We will also not be able to provide you with a possible reward.
+- CERT-WM will send you a confirmation of receipt within 3 working days. CERT-WM is your contact during the handling of the RD procedure and acts as an intermediary between you and Constituent. Before CERT-WM communicates the reported vulnerability to Constituent, it will verify the vulnerability based on the information available in the RD disclosure.
+- CERT-WM will substantively respond to the RD disclosure within 30 working days. This substantive reporting also provides insight in the expected solution.
+- We can offer you a reward as a thank you for your help, attentiveness and professional handling of the RD report. Resolution of the severity of the vulnerability (where the severity will be determined by our analysts) and the quality of the report can be the equivalent of a simple "thank you" to a gift. Monetization is only taken for large, individual vulnerabilities that are high-risk and have a major impact on the infrastructure of the entire domain.
+- We strive to resolve all issues as quickly as possible and would like to be involved in any publication about the issue after it has been resolved.
+Terms of the rewards program
+- Based on the risk of the reported vulnerability, Constituent determines the reward. If the report does not concern a vulnerability or poses a low risk, no reward may be awarded. The amount of the reward cannot be discussed.
+- If we receive a duplicate report about the same vulnerability, the reward will be awarded to the first person to report the vulnerability. Constituent determines whether there is a double report and does not share any substantive information about this report(s).
+- Multiple reports for the same type of vulnerability with minimal differences will be treated as a single report (only one report will be rewarded).
+- We try to award equal rewards for similar vulnerabilities. However, the rewards and eligible vulnerabilities are subject to change. Past awards are no guarantee of comparable awards in the future.
+- When the report is considered “valid”, the name of the reporter can be included in the Coordinated Vulnerability Disclosure Hall of Fame. When you make a report, you indicate on the Coordinated Vulnerability Disclosure form whether you wish to be included in our Hall of Fame. We reserve the right to limit the information in the list. The ranking in this “Hall of Fame” is determined based on the risk and the impact for Constituent of the reported vulnerability. There can be no discussion about the order of this ranking.
+EN Form:
+https://www.cert-wm.nl/form/coordinated-vulnerability-disclosure

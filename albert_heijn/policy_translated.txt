@@ -1,0 +1,23 @@
+At Koninklijke Ahold Delhaize N.V. ("Ahold Delhaize"), we attach great importance to maintaining the security of our systems and data. We believe that good security is crucial for the trust of customers, suppliers, and employees. We therefore strive to continuously improve our security and appreciate your help in this regard.
+Should you find a vulnerability in one of our systems, we would like to hear from you immediately so that we can take the necessary measures to improve security as soon as possible. To improve our system in a responsible manner, we ask for your attention to the following:
+
+To provide sufficient information to map out the problem, so that Ahold Delhaize can address the issue as soon as possible. The IP address or URL of the system and a description of your finding are often sufficient. However, for complex problems, more information may be necessary.
+
+To leave your contact details so that Ahold Delhaize can contact you.
+
+To report your findings to us as soon as possible after discovery. Not to share information about your findings with anyone other than the persons designated by Ahold Delhaize.
+
+To handle the knowledge of your findings with care and to use it only to inform us of what you have discovered.
+
+Copy, alter, or delete data from a system.
+
+Make changes to a system.
+Repeatedly gain access to the system or grant this possibility to persons other than those designated by Ahold Delhaize.
+Use so-called "brute force" to gain access to our systems.
+Use attacks by means of social engineering or (distributed) denial of service.
+Perform actions that could potentially disrupt our system.
+That your name is not mentioned as the person who discovered the findings, unless you give permission to do so.
+Ahold Delhaize will send you an acknowledgment of receipt as soon as possible.
+Ahold Delhaize is offering a reward for your help. Depending on the severity of your findings and the quality of your report, the reward can vary from a T-shirt or a meet & greet with the IT security team to a maximum of €300 in gift vouchers. In any case, it must concern a serious finding that is unknown to us.
+
+Ahold Delhaize would like to thank those who contacted us via the Responsible Disclosure channel and made a significant contribution to the security of our systems and platforms by including them in the Ahold Delhaize Wall of Fame.

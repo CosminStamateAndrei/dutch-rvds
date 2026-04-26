@@ -1,0 +1,33 @@
+Responsible Disclosure
+We take strict security measures to protect our systems. However, you may still find a vulnerability. That is why we work with the National Cyber Security Centre (NCSC). The NCSC handles reports of vulnerabilities.
+Found a vulnerability? Follow these 4 steps:
+- Report the vulnerability via the National Cyber Security Centre. Use the NCSC form for Coordinated Vulnerability Disclosure (CVD).
+- Encrypt your findings with the Pretty Good Privacy key (PGP) of the NCSC. This keeps the information safe. PGP is a commonly used method to secure messages. You can find the key on the NCSC website.
+- Tell us what you know, so we can find and fix the issue. Include the IP address or URL of the affected system and a clear description. For complex vulnerabilities, you can add a Proof of Concept (PoC). This is an example to clarify the issue.
+- For complex vulnerabilities, extra information may be needed. In that case, we will contact you. Please leave your contact details, such as your email address or phone number. We prefer to communicate via email. You can also provide your own PGP key for secure communication.
+Report vulnerabilities quickly and carefully
+- Report the vulnerability as soon as possible after you discover it.
+- Do not share the vulnerability with others until it is resolved.
+- Handle information about the vulnerability with care. Only perform actions needed to demonstrate the issue.
+Do not misuse the vulnerability
+Only use the vulnerability to demonstrate the issue. Do not misuse it.
+- Do not install malware.
+- Do not copy, change or delete data from a system.
+- Do not try to repeatedly access the system.
+- Do not try to gain access by guessing passwords or using brute-force.
+- Do not share access with others.
+- Do not misuse the vulnerability for denial-of-service attacks or social engineering.
+- Do not share videos of the vulnerability with the National Cyber Security Centre (NCSC). These will not be accepted.
+How we handle your report
+- If you follow these steps and do not misuse the vulnerability, your report will not have legal consequences. We treat your report as confidential. We do not share your personal data with third parties without your consent, unless we are required to do so by law or a court order.
+- After you have sent your report, the NCSC will send you an acknowledgement of receipt within 1 working day.
+- We will respond via the NCSC within 5 working days with an assessment of the report and an expected date for a solution.
+- We will keep you informed of progress and the next steps. We will resolve the vulnerability as soon as possible.
+- We will agree on when and how this is to be communicated in consultation with you.
+- The NCSC offers a reward to thank you for your help. The amount depends on the severity of the vulnerability and the quality of the report. The vulnerability must be serious and not yet known to the NCSC.
+More information
+• This text adds to the information from the NCSC. Read more on the NCSC website on the page Reporting a vulnerability (CVD).
+Help us improve
+Your feedback is important to us. Please let us know what you think and go to the feedback form on youreurope.europa.eu.
+For more information please check the website of Your Europe.
+Last update of this page: April 21st, 2026

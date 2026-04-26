@@ -1,0 +1,22 @@
+De veiligheid van onze systemen heeft bij de HvA grote prioriteit. Desondanks kunnen er kwetsbaarheden voorkomen. Iedereen die een kwetsbaarheid ontdekt, kan dit melden. Zo kunnen we zo snel mogelijk maatregelen treffen om deze te verhelpen en de veiligheid te waarborgen.
+We spreken over ‘verantwoorde openbaarmaking’ wanneer de melder en de organisatie ICT-kwetsbaarheden in samenwerking openbaar maken, op basis van door de organisatie hiervoor vastgesteld beleid. Het wordt ook wel ‘Responsible Disclosure’ of ‘Coordinated Vulnerability Disclosure’ genoemd.
+Zwakke plekken als bedreiging
+Een kwetsbaarheid is een zwakke plek in software of hardware die meestal het gevolg is van een programmeerfout. Een kwetsbaarheid kan misbruikt worden door cybercriminelen en vormt een bedreiging voor de veiligheid van de informatiesystemen.
+Kwetsbaarheid melden
+Wil je een kwetsbaarheid melden, vul dan het formulier in op de pagina van onze partner (opent in nieuw venster), Zerocopter.
+Voorwaarden bij het melden
+- Misbruik kwetsbaarheden niet, door bijvoorbeeld meer data te downloaden dan nodig om de kwetsbaarheid aan te tonen.
+- Wees extra terughoudend bij persoonsgegevens: dat wil zeggen geen gegevens van derden inkijken, verwijderen of aanpassen.
+- Deel kwetsbaarheden niet met anderen totdat ze zijn opgelost. En wis alle vertrouwelijke gegevens die via kwetsbaarheden zijn verkregen zo snel mogelijk.
+- Maak geen gebruik van aanvallen op fysieke beveiliging of applicaties van derden, van social engineering, distributed denial-of-service of spam.
+- Geef voldoende informatie om de kwetsbaarheid te reproduceren zodat wij deze snel kunnen oplossen. Meestal is een IP-adres of URL van het getroffen systeem en een omschrijving van de kwetsbaarheid voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Wat wij beloven
+- We reageren binnen 5 dagen op je melding met onze beoordeling en een verwachte datum voor een oplossing.
+- We behandelen je melding vertrouwelijk en we zullen je persoonlijke gegevens niet zonder jouw toestemming met derden delen tenzij dat noodzakelijk is om een wettelijke verplichting na te komen.
+- We houden je op de hoogte, als je dit wil, van de voortgang van het oplossen van het probleem.
+- We kunnen je naam noemen als ontdekker in berichtgeving over het gemelde probleem, indien je dit wenst.
+- Anoniem of onder een pseudoniem melden is mogelijk. Goed om te weten dat dit wel betekent dat wij dan geen contact kunnen opnemen over bijvoorbeeld de vervolgstappen, voortgang van het dichten van het lek, publicatie of een eventuele beloning voor de melding.
+- De HvA biedt een beloning als dank voor de hulp. Afhankelijk van de ernst van het beveiligingsprobleem en de kwaliteit van de melding, kan die beloning variëren van een kleine blijk van waardering tot cadeaubonnen. Het moet wel gaan om een voor de HvA nog onbekend en serieus beveiligingsprobleem.
+- We streven naar het zo snel mogelijk oplossen van de gerapporteerde problemen. Wij worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
+CERT-HvA
+Wil je een kwetsbaarheid melden buiten kantooruren? Neem dan contact op met CERT-HvA via T: 020 - 525 33 22 of stuur een e-mail naar [email protected]. Ons Computer Emergency Response Team (CERT) staat klaar om urgente beveiligingskwesties snel op te pakken en de veiligheid van onze systemen te waarborgen.

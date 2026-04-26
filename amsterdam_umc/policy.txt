@@ -1,0 +1,24 @@
+(White hacking)
+Amsterdam UMC regards ensuring sound protection for its ICT systems and the confidentiality of information as being of particular importance. Despite all the efforts undertaken to achieve this, it is possible that a system has a weak point. If you have found a weak point in any of our systems, we would very much like to know so that we can take appropriate measures as quickly as possible. We would like to work in partnership with you to protect our users, our systems, and our information, as effectively as possible.
+This Responsible Disclosure policy is not an invitation to actively and extensively scan our company network as a means of discovering weak points. Brute force attacks, DDoS, and social engineering fall outside the scope of this Responsible Disclosure policy.
+There is a chance that action you carry out during your investigation is in breach of criminal law. If you have adhered to the rules below, we will not instigate any legal proceedings against you concerning your notification. If the rules have been breached, then we will be obligated to ask our Legal Affairs department for an assessment.
+The Dutch Public Prosecution Service always reserves the right to decide whether or not criminal proceedings are to be launched against you. The Public Prosecution Service has published a policy document on this matter.
+You are asked
+To email your findings as soon as possible to rd-cert @ amc.nl. If confidential information is involved, you are asked to encrypt the findings, using our PGP key for example, to prevent the information from falling into the wrong hands;
+- Not to misuse the vulnerability by viewing more data or by downloading more than is needed to demonstrate the leak. A directory listing is sufficient proof of access to a system; there is then no need to open or copy files, etc.;
+- Not to alter or delete any information;
+- Not to share confidential information, such as personal data, with others;
+- Not to share the vulnerability with others until it has been resolved;
+- Not to carry out attacks on the physical security or applications of third parties, not to carry out social engineering (including phishing), distributed denial-of-service (DDoS) attacks, or brute force attacks on authentication or other systems;
+- To give us sufficient information to reproduce the vulnerability so that we can resolve it as quickly as possible. The IP address, the URL of the affected system, a description of the vulnerability and of the action taken are usually sufficient, but more may needed if the vulnerabilities are more complex;
+- It is permitted to make the situation public only when the notifier and Amsterdam UMC have agreed that the vulnerability may be made public, when all affected parties have been properly informed, and when Amsterdam UMC has indicated that the vulnerability has been resolved.
+- If a vulnerability cannot be resolved, or only resolved with difficulty, or if the process is very costly, the notifier is only authorized to make the vulnerability public with the express permission of Amsterdam UMC. Amsterdam UMC would prefer to be involved with any publication about any such vulnerability.
+What you can expect from us
+- We will respond to your message within one working day by sending confirmation of receipt;
+- ·We will keep you informed of the progress in resolving the vulnerability;
+- If you prefer the information to be treated confidentially, please state this in your message. We will in that case not share your personal data with any third parties without your permission, unless this is necessary for the purpose of meeting a legal obligation;
+- Reporting the information may also be done anonymously or under a pseudonym. It is important for you to know that this means we cannot contact you regarding any subsequent action, information on progress closing the leak, or publication of the vulnerability;
+- If the IT Security Officer decides to inform a wider ICT community or the general public about a new vulnerability that you have discovered, you will be informed of the fact;
+- In our publication about the vulnerability that you have reported, we will include your name (alias or handle) as the notifier of the vulnerability, if you wish;
+- We will resolve the vulnerability or vulnerabilities as quickly as possible and keep all relevant parties informed.
+This is version 1.1, published on November 3, 2020, of our policy on Responsible Disclosure, the first version of which was published on January 18, 2019. Our policy comes under a Creative Commons Attribution 4.0 license. The policy is based on the sample policy by Floor Terra. Any updates to this document will also be published on this site.

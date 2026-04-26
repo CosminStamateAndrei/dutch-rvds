@@ -1,0 +1,48 @@
+Als je een zwakke plek in één van onze systemen hebt gevonden horen wij dit graag zodat we zo snel mogelĳk maatregelen kunnen treffen. Wij willen graag met je samenwerken om onze gebruikers en onze systemen beter te kunnen beschermen.
+Geen uitnodiging tot actief scannen
+Ons zogenoemde responsibledisclosurebeleid is geen uitnodiging om ons netwerk of onze systemen uitgebreid actief te scannen op zwakke plekken. Wij monitoren namelijk zelf ons bedrijfsnetwerk. Daardoor is de kans groot dat we je scan oppikken, dat ons Computer Emergency Response Team (CERT) onderzoek doet, wat mogelijk leidt tot onnodige kosten.
+Gerechtelijke vervolging
+Het is mogelijk dat je tijdens je onderzoek handelingen uitvoert die strafbaar zijn. Heb je je aan onderstaande voorwaarden gehouden, dan ondernemen wij, als Hogeschool Rotterdam, geen juridische stappen tegen je. Het Openbaar Ministerie heeft echter altijd het recht om zelf te beslissen of het je strafrechtelijk vervolgt.
+Verzoek aan jou
+- Mail je bevindingen zo snel mogelijk naar cert@hr.nl. Versleutel je bevindingen met behulp van onze S/MIME public key of onze PGP key (fingerprint 79B2 945F 2155 45A8 8C73 EA46 B0E8 BEF2 1C5A C4B6) om te voorkomen dat de informatie in verkeerde handen valt.
+- Misbruik de gevonden zwakheid niet door bijvoorbeeld:
+- meer data te downloaden dan nodig is om het lek aan te tonen;
+- de gegevens te veranderen of verwijderen;
+- wees extra terughoudend bij persoonsgegevens;
+- deel de zwakheid niet met anderen totdat deze is opgelost;
+- maak geen gebruik van aanvallen op fysieke beveiliging of applicaties van derden, van social engineering, (distributed) denial-of-service, malware, of spam;
+- geef voldoende informatie om de zwakheid te reproduceren, zodat wij deze zo snel mogelijk kunnen oplossen. Meestal zijn het IP-adres of de URL van het getroffen systeem en een omschrijving van de kwetsbaarheid en de uitgevoerde handelingen voldoende, maar bij complexere kwetsbaarheden kan meer nodig zijn.
+Onze belofte
+- Wij reageren binnen vijf werkdagen met onze beoordeling van de melding en een verwachte datum voor een oplossing.
+- Wij behandelen je melding vertrouwelijk en zullen je persoonlijke gegevens niet zonder je toestemming met derden delen, tenzij dat noodzakelijk is om een wettelijke verplichting na te komen.
+- Wij houden je op de hoogte van de voortgang van het oplossen van de zwakheid.
+- Je kunt anoniem of onder een pseudoniem melden. Wij kunnen dan echter geen contact met je opnemen over bijvoorbeeld de vervolgstappen, voortgang van het dichten van het lek, publicatie of de eventuele beloning voor de melding.
+- In berichtgeving over de gemelde zwakheid zullen wij, als je dit wilt, je naam vermelden als de ontdekker van de kwetsbaarheid.
+- Wij kunnen je een beloning geven voor je onderzoek, maar zijn hiertoe niet verplicht. Je hebt dus niet zonder meer recht op een vergoeding. De vorm van deze beloning staat niet van tevoren vast en wordt door ons per geval bepaald. Of we een beloning geven en de vorm waarin dat gebeurt, hangen af van de zorgvuldigheid van je onderzoek, de kwaliteit van de melding en de ernst van het lek. Medewerkers en studenten van Hogeschool Rotterdam zijn uitgesloten van een eventuele beloning.
+- Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en alle betrokken partijen op de hoogte te houden. Wij zijn graag betrokken bij een eventuele publicatie over de zwakheid, nadat deze is opgelost.
+Niet in scope
+Hogeschool Rotterdam geeft geen beloning voor triviale kwetsbaarheden of bugs die niet misbruikt kunnen worden. Er is een netwerk en een gedeelde webserver die voornamelijk gebruikt worden voor experimenten van studenten en onderzoekers. Deze websites en servers vallen buiten de scope. Hieronder staan voorbeelden van bekende kwetsbaarheden en geaccepteerde risico’s, die buiten bovenstaande regeling vallen:
+- Alles in het 145.24.222.0/24 netwerk
+- Alle websites op de webserver 145.24.129.62 (octagon.hro.nl)
+- HTTP 404 codes/pagina’s of andere HTTP non-200 codes/pagina’s en content spoofing/text injecting op deze pagina's
+- fingerprinting/versievermelding op publieke services
+- publieke bestanden of directories met ongevoelige informatie (bijvoorbeeld robots.txt)
+- clickjacking en problemen die alleen te exploiten zijn via clickjacking
+- geen secure/HTTP-only flags op ongevoelige cookies
+- OPTIONS HTTP method ingeschakeld
+- alles gerelateerd tot HTTP security headers, bijvoorbeeld:
+- Strict-Transport-Security
+- X-Frame-Options
+- X-XSS-Protection
+- X-Content-Type-Options
+- Content-Security-Policy
+- issues met SSL-configuratie issues
+- SSL Forward secrecy uitgeschakeld
+- zwakke/onveilige cipher suites
+- issues met SPF, DKIM of DMARC
+- host header injection
+- rapporteren van verouderde versies van enige software zonder een proof of concept van een werkende exploit
+- informatieblootstelling in metadata
+Ons beleid valt onder een Creative Commons Naamsvermelding 3.0-licentie. Het beleid is gebaseerd op het beleid van SURF en het voorbeeldbeleid van Floor Terra.
+Dienstbeschrijving (RFC 2350)
+RFC 2350 is een internationale standaard voor Computer Security Incident Response Teams. Deze standaard beschrijft hoe en waarvoor CERT-HR kan worden benaderd in het geval van incidenten.

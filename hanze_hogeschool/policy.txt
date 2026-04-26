@@ -1,0 +1,76 @@
+At Hanze University of Applied Sciences, we consider the safety of our systems our network and our products extremely important. Although we take great care of the security of our environment, you may discover a weak spot. In this case, we would like to hear this as soon as possible, so that we can take swift action.
+Weak spots can be discovered in two ways:
+-
+You accidentally run into something in normal use of a digital environment, or
+-
+You are consciously looking for weak spots.
+Judicial prosecution
+It is possible that you have taken actions that are prohibited by law in the course of your investigation. If you have complied with the conditions below, we will not take any legal action against you. However, the Public Prosecutor still has the right to decide whether to prosecute you.
+What we expect from you
+We would like to work together to better protect our systems. It is important to follow the following procedure:
+-
+Email your findings/vulnerabilities to [email protected] as soon as possible. To prevent the information from falling into the wrong hands, use the HanzeCSIRT PGP-key. The PGP-key ID is 0xc4f42511cf1bb6bc and the Fingerprint of the public PGP Key of Hanze-CSIRT is 675C F256 A61C C653 B853 DB10 C4F4 2511 CF1B B6BC (PGP-key ID is valid until 10 July 2021). See also our RFC-2350 document.
+-
+Please provide sufficient information in your email and give us the opportunity to reproduce the problem, this helps us to come up a quick fix. Usually, the IP address or URL of the affected system and a description of the vulnerability is sufficient, but with more complex vulnerabilities, more may be needed.
+-
+Do not share the problem with others until it is resolved.
+-
+Do not abuse the vulnerability by, for example, downloading, changing, or deleting data. We always take your report seriously and will start to sort out any suspicion of a vulnerability, even without 'proof'.
+-
+Handle knowledge of the security problem by not performing any actions that go beyond what is strictly necessary to demonstrate the vulnerabilities.
+-
+Do not perform malicious actions such as: placing malware, copying, modifying or deleting data in a system, making changes to the system, repeatedly gaining access to the system, or sharing access with others.
+-
+We cannot offer you any rewards, but if you want we can add your name or nickname to our responsible disclosure 'Wall of Fame' with a link to your Twitter or LinkedIn profile.
+What you can expect from us
+-
+We will respond to your notification within five business days with our review of the notification and an expected date for a solution.
+-
+We will treat your notification confidentially and will not share your personal information with third parties without your consent. An exception is the police and the judiciary, in case of declaration or if data are claimed.
+-
+We will keep you informed of the progress of solving the problem.
+-
+In reporting on the reported problem, if you wish, we will mention your name as the discoverer.
+-
+We consider it a moral obligation to file a report when we suspect that infrastructure or data is being misused, or that knowledge about the vulnerability has been shared with others.
+-
+We strive to resolve all the problems as quickly as possible, to keep all parties involved informed and we are happy to be involved in any publication about the problem after it has been resolved.
+Out of scope
+Hanze University of Applied Sciences does not accept trivial vulnerabilities or bugs that cannot be abused. The following are examples of known and accepted vulnerabilities and risks that are outside the scope of the responsible disclosure policy:
+-
+HTTP 404 codes/pages or other HTTP codes/pages and Content Spoofing/Text Injection on these pages.
+-
+Fingerprint version banner disclosure on common/public services.
+-
+Disclosure of known public files or directories or non-sensitive information, (e.g. robots.txt).
+-
+Clickjacking and issues only exploitable through clickjacking.
+-
+Lack of Secure/HTTPOnly flags on non-sensitive cookies.
+-
+OPTIONS HTTP method enabled.
+-
+Host header injection.
+-
+Anything related to HTTP security headers, e.g.:
+- Strict-Transport-Security.
+- X-Frame-Options.
+- X-XSS-Protection.
+- X-Content-Type-Options.
+- Content-Security-Policy. -
+SSL Configuration Issues:
+- SSL forward secrecy not enabled.
+- Weak / insecure cipher suites. -
+SPF, DKIM, DMARC issues.
+-
+Missing DNSSEC configuration
+-
+Reporting older versions of any software without proof of concept or working exploit.
+-
+Systems or protocols that can be misused for DDoS attacks.
+-
+Intentional listing of directory contents for research or publication purposes.
+-
+Information leakage in metadata.
+Feedback component
+How satisfied are you with the information on this page?

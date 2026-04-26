@@ -1,0 +1,25 @@
+Kwetsbaarheid melden
+Heeft u een zwakke plek in een ICT-systeem of website van De Nederlandsche Bank (DNB) ontdekt? Meld deze kwetsbaarheid dan zo spoedig mogelijk aan DNB via cvd@dnb.nl. Doe de melding voordat u de kwetsbaarheid aan de buitenwereld kenbaar maakt zodat DNB tijdig de nodige maatregelen kan treffen. Dit principe heet Responsible Disclosure.
+Melding doen
+Wanneer u een zwakke plek in een ICT-systeem heeft ontdekt, vragen wij het volgende van u:
+- Verstuur de melding zo snel mogelijk na ontdekking van de kwetsbaarheid aan cvd@dnb.nl. Gebruik indien mogelijk de PGP-sleutel van DNB om te voorkomen dat de informatie in verkeerde handen valt. Zie onze contact-pagina voor meer informatie.
+- Deel informatie over het beveiligingsprobleem niet met anderen totdat het probleem is opgelost.
+- Geef informatie over hoe en wanneer de kwetsbaarheid of storing zich voordoet. Beschrijf duidelijk hoe dit probleem gereproduceerd kan worden en geef informatie over de gebruikte methode en het tijdstip van onderzoeken.
+- Ga verantwoordelijk om met de kennis over het beveiligingsprobleem. Verricht geen handelingen die verder gaan dan wat nodig is om het beveiligingsprobleem aan te tonen. Maak geen misbruik van de zwakke plek en bewaar geen vertrouwelijke gegevens die zijn verkregen via de kwetsbaarheid in het systeem.
+- Laat contactgegevens (e-mailadres of telefoonnummer) achter zodat DNB contact met u kan opnemen over de status van de storing.
+- Scope is dnb.nl.
+Voldoet u bij uw melding aan deze voorwaarden? Dan verbindt DNB geen juridische consequenties aan de melding.
+Wat doet DNB bij Responsible Disclosure?
+Wanneer u melding doet van een zwakke plek in een ICT-systeem, dan behandelt DNB deze als volgt:
+- U krijgt binnen twee werkdagen na het doen van de melding een ontvangstbevestiging van de Informatiedesk DNB.
+- Binnen drie werkdagen na de ontvangstbevestiging ontvangt u een reactie met daarin een beoordeling van de melding en de verwachte datum van de oplossing. Tussentijds wordt u op de hoogte gehouden over de voortgang van het oplossen van het probleem.
+- DNB behandelt uw melding vertrouwelijk en zal uw gegevens nooit zonder uw toestemming met derden delen, behalve als dit wettelijk of door een rechterlijke uitspraak verplicht is.
+- DNB zal samen met u bepalen of en hoe over het gemelde probleem wordt bericht. Berichtgeving vindt pas plaats nadat het probleem is opgelost. In de berichtgeving over het gemelde probleem zal DNB, indien gewenst, uw naam vermelden als ontdekker.
+- Als dank voor het melden stelt DNB een beloning beschikbaar. De hoogte van de beloning wordt door DNB bepaald op basis van de ernst en omvang van het gemelde probleem en de kwaliteit van de melding.
+Het hiervoor beschreven beleid is gebaseerd op de leidraad voor Coordinated Vulnerability Disclosure(Verwijst naar een externe site) van het Nationaal Cyber Security Centrum.
+Uitzonderingen
+Meldingen van het volgende worden niet in behandeling genomen:
+- Het beleid ten aanzien van SPF / DKIM / DMARC.
+- De mogelijkheid tot cross-site scripting op een statische website of op een website waarop geen gevoelige (gebruikers)informatie wordt verwerkt.
+- De afwezigheid van HTTP security headers zoals gebruikt door onder andere Cross-Origin Resource Sharing (CORS), tenzij deze afwezigheid aantoonbaar tot een beveiligingsprobleem leidt.
+DNB is hier reeds van op de hoogte.

@@ -1,0 +1,36 @@
+Responsible disclosure: report a vulnerability in our systems
+The Municipality of Leiden considers the security of its computer systems important. Despite our efforts to secure these systems, it is possible that a vulnerability may still exist. Have you found a vulnerability in our systems? If so, we would like to hear about it so that we can take measures quickly.
+
+You can discover vulnerabilities in two ways:
+
+- you stumble upon something by chance during normal use of a digital environment;
+
+- you deliberately search for a vulnerability in the digital environment.
+
+What are you not allowed to do?
+
+It is not permitted to exploit the vulnerability in any way whatsoever. It is not permitted to:
+
+- Install malicious software.
+
+- Crack or retrieve passwords.
+
+- Attempt to obtain confidential or secret information via employees of the municipality.
+
+- Make information about the security problem public or provide it to third parties before it has been resolved.
+
+- Use techniques that reduce the availability or usability of the system (DDoS attacks).
+
+What can you expect from us? - If you meet all the conditions, the municipality will not file a criminal complaint or initiate civil proceedings against you.
+
+- The municipality handles a report confidentially. Personal data will not be shared without your explicit consent, except when the municipality is required to do so by law or a court ruling.
+
+- Depending on the severity of the security issue, the municipality will share the report with the Information Security Service for Municipalities (IBD).
+- By mutual agreement, the municipality may mention your name as the discoverer of the reported vulnerability. In all other cases, you will remain anonymous.
+
+- The municipality will send an (automatic) acknowledgment of receipt within one working day.
+- The municipality will respond to a report within three working days.
+- The municipality will resolve the reported security issue as soon as possible. You will be kept informed of the progress. We aim to resolve the issue within no more than 90 days.
+
+- It may be determined by mutual agreement whether and how the issue will be published.
+- The municipality may offer you a reward as thanks for your help. Depending on the report, that reward can vary from a simple ‘thank you’ to a monetary amount to be determined. However, this must concern a serious, as yet unknown, security issue.

@@ -1,0 +1,31 @@
+Coordinated Vulnerability Disclosure (CVD)
+De gemeente Apeldoorn vindt de beveiliging van haar systemen erg belangrijk. Als onderdeel van onze inzet voor cybersecurity en het beschermen van onze systemen, erkennen we het belang van het opsporen en melden van kwetsbaarheden. Het CVD is bedoeld om een gestructureerd kader te bieden waarin security-experts kwetsbaarheden kunnen rapporteren.
+Wij vragen het volgende van u bij een CVD-melding
+- Rapporteren
+Zo snel mogelijk na ontdekking van de kwetsbaarheid deze aan ons door te geven. De methode voor het rapporteren wordt hieronder weergegeven. Bevindingen kunnen enkel op deze manier kenbaar gemaakt worden aan de organisatie.
+Uw bevindingen te e-mailen naar cvd@apeldoorn.nl (alleen te gebruiken voor CVD-meldingen). Ook kunt u de bevinding op een veilige en versleutelde manier versturen via de website https://crypt.apeldoorn.nl/. - Informatie
+Daarnaast vragen wij u om voldoende informatie te verstrekken om het probleem te reproduceren, zodat wij het probleem snel kunnen oplossen. Het IP-adres of de URL van het betreffende systeem en een omschrijving van het beveiligingsprobleem is voldoende. Aanvullende relevante informatie en tips zijn altijd welkom om het probleem potentieel sneller te verhelpen. Vermijd hierbij wel het adverteren voor specifieke (beveiligings)tools.
+De informatie over het beveiligingsprobleem dient niet met anderen gedeeld te worden totdat het probleem is opgelost. Na de afhandeling is het mogelijk om de kwetsbaarheid, in overleg, te publiceren. - Contact
+Wij vragen u om uw contactgegevens achter te laten zodat we samen verder kunnen werken aan een oplossing van de bevinding. Laat minimaal één e-mailadres of telefoonnummer achter. Op deze manier kan ons Security Operations Center met u in contact komen.
+De volgende handelingen zijn niet toegestaan
+- Het plaatsen van malware.
+- Het bruteforcen van toegang tot systemen.
+- Het gebruik maken van social engineering, tenzij dit strikt noodzakelijk blijkt om aan te tonen dat een medewerker tekort schiet in hun plicht om zorgvuldig om te gaan met gevoelige informatie.
+Dit mag alleen op volkomen legale wijze, dus niet via chantage of andere malafide handelingen. Bevindingen door middel van social engineering moet bedoeld zijn om een beveiligingsprobleem in de procedures en werkwijze binnen de gemeente te constateren, niet op het schaden van een medewerker van de gemeente.
+- Het publiceren/openbaren van het beveiligingsprobleem voordat deze is opgelost.
+- Het verrichten van onnodige handelingen die verder gaan dan wat strikt noodzakelijk is om het beveiligingsprobleem vast te stellen en te melden. Het downloaden, wijzigen en verwijderen van gegevens of configuraties van een systeem is nooit toegestaan.
+Een alternatief hiervoor is het maken van een directory listing of screenshot.
+- Het gebruik maken van technieken, zoals een DoS-aanval, waarmee de beschikbaarheid en/of bruikbaarheid van onze systemen of services wordt beperkt.
+Wat u verder kan verwachten
+Juridisch aspect
+- Indien u aan alle bovenstaande voorwaarden voldoet, zullen wij geen juridische consequenties verbinden aan deze melding. Indien blijkt dat u bovenstaande voorwaarden toch heeft geschonden, kunnen wij alsnog besluiten om gerechtelijke stappen tegen u te ondernemen.
+Contact over de melding
+- Wij sturen u binnen 1 werkdag een (automatische) ontvangstbevestiging.
+- Wij reageren binnen drie werkdagen op uw melding met de (eerste) beoordeling met hierbij een verwachte datum van oplossing.
+- Wij houden u op de hoogte over de voortgang omtrent de melding. Wij lossen het door u geconstateerde beveiligingsprobleem zo snel mogelijk op en streven ervoor om niet langer te doen dan 30 dagen over het oplossen van het probleem. Wij zijn daarbij vaak mede afhankelijk van toeleveranciers.
+Behandeling van u en de melding
+- Wij behandelen de melding vertrouwelijk en delen uw persoonlijke gegevens niet zonder uw toestemming, tenzij wij daar volgens de wet of rechterlijke uitspraak tot verplicht zijn.
+- Wij delen de ontvangen melding altijd met de Informatiebeveiligingsdienst voor gemeenten (IBD). Zo borgen wij dat gemeenten hun ervaringen op dit vlak met elkaar kunnen delen.
+- In overleg kan bepaald worden op welke wijze de kwetsbaarheid gepubliceerd kan worden. Dit gebeurt alleen zodra het probleem is opgelost.
+Beloning
+- Wij kunnen u een beloning bieden als dank voor de hulp. Afhankelijk van de ernst van het beveiligingsprobleem en de kwaliteit van de melding, kan die beloning wisselen van een eenvoudig ‘dankjewel’ tot een bedrag van maximaal €300. Het moet hierbij wel gaan om een nog onbekend en serieus beveiligingsprobleem.
