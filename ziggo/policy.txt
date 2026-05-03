@@ -129,4 +129,4 @@ onderschreven. Wijzigingen in deze code komen tot stand op initiatief van Ziggo 
 de reguliere Ziggo webpagina voor het meldpunt beveiligingslekken. De gedragscode zal 6 maanden na in 
 gebruikname worden geëvalueerd.  
   
- 
+[END OF FILE]

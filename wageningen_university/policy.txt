@@ -42,3 +42,5 @@ You may report security issues through email: cert@wur.nl. WUR-CERT is available
 When reporting an incident, please provide as much information as you can, such as the date, time, and place of the incident. If you have information on frequency, IP numbers, URLs, error messages or logs, please add these as well. If you wish to encrypt your message, please use the PGP-key that you can download on pgp.surfnet.nl or any other open access PGP-key server. The fingerprint is: 860E CC37 CA68 FBA8 E01D 0A62 B2CD A3AB 88BE 4927.
 WUR staff and students
 Students and staff may report security issues to the IT service desk: servicedesk.it@wur.nl. Urgent or confidential issues may be reported by phone through 0317 – 488 888.
+
+[END OF FILE]

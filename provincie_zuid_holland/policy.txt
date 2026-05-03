@@ -18,3 +18,5 @@ Wij behandelen een melding vertrouwelijk en delen persoonlijke gegevens van een 
 Provincie Zuid-Holland kan de ontvangen melding delen met overheidspartners voor het verbeteren van de informatieveiligheid van de overheidsorganisaties;
 Wij sturen je een (automatische) ontvangstbevestiging en wij houden je op de hoogte van de voortgang van de oplossing.
 Wij reageren binnen 5 werkdagen op een melding met een (eerste) beoordeling van de melding en een verwachte datum voor een oplossing.
+
+[END OF FILE]

@@ -27,3 +27,5 @@ Voorbeelden van kwetsbaarheden die u kunt melden:
 Wat hoeft niet gemeld te worden?
 Afwijkingen zonder impact op de beschikbaarheid, integriteit of vertrouwelijkheid van informatie, zoals XSS op statische websites zonder gevoelige informatie, hoeven niet te worden gemeld.
 Door kwetsbaarheden op een verantwoorde manier aan te pakken, zorgen we samen voor een veiligere digitale omgeving.
+
+[END OF FILE]

@@ -27,3 +27,5 @@ If you comply with the conditions mentioned above when reporting the observed vu
 - Offer you, as the first reporter of a vulnerability, a small token of appreciation for your help. Further rewarding depends on how serious the problem is and on the quality of the report.
 Publication
 It is our goal to solve all vulnerabilities in the IT-systems as soon as possible. In some cases, it may take some time to come to a solid solution. If you wish to publish about the reported vulnerability, you can do so with our consent and after we have solved the problem.
+
+[END OF FILE]

@@ -15,3 +15,5 @@ Dat jouw naam niet wordt vermeld als diegene die de bevindingen heeft ontdekt, t
 Ahold Delhaize zal je zo spoedig mogelijk een ontvangstbevestiging sturen.
 Ahold Delhaize looft een beloning uit voor jouw hulp. Afhankelijk van de ernst van jouw bevindingen en de kwaliteit van jouw melding kan de beloning variëren van een T-shirt, een meet & greet met het IT security team tot een maximum van € 300 aan cadeaubonnen. Het moet in ieder geval gaan om een ernstige constatering, die voor ons onbekend is.
 Ahold Delhaize wil diegenen bedanken die contact hebben opgenomen via het Responsible Disclosure kanaal en aanzienlijk hebben bijgedragen aan de beveiliging van onze systemen en platforms, door hen op te nemen in de Wall of Fame van Ahold Delhaize.
+
+[END OF FILE]

@@ -35,3 +35,5 @@ possibly mention your name as the person responsible for discovering the problem
  
  
 This Responsible Disclosure is based on an example written by Floor Terra.                  
+
+[END OF FILE]

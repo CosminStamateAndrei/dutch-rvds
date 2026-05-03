@@ -23,3 +23,5 @@ Meldingen van het volgende worden niet in behandeling genomen:
 - De mogelijkheid tot cross-site scripting op een statische website of op een website waarop geen gevoelige (gebruikers)informatie wordt verwerkt.
 - De afwezigheid van HTTP security headers zoals gebruikt door onder andere Cross-Origin Resource Sharing (CORS), tenzij deze afwezigheid aantoonbaar tot een beveiligingsprobleem leidt.
 DNB is hier reeds van op de hoogte.
+
+[END OF FILE]

@@ -20,3 +20,5 @@ Wat doet de provincie als zij kwetsbaarheden bij anderen constateert?
 - De provincie brengt geen beveiligingslekken in software of systemen van derden in de publiciteit.
 - Door de provincie geconstateerde zwakke plekken meldt zij zo spoedig mogelijk aan de partij die verantwoordelijk is voor de hosting en/of het beheer van de systemen en software.
 - Door de provincie geconstateerde beveiligingslekken of -problemen worden, als de ernst van het geconstateerde dat rechtvaardigt, gemeld bij het Nationaal Cyber Security Center van de Nederlandse overheid.
+
+[END OF FILE]

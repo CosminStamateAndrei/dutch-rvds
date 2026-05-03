@@ -22,3 +22,5 @@ Wat mag je als melder verwachten
 - De gemeente lost het gemelde beveiligingsprobleem zo snel mogelijk op.
 - Een ontdekte kwetsbaarheid mag pas worden gepubliceerd als de aanmelder en gemeente Tilburg hierover overeenstemming hebben.
 - Als blijk van waardering voor het melden van een kwetsbaarheid, ontvangt de melder een typisch Tilburgs presentje.
+
+[END OF FILE]

@@ -88,3 +88,4 @@ wenst, uw naam vermelden als de ontdekker van de kwetsbaarheid.
 • Wij streven er naar om alle problemen zo snel mogelijk op te lossen en alle 
 betrokken partijen op de hoogte te houden.  
  
+[END OF FILE]

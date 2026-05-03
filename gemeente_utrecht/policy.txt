@@ -23,3 +23,5 @@ Wat u mag verwachten:
 - Wij nemen zo snel mogelijk maatregelen op het door u gemelde beveiligingsprobleem. Daarbij streven we ernaar om u goed op de hoogte te houden van de voortgang en nooit langer dan 90 dagen te doen over het nemen van maatregelen. Wij zijn daarbij vaak wel mede afhankelijk van toeleveranciers.
 - In onderling overleg kan worden bepaald of en op welke wijze over het probleem wordt gepubliceerd, nadat het is opgelost.
 - Wij belonen jou als dank voor je hulp met een passende beloning voor elke melding van een bij ons nog onbekend beveiligingsprobleem op onze systemen. De aard en grootte van de beloning bepalen wij aan de hand van de ernst van het lek en de kwaliteit van de melding.
+
+[END OF FILE]

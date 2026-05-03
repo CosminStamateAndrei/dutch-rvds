@@ -29,3 +29,5 @@ Behandeling van u en de melding
 - In overleg kan bepaald worden op welke wijze de kwetsbaarheid gepubliceerd kan worden. Dit gebeurt alleen zodra het probleem is opgelost.
 Beloning
 - Wij kunnen u een beloning bieden als dank voor de hulp. Afhankelijk van de ernst van het beveiligingsprobleem en de kwaliteit van de melding, kan die beloning wisselen van een eenvoudig ‘dankjewel’ tot een bedrag van maximaal €300. Het moet hierbij wel gaan om een nog onbekend en serieus beveiligingsprobleem.
+
+[END OF FILE]

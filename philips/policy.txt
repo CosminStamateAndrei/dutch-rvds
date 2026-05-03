@@ -45,3 +45,5 @@ Important
         f) Repeatedly gaining access to the system or sharing access with others.
         g) Using brute force attacks to gain access to the system. This is not a vulnerability in the strict sense, but rather repeatedly trying out passwords.
 9. Philips will provide full credit to researchers who make a vulnerability report or perform testing, in publicly released patch or security fix release information, if requested.
+
+[END OF FILE]

@@ -51,3 +51,5 @@ Utrecht University does not reward trivial vulnerabilities or bugs that cannot b
 This out of scope list has last been updated on 02-01-2023.
 Hall of Fame
 We want to thank everybody who reported a vulnerability responsibly. The first person who submits a valid report to responsible.disclosure@uu.nl is listed in the Hall of Fame.
+
+[END OF FILE]

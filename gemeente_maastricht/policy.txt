@@ -22,3 +22,5 @@ What you can expect
 - We will send you an automated acknowledgement of receipt within 1 working day.
 - We respond to disclosures within 5 working days, with an assessment, or preliminary assessment, of the disclosure and, if appropriate, the date by which we expect to resolve the issue.
 - We may agree with you whether, and when, the problem will be notified to the public, once it has been resolved.
+
+[END OF FILE]

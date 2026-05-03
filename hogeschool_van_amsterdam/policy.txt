@@ -20,3 +20,5 @@ Wat wij beloven
 - We streven naar het zo snel mogelijk oplossen van de gerapporteerde problemen. Wij worden graag betrokken bij een eventuele publicatie over het probleem nadat het is opgelost.
 CERT-HvA
 Wil je een kwetsbaarheid melden buiten kantooruren? Neem dan contact op met CERT-HvA via T: 020 - 525 33 22 of stuur een e-mail naar [email protected]. Ons Computer Emergency Response Team (CERT) staat klaar om urgente beveiligingskwesties snel op te pakken en de veiligheid van onze systemen te waarborgen.
+
+[END OF FILE]

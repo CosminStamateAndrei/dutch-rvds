@@ -44,3 +44,5 @@ We can give you a reward for your research, but we are not obliged to do so. The
 the care of your investigation
 the quality of the report
 the severity of the weak spot
+
+[END OF FILE]

@@ -55,3 +55,5 @@ company also keeps your data confidential.
 9. Laws and Regulations
 Always take applicable laws and regulations into account, because you could still get in
 trouble with the law, even if we don’t report you to the authorities.
+
+[END OF FILE]

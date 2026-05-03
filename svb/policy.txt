@@ -48,3 +48,5 @@ We would like you to report any vulnerabilities you discover to us. You may then
 - the website concerned: is it a static information website or an online SVB website?
 - the quality of your report
 If your report is crucial to us maintaining the trust of our clients, the reward will be higher. We will not pay a reward if there is evidence of misuse.
+
+[END OF FILE]

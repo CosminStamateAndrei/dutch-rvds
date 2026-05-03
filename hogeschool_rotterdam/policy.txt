@@ -46,3 +46,5 @@ Hogeschool Rotterdam geeft geen beloning voor triviale kwetsbaarheden of bugs di
 Ons beleid valt onder een Creative Commons Naamsvermelding 3.0-licentie. Het beleid is gebaseerd op het beleid van SURF en het voorbeeldbeleid van Floor Terra.
 Dienstbeschrijving (RFC 2350)
 RFC 2350 is een internationale standaard voor Computer Security Incident Response Teams. Deze standaard beschrijft hoe en waarvoor CERT-HR kan worden benaderd in het geval van incidenten.
+
+[END OF FILE]

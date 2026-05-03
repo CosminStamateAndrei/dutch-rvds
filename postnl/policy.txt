@@ -15,3 +15,5 @@ En voor wat hoort wat, daarom beloven wij dat:
 - Wij jouw naam, bij medim risk- en high risk-bevindingen, op onze Hall of Fame zullen vermelden. Uiteraard alleen met jouw toestemming (wanneer je de eerste bent die deze kwetsbaarheid meldt en we een aanpassing hebben gedaan n.a.v. jouw melding)
 - Als het vinden van de kwetsbaarheid in onze systemen een gevolg is van een mogelijk strafbaar feit of onrechtmatig handelen, wij geen juridische maatregelen tegen je zullen treffen als je je aan onze voorwaarden met betrekking tot onze 'Responsible Disclosure' hebt gehouden.
 Wij streven ernaar om alle meldingen zo snel mogelijk op te lossen. Is het zo dat je na de oplossing van het probleem bekendheid zoekt of hierover wilt publiceren, dan verzoeken wij je de publicatie met ons af te stemmen en ons voorafgaand te informeren.
+
+[END OF FILE]

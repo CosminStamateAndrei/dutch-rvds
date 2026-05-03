@@ -29,3 +29,4 @@ You can expect the following from us:
 - By mutual agreement, RDW can, if you wish, mention your name as the discoverer of the reported vulnerability.
 - As a thank you for your help, RDW offers a fun reward for reporting a serious and previously unknown RDW security issue. The reward will never be in monetary form.
 
+[END OF FILE]

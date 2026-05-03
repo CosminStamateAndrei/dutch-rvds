@@ -30,3 +30,5 @@ What we promise
 - As a token of appreciation we offer a gift voucher for any notification of a previously unknown security problem. The amount depends on the seriousness of the problem and the quality of the notification.
 - We strive to solve all problems as quickly as possible. We would like to play an active role in any publication on the problem after it has been solved.
 - If you have followed the instructions above, we will not take any legal action against you in regard to the report.
+
+[END OF FILE]

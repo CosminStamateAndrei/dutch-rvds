@@ -49,3 +49,5 @@ The following is prohibited on or via vulnerable NPO systems:
 • Practice social engineering techniques.
 What can you expect from the NPO?
 How do I responsible handle with a finding?
+
+[END OF FILE]

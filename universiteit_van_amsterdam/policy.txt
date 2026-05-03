@@ -18,3 +18,5 @@ What we promise
 - The UvA offers a reward as a token of gratitude for the help. Depending on the severity of the security issue and the quality of the report, the reward may vary from a small token of appreciation to gift cards. However, it must be a serious security issue that is unknown to the UvA.
 - We aim to fix reported problems as soon as possible. We are happy to be involved in any publication about the problem after it is resolved.
 In our Hall of Fame, we would like to thank everyone who has shared a vulnerability.
+
+[END OF FILE]

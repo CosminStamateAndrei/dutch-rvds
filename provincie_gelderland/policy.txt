@@ -15,3 +15,5 @@ Als u een zwakke plek ontdekt, vermijd dan onderstaande handelingen:- plaatsen v
 - gebruikmaken van het zogeheten ‘bruteforcen’ van toegang tot systemen
 - gebruikmaken van denial-of-service of social engineering
 Heeft u nog vragen? Stuur dan een mail naar: security@gelderland.nl
+
+[END OF FILE]

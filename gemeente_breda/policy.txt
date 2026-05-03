@@ -23,3 +23,5 @@ Na de melding
 - Je wordt op de hoogte gehouden van de voortgang van het oplossen van de kwetsbaarheid.
 Opgeloste kwetsbaarheid publiceren
 Gemeente Breda is graag vooraf betrokken bij het maken van een publicatie over de opgeloste kwetsbaarheid.
+
+[END OF FILE]

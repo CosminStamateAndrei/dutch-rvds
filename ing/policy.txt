@@ -85,3 +85,5 @@ Vulnerabilities discovered by ING employee or former ING employees will be exclu
 A reward will only be awarded to the first reporter of the vulnerability.
 Multiple reports of the same vulnerability with minimal differences will be treated as one report (only one report will be rewarded).
 In the event you qualify for a reward, we will need your personal data to process the payment.
+
+[END OF FILE]

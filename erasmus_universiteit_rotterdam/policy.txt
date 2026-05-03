@@ -26,3 +26,5 @@ Wat wordt er niet gezien als kwetsbaarheid:
 - xmlrpc.php accessibility
 - Clickjacking
 De Erasmus Universiteit Rotterdam biedt ook internettoegang, subdomeinen en hosting facilities voor studenten, verenigingen en incubator start up companies. Hoewel deze sites zich in het universiteitsnetwerk bevinden, staan zij niet onder (volledige) controle van de universiteit. Responsible disclosure meldingen over deze sites worden geaccepteerd en de rapportages worden doorgestuurd naar de verantwoordelijke personen, maar daarna gesloten door de universiteit. Deze rapportages leveren geen plek in de Hall of Fame op, en er wordt geen voortgangsrapportage geleverd.
+
+[END OF FILE]

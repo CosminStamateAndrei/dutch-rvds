@@ -27,3 +27,5 @@ Voorbeelden van kwetsbaarheden die niet gemeld hoeven te worden:
 - Het melden van verouderde versies van software zonder proof of concept of werkende exploit.
 Meldingen die als beg bounty worden beschouwd, worden niet verwerkt of beantwoord.
 Wij streven ernaar om alle problemen zo snel mogelijk op te lossen en alle betrokken partijen op de hoogte te houden. Wij worden graag betrokken bij een eventuele publicatie over de zwakheid nadat deze is opgelost.
+
+[END OF FILE]

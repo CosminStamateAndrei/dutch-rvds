@@ -30,3 +30,5 @@ De regeling is niet bedoeld voor:
 - Het rapporteren van mogelijk valse of zogenaamde phishing e-mails;
 - Het rapporteren van virussen en/of malware;
 - Het melden van klachten.
+
+[END OF FILE]

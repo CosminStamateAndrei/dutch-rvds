@@ -21,3 +21,5 @@ We do not give a reward when:
 - we were already aware of the vulnerability
 - you live in a country on an international sanctions list
 - you have not acted in full compliance with this policy
+
+[END OF FILE]

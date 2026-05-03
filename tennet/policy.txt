@@ -29,3 +29,5 @@ We wil:
 We strive to fix our problems as soon as possible.
 We want to be included in any publication concerning this vulnerability.
 Text inspired by: http://responsibledisclosure.nl
+
+[END OF FILE]

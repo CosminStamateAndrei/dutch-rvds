@@ -22,3 +22,5 @@ What you can expect from us
 - In our publication about the vulnerability that you have reported, we will include your name (alias or handle) as the notifier of the vulnerability, if you wish;
 - We will resolve the vulnerability or vulnerabilities as quickly as possible and keep all relevant parties informed.
 This is version 1.1, published on November 3, 2020, of our policy on Responsible Disclosure, the first version of which was published on January 18, 2019. Our policy comes under a Creative Commons Attribution 4.0 license. The policy is based on the sample policy by Floor Terra. Any updates to this document will also be published on this site.
+
+[END OF FILE]

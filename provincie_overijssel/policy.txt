@@ -29,3 +29,5 @@ We will send you an acknowledgment of receipt within 2 working days.
 We will respond to a report within 1 week with an (initial) assessment of the report and possibly an expected date for a solution.
 We will resolve the security issue you reported as soon as possible. We strive to keep you well informed of progress and never do more than 90 days to solve the problem. We are often partly dependent on suppliers.
 It can be determined by mutual agreement whether and how the problem will be published after it has been resolved.
+
+[END OF FILE]

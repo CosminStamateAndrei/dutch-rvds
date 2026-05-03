@@ -37,3 +37,5 @@ We strive to resolve any vulnerability as soon as possible. Once the problem has
 Met dank aan Floor Terra voor zijn voorbeeldtekst op http://responsibledisclosure.nl/
 Publicatiedatum: 9 oktober 2020
 Laatste aanpassing: 14 augustus 2024
+
+[END OF FILE]

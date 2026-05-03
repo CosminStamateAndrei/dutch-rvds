@@ -33,3 +33,5 @@ Also, reports considered a beg bounty will not be processed nor responded to.
 It is impossible to list every domain or host that is out of scope as these changes on a near daily basis. If the host is in the student.utwente.nl domain, it can safely be considered belonging to a student and, therefore, is out of scope of this policy.
 Outbound CVD policy
 Did you discover a vulnerability during your (cybersecurity) research that does not involve a system at the University this policy does not apply. In that case, you should follow the Coordinated Vulnerability Policy for Research.
+
+[END OF FILE]

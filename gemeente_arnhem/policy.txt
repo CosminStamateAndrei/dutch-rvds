@@ -49,3 +49,5 @@ What you can expect from us:
 Vulnerabilities in third-party IT systems
 If you have found a weakness in a government system or in a system with a vital function, you can contact the National Cyber Security Center (NCSC). For systems from other owners / managers and / or suppliers you must first approach those organizations yourself. If the organization does not respond or does not respond well, you can inform the NCSC. The NCSC will take on a role as an intermediary in order to achieve a joint result.
 For more information, please visit: https://www.ncsc.nl/actueel/leidraad-coordinated-vulnerability-disclosure.html
+
+[END OF FILE]

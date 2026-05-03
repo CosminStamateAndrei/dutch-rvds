@@ -26,3 +26,5 @@ What can you expect from us?
 This text was compiled as a supplement to National Cyber Security Centre (NCSC) Guideline.
 More information
 Read more about the licence at Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+
+[END OF FILE]

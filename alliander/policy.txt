@@ -60,3 +60,5 @@ The following are issues not considered security vulnerabilities:
 - Session restriction and session timeout.
 - Formula/CSV injection.
 At Alliander, we prioritize the security of our systems. Despite our efforts to secure our systems, vulnerabilities may still exist. If you discover a vulnerability in any of our systems, we appreciate you informing us so that we can take prompt measures. We are eager to collaborate with you in enhancing the security of our data and systems. Reporting such vulnerabilities is referred to as Coordinated Vulnerability Disclosure (CVD).
+
+[END OF FILE]

@@ -127,3 +127,5 @@ Terms of the rewards program
 - When the report is considered “valid”, the name of the reporter can be included in the Coordinated Vulnerability Disclosure Hall of Fame. When you make a report, you indicate on the Coordinated Vulnerability Disclosure form whether you wish to be included in our Hall of Fame. We reserve the right to limit the information in the list. The ranking in this “Hall of Fame” is determined based on the risk and the impact for Constituent of the reported vulnerability. There can be no discussion about the order of this ranking.
 EN Form:
 https://www.cert-wm.nl/form/coordinated-vulnerability-disclosure
+
+[END OF FILE]

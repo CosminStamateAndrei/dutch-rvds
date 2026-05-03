@@ -22,3 +22,5 @@ CBS behandelt deze melding als volgt:
 - CBS houdt u als melder op de hoogte van de voortgang van het oplossen van het probleem.
 - CBS lost het beveiligingsprobleem zo snel mogelijk op, maar uiterlijk binnen 60 dagen. CBS zal samen met u bepalen of en hoe over het gemelde probleem wordt bericht. Berichtgeving vindt pas plaats nadat het probleem is opgelost.
 CBS behandelt uw melding vertrouwelijk. CBS deelt persoonlijke gegevens niet met derden zonder uw toestemming. Behalve als dit wettelijk of door een rechterlijke uitspraak verplicht is. CBS kan, als u dat wilt, uw naam vermelden als de ontdekker van de gemelde kwetsbaarheid.
+
+[END OF FILE]

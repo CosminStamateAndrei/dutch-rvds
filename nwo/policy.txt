@@ -36,3 +36,5 @@ The following vulnerabilities are outside the scope of this responsible disclosu
 We aim to resolve all issues as quickly as possible, keep all parties informed, and we are keen to be involved in any publication about the issue once is has been resolved.
 Report vulnerabilities
 Please report a vulnerability in one of our systems as soon as possible by sending an email to security@nwo.nl. Include sufficient information to allow us to reproduce and investigate the problem.
+
+[END OF FILE]

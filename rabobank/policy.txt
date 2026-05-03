@@ -140,3 +140,5 @@ Any information you receive or collect about Rabobank or any Rabobank user throu
 
 Aberrant international regulation 
 We advise you to take into account that regulations with regard to Responsible Disclosure differ per country. In case you are living abroad and have found vulnerabilities in one of our Rabobank pages, please realize that the Responsible Disclosure policy is not applicable in every country. This implies that despite you acted in accordance with Rabobank's Responsible Disclosure policy, it might still be that you will be prosecuted by justice, despite the fact that we do not report the vulnerability to justice.
+
+[END OF FILE]

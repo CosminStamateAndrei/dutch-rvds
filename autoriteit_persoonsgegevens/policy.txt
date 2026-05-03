@@ -34,3 +34,5 @@ Dit gebeurt er nadat u uw melding heeft ingediend:
 - Als het nodig is, vraagt een medewerker van de AP meer informatie bij u op;
 - De AP streeft ernaar om het beveiligingsprobleem binnen 60 dagen op te lossen. Voor het oplossen van het probleem is de AP vaak afhankelijk van (toe)leveranciers;
 - Als het probleem is opgelost, krijg u daarover bericht als u dat wilt.
+
+[END OF FILE]

@@ -151,3 +151,5 @@ toestemming nodig is accepteren of weigeren. U kunt ook cookies
 instellen per doel volgens uw voorkeuren door te klikken op "Cookies
 instellen". Uw keuze wordt 6 maanden bewaard.
 Toegang tot ons Cookie beleid.
+
+[END OF FILE]

@@ -10,3 +10,5 @@ To prevent a potential vulnerability being abused by others, we ask you use the 
 - Do not share knowledge about the vulnerability with others, until the leak has been repaired.
 - Do not abuse the vulnerability. If this happens we may have to pursue legal action.
 Once a vulnerability is reported, we will contact you within 2 working days to make arrangements for a reasonable period of recovery and a possible coordinated publication of the vulnerability.
+
+[END OF FILE]

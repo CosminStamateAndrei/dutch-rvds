@@ -26,3 +26,5 @@ Wat wij beloven
 - Wij kunnen u een beloning bieden als dank voor de hulp. Afhankelijk van de ernst van het beveiligingsprobleem en de kwaliteit van de melding, kan die beloning variëren van een eenvoudig ‘dankjewel’, tot een sticker of een T-Shirt. De melder krijgt voor een valide melding in elk geval een vermelding in de Hall of Fame.
 Wij horen het ook graag als u een zwakke plek heeft gevonden in een systeem van overige gemeenten. Voor systemen van andere eigenaren/beheerders en of leveranciers dient u in eerste instantie de organisatie zelf te benaderen. Indien de organisatie niet of niet goed reageert, kunt u de IBD op de hoogte stellen. Hierbij zullen wij een rol als intermediair op ons nemen om gezamenlijk tot een resultaat te komen.
 Dit beleid is mede geïnspireerd op en deels overgenomen van het voorbeeld op responsibledisclosure.nl.
+
+[END OF FILE]

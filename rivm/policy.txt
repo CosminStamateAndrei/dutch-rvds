@@ -11,3 +11,5 @@ Please do not abuse any security issues by taking disproportionate action*.
 - Repeatedly accessing the system or sharing access with others.
 - Using ‘brute force’ attacks to try to gain access to systems; repeatedly trying passwords is not a valid method for exposing vulnerabilities.
 (Source: Guidelines for designing a practice of Responsible Disclosure, National Cyber Security Centre)
+
+[END OF FILE]

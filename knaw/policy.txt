@@ -85,3 +85,5 @@ For example: known weaknesses in ARP, HL7, or other standard protocols
 Issues that have been reported before
 Issues that KNAW classifies as out of scope, despite not being listed above
 Our policy is subject to a Creative Commons Attribution 3.0 licence. The policy is based on the example policy of Floor Terra (responsibledisclosure.nl), the SURF Model Responsible Disclosure and on examples from the university world (University of Twente, VU Amsterdam, Fontys).
+
+[END OF FILE]

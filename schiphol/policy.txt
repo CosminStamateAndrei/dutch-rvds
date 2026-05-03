@@ -46,3 +46,5 @@ will not be published if Schiphol chooses not to (immediately) solve the problem
 - the reporter has the right to correct, alter or remove their personal details;
 - in the event of a dispute on (the nature of) the notification, Schiphol Group reserves the right to remove
 the notification from the Hall of Fame or not to place it in the first place.
+
+[END OF FILE]

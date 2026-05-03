@@ -7,4 +7,4 @@ Some of the pdfs could not be retrieved, but the text of the policies are contai
 
 To be verified again! 
 
-Calibration set not included yet!
+Calibration set not included yet.

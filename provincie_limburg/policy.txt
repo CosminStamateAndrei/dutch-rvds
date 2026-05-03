@@ -65,3 +65,5 @@ software.
 software brengen wij de leverancier hiervan op de hoogte. 
 • Door ons aangetroffen lekken of kwetsbaarheden worden tegelijkertijd ook bij het 
 Nationaal Cyber Security Center van de Nederlandse overheid gemeld. 
+
+[END OF FILE]

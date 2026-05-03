@@ -123,4 +123,5 @@ investigation, the quality of the report and the seriousness and complexity of t
 TU/e does not provide a monetary bounty. We can, however, with your formal approval, add your name to 
 our Hall of Fame with a link to your online profile. Please note that this only applies to the first person 
 reporting a specific unique vulnerability. You can find our Hall of Fame here. 
- 
+
+[END OF FILE]
